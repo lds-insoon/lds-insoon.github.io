@@ -34,7 +34,7 @@ I'm an Associate Professor of Electrical and Computer Engineering at Seoul Natio
 Control of fab lifters via deep reinforcement learning: A semi-MDP approach</a><br>
 Giho Kim, Jaeuk Shin, Gihun Kim, Joonrak Kim, and
 Insoon Yang <br>
-<I><b>IEEE Transactions on Automation Science and Engineering</b></I>,  accepted.<br></li>
+<I><b>IEEE Transactions on Automation Science and Engineering</b></I>, 21(4):5136-5148, 2024.<br></li>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/10509008" target="_blank">
 Wasserstein distributionally robust control of partially observable
@@ -54,18 +54,18 @@ Insoon Yang <br>
 Multiparametric analysis of multi-task Markov decision processes:
 Structure, invariance, and reducibility</a><br>
 Jaeuk Shin, and Insoon Yang <br>
-<I>IEEE Control Systems Letters</I>, 8:928-933, 2024. <strong>(Selected for presentation at CDC 24)</strong><br></li>
+<I><b>IEEE Control Systems Letters</b></I>, 8:928-933, 2024. <strong>(Selected for presentation at CDC 24)</strong><br></li>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/10534845" target="_blank">
 Wasserstein distributionally robust regret minimization</a><br>
 Youngchae Cho, and Insoon Yang <br>
-<I>IEEE Control Systems Letters</I>, 8:820-825, 2024. <strong>(Selected for presentation at CDC 24)</strong><br></li>
+<I><b>IEEE Control Systems Letters</b></I>, 8:820-825, 2024. <strong>(Selected for presentation at CDC 24)</strong><br></li>
 
 <li> <a href ="https://www.sciencedirect.com/science/article/abs/pii/S0005109824000499" target="_blank">
 Anderson acceleration for partially observable Markov decision
 processes: A maximum entropy approach</a><br>
 Mingyu Park, Jaeuk Shin, and Insoon Yang<br>
-<I>Automatica</I>,  163:111557, 2024.<br></li>
+<I><b>Automatica</b></I>,  163:111557, 2024.<br></li>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/10153787" target="_blank">
 Distributionally robust differential dynamic programming with Wasserstein distance</a><br>
