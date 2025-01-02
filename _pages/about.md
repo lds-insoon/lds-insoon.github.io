@@ -499,9 +499,6 @@ Tien-Cuong Bui, Joonyoung Kim, Taewoo Kang, Donghyeon Lee, Junyoung Choi, Insoon
 </OL>
 
 
-
-</UL>
-
 <hr>
 <dt> <b>Teaching</b><br>
 <UL>
