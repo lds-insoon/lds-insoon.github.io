@@ -31,7 +31,6 @@ redirect_from:
 <li><bf> Optimization</bf><br> 
 </li>
 </UL>
-<br>
 <hr>
 <dt> <b>Awards and Honors</b><br>
 <UL>
