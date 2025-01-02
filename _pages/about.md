@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br>
 I'm an Associate Professor of Electrical and Computer Engineering at Seoul National University. I completed my Ph.D. in EECS at UC Berkeley in 2015 (advisor: Claire Tomlin). I was an Assistant Professor of Electrical Engineering at University of Southern California from 2016 to 2018, and a Postdoctoral Associate with the Laboratory for Information and Decision Systems at Massachusetts Institute of Technology from
 2015 to 2016. I am interested in the interplay between learning and decision systems.
 <hr>
@@ -27,7 +26,6 @@ I'm an Associate Professor of Electrical and Computer Engineering at Seoul Natio
 <dt> <b>Publications</b><br>
 <UL>
 <dt> <b>Journal Publications</b><br>
-<br>
 <OL>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/10239211" target="_blank">
@@ -35,7 +33,6 @@ Control of fab lifters via deep reinforcement learning: A semi-MDP approach</a><
 Giho Kim, Jaeuk Shin, Gihun Kim, Joonrak Kim, and
 Insoon Yang <br>
 <I>IEEE Transactions on Automation Science and Engineering</I>,  accepted.<br></li>
-<br>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/10509008" target="_blank">
 Wasserstein distributionally robust control of partially observable
