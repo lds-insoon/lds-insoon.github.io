@@ -41,14 +41,14 @@ Wasserstein distributionally robust control of partially observable
 linear stochastic systems</a><br>
 Astghik Hakobyan, and
 Insoon Yang <br>
-<I>IEEE Transactions on Automatic Control</I>,  69(9):6121-6136, 2024.<br></li>
+<I><b>IEEE Transactions on Automatic Control</b></I>,  69(9):6121-6136, 2024.<br></li>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/10415511" target="_blank">
 Risk-aware Wasserstein distributionally robust control of vessels in natural waterways</a><br>
 Juan Moreno Nadales, Astghik Hakobyan, <a href="https://grupo.us.es/gepoc/en/member/?id=3" target="_blank">David Munoz de la Pena</a>,
 <a href="https://grupo.us.es/gepoc/en/member/?id=2" target="_blank">Daniel Limon</a>, and
 Insoon Yang <br>
-<I>IEEE Transactions on Control Systems Technology</I>,  32(4):1471-1478, 2024.<br></li>
+<I><b>IEEE Transactions on Control Systems Technology</b></I>,  32(4):1471-1478, 2024.<br></li>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/10540067" target="_blank">
 Multiparametric analysis of multi-task Markov decision processes:
