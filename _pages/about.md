@@ -394,7 +394,7 @@ Insoon Yang,  Sabine Becker-Weimann,  <a href="http://www2.lbl.gov/LBL-Programs/
 <br>
 <OL>
 <li> 
-<a href ="https://link.springer.com/chapter/10.1007/978-3-030-55187-2_31" target="_blank">STAR: Spatio-temporal prediction of air quality using a multimodal approach</a>   <br>
+<a href ="https://link.springer.com/chapter/10.1007/978-3-030-55187-2_31" target="_blank"><b>STAR: Spatio-temporal prediction of air quality using a multimodal approach</b></a>   <br>
 Tien-Cuong Bui, Joonyoung Kim, Taewoo Kang, Donghyeon Lee, Junyoung Choi, Insoon Yang, <a href="http://milab.snu.ac.kr/kjung/" target="_blank">Kyomin Jung</a>, and <a href="http://kdb.snu.ac.kr/chask/" target="_blank">Sang Kyun Cha</a>   <br>
 <I>In: Intelligent Systems and Applications, vol. 1251, pp. 389-406, Springer, 2021.</I> <br></li>
 </OL>
