@@ -71,7 +71,7 @@ Mingyu Park, Jaeuk Shin, and Insoon Yang<br>
 <li> <a href ="https://ieeexplore.ieee.org/document/10153787" target="_blank">
 Distributionally robust differential dynamic programming with Wasserstein distance</a><br>
 Astghik Hakobyan, and Insoon Yang <br>
-<I><b>IEEE Control Systems Letters</b></I>, 7:2329-2334, 2023.<br>
+<I><b>IEEE Control Systems Letters</b></I>, 7:2329-2334, 2023. 
 <strong>(Selected for presentation at CDC 23)</strong><br></li>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/9760123" target="_blank">
