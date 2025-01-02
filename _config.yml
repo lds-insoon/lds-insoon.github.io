@@ -12,7 +12,7 @@ title                    : "Insoon Yang / CORE Lab"
 title_separator          : "-"
 name                     : &name "Insoon Yang"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://lds-insoon.github.io/insoonyang.github.io/"
+url                      : https://lds-insoon.github.io/insoonyang.github.io/ # the base hostname & protocol for your site e.g. "https://lds-insoon.github.io/insoonyang.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/lds-insoon/insoonyang.github.io"
 
