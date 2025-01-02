@@ -427,61 +427,61 @@ Submodularity of energy storage placement in power networks</a><br>
 <strong>(Best Student Paper Award finalist)</strong><br>
 <br>
 
-<li> <a href ="http://ieeexplore.ieee.org/abstract/document/7525572/" target="_blank">
+<li> <a href ="http://ieeexplore.ieee.org/abstract/document/7525572/" target="_blank"></li>
 Reducing electricity price volatility via stochastic storage control</a> <br>
 Insoon Yang,  and <a href="https://asu.mit.edu/" target="_blank">Asuman E. Ozdaglar</a> <br>
 <I>American Control Conference (ACC)</I>, 2016. <br>
 <br>
 
-<li> <a href ="http://ieeexplore.ieee.org/document/7171797/?arnumber=7171797" target="_blank">
+<li> <a href ="http://ieeexplore.ieee.org/document/7171797/?arnumber=7171797" target="_blank"></li>
 Indirect load control for financial risk management in electricity markets via risk-limiting dynamic contracts</a> <br>
 Insoon Yang,  <a href="https://erg.berkeley.edu/people/callaway-duncan/" target="_blank">Duncan S. Callaway</a>, and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a><br>
 <I>American Control Conference (ACC)</I>, 2015. <br>
 <br>
 
-<li> <a href ="http://ieeexplore.ieee.org/document/7040149/?arnumber=7040149" target="_blank">
+<li> <a href ="http://ieeexplore.ieee.org/document/7040149/?arnumber=7040149" target="_blank"></li>
 Utility learning model predictive control for personal electric loads</a> <br>
 Insoon Yang,  <a href="http://www.idsc.ethz.ch/the-institute/people/person-detail.html?persid=142737" target="_blank">Melanie N. Zeilinger</a>,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a> <br>
 <I>IEEE Conference on Decision and Control (CDC)</I>, 2014. <br>
 <br>
 
-<li> <a href ="http://ieeexplore.ieee.org/document/7028572/" target="_blank">
+<li> <a href ="http://ieeexplore.ieee.org/document/7028572/" target="_blank"></li>
 Direct load control for electricity market risk management via risk-limiting dynamic contracts</a> <br>
 Insoon Yang,  <a href="https://erg.berkeley.edu/people/callaway-duncan/" target="_blank">Duncan S. Callaway</a>,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a> <br>
 <I>Allerton Conference on Communication, Control, and Computing</I>, 2014.<br>
 <br>
 
-<li> <a href ="http://www.sciencedirect.com/science/article/pii/S1474667016427138/" target="_blank">
+<li> <a href ="http://www.sciencedirect.com/science/article/pii/S1474667016427138/" target="_blank"></li>
 Path integral formulation of stochastic optimal control with generalized costs</a> <br>
 Insoon Yang,  <a href="https://igppweb.ucsd.edu/~mmorzfeld/" target="_blank">Matthias Morzfeld</a>,  <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a>, and <a href="https://math.berkeley.edu/~chorin/" target="_blank">Alexandre J. Chorin</a> <br>
 <I>IFAC World Congress (WC)</I>, 2014. <br>
 <br>
 
-<li> <a href ="http://ieeexplore.ieee.org/document/6859294/" target="_blank">
+<li> <a href ="http://ieeexplore.ieee.org/document/6859294/" target="_blank"></li>
 Dynamic contracts with partial observations: application to indirect load control</a> <br>
 Insoon Yang,  <a href="https://erg.berkeley.edu/people/callaway-duncan/" target="_blank">Duncan S. Callaway</a>,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a><br>
 <I>American Control Conference (ACC)</I>, 2014.<br>
 <br>
 
-<li> <a href ="http://ieeexplore.ieee.org/document/6760081/" target="_blank">
+<li> <a href ="http://ieeexplore.ieee.org/document/6760081/" target="_blank"></li>
 Infinitesimal interconnection variation in nonlinear networked systems</a> <br>
 Insoon Yang,  <a href="http://faculty.washington.edu/sburden/" target="_blank">Samuel A. Burden</a>,  <a href="http://robotics.eecs.berkeley.edu/~sastry/" target="_blank">S. Shankar Sastry</a>,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a> <br>
 <I>IEEE Conference on Decision and Control (CDC)</I>, 2013. <br>
 <br>
 
-<li> <a href ="http://ieeexplore.ieee.org/document/6760022/" target="_blank">
+<li> <a href ="http://ieeexplore.ieee.org/document/6760022/" target="_blank"></li>
 Regularization-based identification for level set equations</a> <br>
 Insoon Yang,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a> <br>
 <I>IEEE Conference on Decision and Control (CDC)</I>, 2013. <br>
 <br>
 
-<li> <a href ="http://ieeexplore.ieee.org/document/6580338/" target="_blank">
+<li> <a href ="http://ieeexplore.ieee.org/document/6580338/" target="_blank"></li>
 Identification of surface tension in mean curvature flow</a> <br>
 Insoon Yang,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a> <br>
 <I>American Control Conference (ACC)</I>, 2013. <br>
 <br>
 
-<li> <a href ="http://dl.acm.org/citation.cfm?id=2461359" target="_blank">
+<li> <a href ="http://dl.acm.org/citation.cfm?id=2461359" target="_blank"></li>
 One-shot computation of reachable sets for differential games</a> <br>
 Insoon Yang,  Sabine Becker-Weimann,  <a href="http://www2.lbl.gov/LBL-Programs/lifesciences/BissellLab/main.html" target="_blank">Mina J. Bissell</a>,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a>
  <br>
@@ -495,7 +495,7 @@ Insoon Yang,  Sabine Becker-Weimann,  <a href="http://www2.lbl.gov/LBL-Programs/
 <li> 
 <a href ="https://link.springer.com/chapter/10.1007/978-3-030-55187-2_31" target="_blank">STAR: Spatio-temporal prediction of air quality using a multimodal approach</a>   <br>
 Tien-Cuong Bui, Joonyoung Kim, Taewoo Kang, Donghyeon Lee, Junyoung Choi, Insoon Yang, <a href="http://milab.snu.ac.kr/kjung/" target="_blank">Kyomin Jung</a>, and <a href="http://kdb.snu.ac.kr/chask/" target="_blank">Sang Kyun Cha</a>   <br>
-<I>In: Intelligent Systems and Applications, vol. 1251, pp. 389-406, Springer, 2021.</I> <br>
+<I>In: Intelligent Systems and Applications, vol. 1251, pp. 389-406, Springer, 2021.</I> <br></li>
 </OL>
 
 
@@ -505,15 +505,15 @@ Tien-Cuong Bui, Joonyoung Kim, Taewoo Kang, Donghyeon Lee, Junyoung Choi, Insoon
 <hr>
 <dt> <b>Teaching</b><br>
 <UL>
-<li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Stochastic Control and Reinforcement Learning</a>, Sp18, Sp20, Sp21, Sp22, Sp23 (SNU)
-<li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Optimization Theory and Applications</a>, Fa19, Fa20, Sp21, Sp22 (SNU)
-<li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Deep Reinforcement Learning</a>, Su19, Su20, Su21, Su22, Su23 (Samsung)
-<li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Advanced Control</a>, Fa20, Fa21, Fa22 (SNU)
-<li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Feedback Control Systems</a>, Fa19 (SNU)
-<li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Introduction to Robotics and Autonomous Systems</a>, Sp19 (SNU)
-<li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Optimal Control Theory</a>, Fa18 (SNU)
-<li> Linear Algebra for Engineering (EE510), Fa17 (USC)
-<li> Linear System Theory (EE585), Fa16 (USC)
+<li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Stochastic Control and Reinforcement Learning</a>, Sp18, Sp20, Sp21, Sp22, Sp23 (SNU)</li>
+<li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Optimization Theory and Applications</a>, Fa19, Fa20, Sp21, Sp22 (SNU)</li>
+<li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Deep Reinforcement Learning</a>, Su19, Su20, Su21, Su22, Su23 (Samsung)</li>
+<li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Advanced Control</a>, Fa20, Fa21, Fa22 (SNU)</li>
+<li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Feedback Control Systems</a>, Fa19 (SNU)</li>
+<li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Introduction to Robotics and Autonomous Systems</a>, Sp19 (SNU)</li>
+<li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Optimal Control Theory</a>, Fa18 (SNU)</li>
+<li> Linear Algebra for Engineering (EE510), Fa17 (USC)</li>
+<li> Linear System Theory (EE585), Fa16 (USC)</li>
 </UL>
 
 
