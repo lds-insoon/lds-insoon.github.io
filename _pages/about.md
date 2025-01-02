@@ -6,44 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<dt> <b>Brief Biography</b><br>
 <br>
-Insoon Yang is an Associate Professor of Electrical and Computer Engineering at Seoul National University. He received B.S. degrees in Mathematics and in Mechanical Engineering (summa cum laude) from Seoul National University in 2009; and an M.S. in EECS, an M.A. in Mathematics and a Ph.D. in EECS  from UC Berkeley in 2012, 2013 and 2015, respectively. 
-He was an Assistant Professor of Electrical  Engineering at University of Southern California  from 2016 to 2018, and a Postdoctoral Associate with the Laboratory for Information and Decision Systems at Massachusetts Institute of Technology  from
-2015 to 2016.
- His research interests are in stochastic control and optimization, and reinforcement learning, with applications in safe autonomy and risk management. He is a recipient of the 2015 Eli Jury Award and a finalist for the Best Student Paper Award at the 55th IEEE Conference on Decision and Control 2016. 
- <br> 
- <br> 
- He is 
- an associate editor for the <a href ="https://ieeecss.org/publication/open-journal-control-systems" target="_blank">IEEE Open Journal of Control Systems</a>, <a href ="https://ieeecss.org/publication/ieee-control-systems-letters" target="_blank">IEEE Control Systems Letters</a>, and IEEE CSS Conference Editorial Board, and a vice-chair of the IFAC Technical Committee on Stochastic Systems.
-<br> 
-<br> 
-Erd&ouml;s number: 3 (S. Shankar Sastry - B&eacutela Bollob&aacutes - Paul Erd&oumls)
-<hr>
-<dt> <b>Academic Appointments</b><br>
-<UL>
-<li> Associate Professor (<a href="http://ece.snu.ac.kr/en" target="_blank">ECE</a>), Seoul National University (SNU), 2020- <br></li>
-<li> Assistant Professor (<a href="http://ece.snu.ac.kr/en" target="_blank">ECE</a>), Seoul National University (SNU), 2018-2020 <br></li>
-<li>Assistant Professor (<a href="https://minghsiehece.usc.edu/" target="_blank">EE</a>), University of Southern California (USC), 2016-2018 <br></li>
-<li>Postdoctoral Associate (<a href="http://lids.mit.edu/" target="_blank">LIDS</a>), Massachusetts Institute of Technology (MIT), 2015-2016 <br></li>
-</UL>
-<hr>
-<dt> <b>Education</b><br>
-<UL>
-<li><bf> Ph.D. (<a href="http://eecs.berkeley.edu/" target="_blank">EECS</a>), UC Berkeley, 2015 (advisor: Prof. <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire Tomlin</a>)<br></bf></li>
-<li><bf> M.A. (<a href="http://math.berkeley.edu/" target="_blank">Math</a>), UC Berkeley, 2013 (advisor: Prof. <a href="https://math.berkeley.edu/~evans/" target="_blank">Lawrence Craig Evans</a>) <br></bf></li>
-<li><bf> M.S. (<a href="http://eecs.berkeley.edu/" target="_blank">EECS</a>), UC Berkeley, 2012 <br></bf></li>
-<li><bf> B.S. (<a href="http://www.math.snu.ac.kr/board/" target="_blank">Math</a> & <a href="http://me.snu.ac.kr/eng/default.asp" target="_blank">MAE</a>), Seoul National University, 2009 <br>
-</bf></li>
-</UL>
-<hr>
-<dt> <b>Areas of Research</b><br>
-<UL>
-<li><bf> Stochastic control and reinforcement learning</bf><br> </li>
-<li><bf> Safe autonomy and risk management</bf><br> </li>
-<li><bf> Optimization</bf><br> 
-</li>
-</UL>
+I'm an Associate Professor of Electrical and Computer Engineering at Seoul National University. I completed my Ph.D. in EECS at UC Berkeley in 2015 (advisor: Claire Tomlin). I was an Assistant Professor of Electrical Engineering at University of Southern California from 2016 to 2018, and a Postdoctoral Associate with the Laboratory for Information and Decision Systems at Massachusetts Institute of Technology from
+2015 to 2016. I am interested in the interplay between learning and decision systems.
 <hr>
 <dt> <b>Awards and Honors</b><br>
 <UL>
