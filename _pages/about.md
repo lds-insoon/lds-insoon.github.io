@@ -28,9 +28,9 @@ I'm an Associate Professor of Electrical and Computer Engineering at Seoul Natio
 <dt> <b>Publications</b><br>
 <UL>
 <dt> <b>Journal Publications</b><br>
+<font size=3> 
 <OL>
-<br>
-<font size=3>  
+<br> 
 <li> <a href ="https://ieeexplore.ieee.org/document/10239211" target="_blank">
 Control of fab lifters via deep reinforcement learning: A semi-MDP approach</a><br>
 Giho Kim, Jaeuk Shin, Gihun Kim, Joonrak Kim, and
@@ -202,12 +202,12 @@ Insoon Yang,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_b
 Micro ECM with ultrasonic vibrations using a semi-cylindrical tool</a><br>
 Insoon Yang,  Min Su Park,  and <a href="http://prema.snu.ac.kr/people/people1.php" target="_blank">Chong Nam Chu</a> <br>
 <I><b>International Journal of Precision Engineering and Manufacturing</b></I>, 10(2):5-10, 2009. </I><br></li>
-</font>
 </OL>
+</font>
 <br>
 <dt> <b>Conference Publications</b><br>
+<font size=3> 
 <br>
-
 <OL>
 <li> 
 <a href ="https://proceedings.mlr.press/v242/shin24a.html" target="_blank">On task-relevant loss functions in meta-reinforcement learning</a><br>
@@ -420,6 +420,7 @@ Insoon Yang,  Sabine Becker-Weimann,  <a href="http://www2.lbl.gov/LBL-Programs/
  <br>
 <I>ACM International Conference on Hybrid Systems: Computation and Control (HSCC)</I>, 2013. <br></li>
 </OL>
+</font>
 <br>
 
 <dt> <b>Book Chapters</b><br>
