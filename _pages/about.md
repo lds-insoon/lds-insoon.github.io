@@ -529,7 +529,7 @@ He was an Assistant Professor of Electrical  Engineering at University of Southe
 <br> 
 Erd&ouml;s number: 3 (S. Shankar Sastry - B&eacutela Bollob&aacutes - Paul Erd&oumls)
 <br> 
-</dl><p>
+<p>
 <HR>
 <dt>
 
