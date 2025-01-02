@@ -6,6 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<dt> <FONT SIZE=+2><b>Academic Appointments</b></font><br>
+<UL>
+<li><font size=+1><bf> Associate Professor (<a href="http://ece.snu.ac.kr/en" target="_blank">ECE</a>), Seoul National University (SNU), 2020- <br>
+<li><font size=+1><bf> Assistant Professor (<a href="http://ece.snu.ac.kr/en" target="_blank">ECE</a>), Seoul National University (SNU), 2018-2020 <br>
+<li><font size=+1><bf> Assistant Professor (<a href="https://minghsiehece.usc.edu/" target="_blank">EE</a>), University of Southern California (USC), 2016-2018 <br>
+<li><font size=+1><bf> Postdoctoral Associate (<a href="http://lids.mit.edu/" target="_blank">LIDS</a>), Massachusetts Institute of Technology (MIT), 2015-2016 <br>
+</UL>
+<hr>
 <hr>
 <dt> <FONT SIZE=+2><b>Areas of Research</b></font><br>
 <UL>
