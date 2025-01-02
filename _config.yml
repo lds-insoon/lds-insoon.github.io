@@ -12,9 +12,9 @@ title                    : "Insoon Yang / CORE Lab"
 title_separator          : "-"
 name                     : &name "Insoon Yang"
 description              : &description "personal description"
-url                      : https://lds-insoon.github.io/insoonyang.github.io/ # the base hostname & protocol for your site e.g. "https://lds-insoon.github.io/insoonyang.github.io/"
+url                      : https://lds-insoon.github.io/ # the base hostname & protocol for your site e.g. "https://lds-insoon.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/lds-insoon/insoonyang.github.io"
+repository               : "lds-insoon.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
