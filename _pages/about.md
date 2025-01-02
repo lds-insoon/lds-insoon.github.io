@@ -6,7 +6,29 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<hr>
+<dt> <FONT SIZE=+2><b>Areas of Research</b></font><br>
+<UL>
+<li><font size=+1><bf> Stochastic control and reinforcement learning</bf></font><br> 
+<li><font size=+1><bf> Safe autonomy and risk management</bf></font><br> 
+<li><font size=+1><bf> Optimization</bf></font><br> 
+</UL>
+<font size=-0.5>Acknowledgement: Supported by 
+Samsung Electronics DIT (2022-23),
+IITP RL (2022-26),
+IITP Competency-Aware ML (2022-26),
+SK Hynix AICC (2020-21),
+IITP Cloud Robot AI (2020-23),
+NRF Early Career (2020-24),
+Samsung Electronics DS (2018-23),
+NRF Basic Research Lab (2018-24),
+Sindoh (2018-2021),
+SNU Creative-Pioneering (2018-21),
+Seoul Digital Foundation (2018-19),
+NSF ECCS (2017-20), and
+NSF CNS (2017-19).
+</font><br>
+<hr>
 <b>Brief Biography</b><br>
 <br>
 Insoon Yang is an Associate Professor of Electrical and Computer Engineering at Seoul National University. He received B.S. degrees in Mathematics and in Mechanical Engineering (summa cum laude) from Seoul National University in 2009; and an M.S. in EECS, an M.A. in Mathematics and a Ph.D. in EECS  from UC Berkeley in 2012, 2013 and 2015, respectively. 
