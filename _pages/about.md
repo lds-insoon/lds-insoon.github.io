@@ -27,6 +27,7 @@ I'm an Associate Professor of Electrical and Computer Engineering at Seoul Natio
 <UL>
 <dt> <b>Journal Publications</b><br>
 <OL>
+<br>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/10239211" target="_blank">
 Control of fab lifters via deep reinforcement learning: A semi-MDP approach</a><br>
@@ -40,7 +41,6 @@ linear stochastic systems</a><br>
 Astghik Hakobyan, and
 Insoon Yang <br>
 <I>IEEE Transactions on Automatic Control</I>,  69(9):6121-6136, 2024.<br></li>
-<br>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/10415511" target="_blank">
 Risk-aware Wasserstein distributionally robust control of vessels in natural waterways</a><br>
@@ -48,15 +48,12 @@ Juan Moreno Nadales, Astghik Hakobyan, <a href="https://grupo.us.es/gepoc/en/mem
 <a href="https://grupo.us.es/gepoc/en/member/?id=2" target="_blank">Daniel Limon</a>, and
 Insoon Yang <br>
 <I>IEEE Transactions on Control Systems Technology</I>,  32(4):1471-1478, 2024.<br></li>
-<br>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/10540067" target="_blank">
 Multiparametric analysis of multi-task Markov decision processes:
 Structure, invariance, and reducibility</a><br>
 Jaeuk Shin, and Insoon Yang <br>
-<I>IEEE Control Systems Letters</I>, 8:928-933, 2024.<br>
-<strong>(Selected for presentation at CDC 24)</strong><br></li>
-<br>
+<I>IEEE Control Systems Letters</I>, 8:928-933, 2024.<strong>(Selected for presentation at CDC 24)</strong><br></li>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/10534845" target="_blank">
 Wasserstein distributionally robust regret minimization</a><br>
