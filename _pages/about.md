@@ -212,216 +212,181 @@ Insoon Yang,  Min Su Park,  and <a href="http://prema.snu.ac.kr/people/people1.p
 <li> 
 <a href ="https://proceedings.mlr.press/v242/shin24a.html" target="_blank">On task-relevant loss functions in meta-reinforcement learning</a><br>
 Jaeuk Shin, Giho Kim, Howon Lee, Joonho Han, and Insoon Yang   <br>
-<I>Learning for Dynamics and Control (L4DC)</I>, 2024. <br></li>
-<br>
+<I><b>Learning for Dynamics and Control (L4DC)</b></I>, 2024. <br></li>
 
 <li> 
 <a href ="https://proceedings.neurips.cc/paper_files/paper/2023/hash/c70741145c2c4f1d0c2e91b98729a49a-Abstract-Conference.html" target="_blank">Convergence analysis of ODE models for accelerated first-order methods via positive semidefinite kernels</a><br>
 Jungbin Kim, and Insoon Yang   <br>
-<I>Advances in Neural Information Processing Systems (NeurIPS)</I>, 2023. <br></li>
-<br>
+<I><b>Advances in Neural Information Processing Systems (NeurIPS)</b></I>, 2023. <br></li>
 
 <li> 
 <a href ="https://ieeexplore.ieee.org/document/10383596" target="_blank">Data-driven stochastic optimization using upper confidence bounds: Performance guarantees and distributional robustness</a> <br>
 Youngchae Cho, and Insoon Yang   <br>
-<I>IEEE Conference on Decision and Control (CDC)</I>, 2023.  <br></li>
-<br>
+<I><b>IEEE Conference on Decision and Control (CDC)</b></I>, 2023.  <br></li>
 
 <li> 
 <a href ="https://ieeexplore.ieee.org/document/10384233" target="_blank">On concentration bounds for Bayesian Identification of linear non-Gaussian systems</a> <br>
 Yeoneung Kim, Gihun Kim, and Insoon Yang   <br>
-<I>IEEE Conference on Decision and Control (CDC)</I>, 2023.  <br></li>
-<br>
+<I><b>IEEE Conference on Decision and Control (CDC)</b></I>, 2023.  <br></li>
 
 <li> 
 <a href ="https://proceedings.mlr.press/v202/kim23y.html" target="_blank">Unifying Nesterov's accelerated gradient methods for convex and strongly convex objective functions</a><br>
 Jungbin Kim, and Insoon Yang   <br>
-<I>International Conference on Machine Learning (ICML)</I>, 2023. <strong>(Oral, acceptance rate: 2.4%)</strong><br></li>
-<br>
+<I><b>International Conference on Machine Learning (ICML)</b></I>, 2023. <strong>(Oral, acceptance rate: 2.4%)</strong><br></li>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/10161246" target="_blank">
 Distributionally robust optimization with unscented transform for learning-based motion control in dynamic environments</a><br>
 Astghik Hakobyan, and  Insoon Yang   <br>
-<I>IEEE International Conference on Robotics and Automation (ICRA)</I>, 2023.<br></li>
-<br>
+<I><b>IEEE International Conference on Robotics and Automation (ICRA)</b></I>, 2023.<br></li>
 
 <li> 
 <a href ="https://proceedings.neurips.cc/paper_files/paper/2022/hash/078fa8f77ce55ef6e9cf79275b88acb0-Abstract-Conference.html" target="_blank">Improved regret analysis for variance-adaptive linear bandits and horizon-free linear mixture MDPs</a><br>
 Yeoneung Kim, Insoon Yang, and Kwang-Sung Jun   <br>
-<I>Advances in Neural Information Processing Systems (NeurIPS)</I>, 2022. <br></li>
-<br>
+<I><b>Advances in Neural Information Processing Systems (NeurIPS)</b></I>, 2022. <br></li>
 
 <li> 
 <a href ="https://ieeexplore.ieee.org/abstract/document/9992738" target="_blank">Wasserstein distributionally robust control of partially observable linear systems: Tractable approximation and performance guarantee</a> <br>
 Astghik Hakobyan, and Insoon Yang   <br>
-<I>IEEE Conference on Decision and Control (CDC)</I>, 2022.  <br></li>
-<br>
+<I><b>IEEE Conference on Decision and Control (CDC)</b></I>, 2022.  <br></li>
 
 <li> 
 <a href ="https://ieeexplore.ieee.org/abstract/document/9992574" target="_blank">On affine policies for Wasserstein distributionally robust unit commitment</a> <br>
 Youngchae Cho, and Insoon Yang   <br>
-<I>IEEE Conference on Decision and Control (CDC)</I>, 2022. <br></li>
-<br>
+<I><b>IEEE Conference on Decision and Control (CDC)</b></I>, 2022. <br></li>
 
 <li> 
 <a href ="https://proceedings.mlr.press/v162/kim22k.html" target="_blank">Accelerated gradient methods for geodesically convex optimization: Tractable algorithms and convergence analysis</a><br>
 Jungbin Kim, and Insoon Yang   <br>
-<I>International Conference on Machine Learning (ICML)</I>, 2022. <br></li>
-<br>
+<I><b>International Conference on Machine Learning (ICML)</b></I>, 2022. <br></li>
 
 <li> 
 <a href ="https://ieeexplore.ieee.org/abstract/document/9683383" target="_blank">On Anderson acceleration for partially observable Markov decision processes</a><br>
 Melike Ermis, Mingyu Park, and Insoon Yang   <br>
-<I>IEEE Conference on Decision and Control (CDC)</I>, 2021. <br></li>
-<br>
+<I><b>IEEE Conference on Decision and Control (CDC)</b></I>, 2021. <br></li>
 
 <li> 
 <a href ="https://ieeexplore.ieee.org/abstract/document/9682981" target="_blank">Toward Improving the distributional robustness of risk-aware controllers in learning-enabled environments</a> <br>
 Astghik Hakobyan, and Insoon Yang   <br>
-<I>IEEE Conference on Decision and Control (CDC)</I>, 2021. <br></li>
-<br>
+<I><b>IEEE Conference on Decision and Control (CDC)</b></I>, 2021. <br></li>
 
 <li> 
 <a href ="https://ieeexplore.ieee.org/abstract/document/9304488" target="_blank">Minimax control of ambiguous linear stochastic systems using the Wasserstein metric</a> <br>
 Kihyun Kim, and Insoon Yang   <br>
-<I>IEEE Conference on Decision and Control (CDC)</I>, 2020. <br></li>
-<br>
+<I><b>IEEE Conference on Decision and Control (CDC)</b></I>, 2020. <br></li>
 
 <li> 
 <a href ="https://ieeexplore.ieee.org/abstract/document/9304325/" target="_blank">A stochastic consensus method for nonconvex optimization on the Stiefel manifold</a> <br>
 Jeongho Kim, Myeongju Kang, Dohyun Kim, Seung-Yeal Ha, and Insoon Yang   <br>
-<I>IEEE Conference on Decision and Control (CDC)</I>, 2020. <br></li>
-<br>
+<I><b>IEEE Conference on Decision and Control (CDC)</b></I>, 2020. <br></li>
 
 <li> 
 <a href ="https://ieeexplore.ieee.org/document/9308288" target="_blank">A3DQN: Adaptive Anderson acceleration for deep Q-networks</a> <br>
 Melike Ermis, and Insoon Yang   <br>
-<I>IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning (ADPRL)</I>,  2020. <br></li>
-<br>
+<I><b>IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning (ADPRL)</b></I>,  2020. <br></li>
 
 <li> <a href ="https://ieeexplore.ieee.org/abstract/document/9341415" target="_blank">
 Learning-based distributionally robust motion control with Gaussian processes</a><br>
 Astghik Hakobyan, and  Insoon Yang   <br>
-<I>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</I>, 2020.<br></li>
-<br>
+<I><b>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</b></I>, 2020.<br></li>
 
 <li> <a href ="http://proceedings.mlr.press/v120/kim20b.html" target="_blank">
 Hamilton-Jacobi-Bellman equations for Q-learning in continuous time</a><br>
 Jeongho Kim, and  Insoon Yang   <br>
-<I>Learning for Dynamics and Control (L4DC)</I>, 2020.  <br></li>
-<br>
+<I><b>Learning for Dynamics and Control (L4DC</b></I>, 2020.  <br></li>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/9196857" target="_blank">
 Wasserstein distributionally robust motion planning and control with safety constraints using conditional value-at-risk</a><br>
 Astghik Hakobyan, and  Insoon Yang   <br>
-<I>IEEE International Conference on Robotics and Automation (ICRA)</I>, 2020.<br></li>
-<br>
+<I><b>IEEE International Conference on Robotics and Automation (ICRA)</b></I>, 2020.<br></li>
 
 <li> 
 <a href ="https://ieeexplore.ieee.org/document/9028854" target="_blank">Stochastic subgradient methods for dynamic programming in continuous state and action spaces</a>   <br>
 Sunho Jang, and  Insoon Yang   <br>
-<I>IEEE Conference on Decision and Control (CDC)</I>, 2019.<br></li>
-<br>
+<I><b>IEEE Conference on Decision and Control (CDC)</b></I>, 2019.<br></li>
 
 <li> 
 <a href ="https://ieeexplore.ieee.org/document/9028930" target="_blank">On improving the robustness of reinforcement learning-based controllers using disturbance observer</a>  <br>
 Jeong Woo Kim, <a href ="http://hshim.wordpress.com" target="_blank">Hyungbo Shim</a>, and  Insoon Yang   <br>
-<I>IEEE Conference on Decision and Control (CDC)</I>, 2019. <br></li>
-<br>
+<I><b>IEEE Conference on Decision and Control (CDC)</b></I>, 2019. <br></li>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/8430957/" target="_blank">
 Safety-aware optimal control of stochastic systems using conditional value-at-risk</a><br>
 Samantha Samuelson, and Insoon Yang  <br>
-<I>American Control Conference (ACC)</I>, 2018. (<a href ="https://arxiv.org/abs/1802.07903" target="_blank">Extended version</a>)<br></li>
-<br>
+<I><b>American Control Conference (ACC)</b></I>, 2018. (<a href ="https://arxiv.org/abs/1802.07903" target="_blank">Extended version</a>)<br></li>
 
 <li> <a href ="http://ieeexplore.ieee.org/document/8264292/" target="_blank">
 Distributionally robust stochastic control with conic confidence sets</a><br>
 Insoon Yang  <br>
-<I>IEEE Conference on Decision and Control (CDC)</I>, 2017.<br></li>
-<br>
+<I><b>IEEE Conference on Decision and Control (CDC)</b></I>, 2017.<br></li>
 
 <li> <a href ="http://ieeexplore.ieee.org/abstract/document/8062463/" target="_blank">
 Data-driven distributionally robust control of energy storage to manage wind power fluctuations</a><br>
 Samantha Samuelson, and Insoon Yang  <br>
-<I>IEEE Conference on Control Technology and Applications (CCTA)</I>, 2017.<br></li>
-<br>
+<I><b>IEEE Conference on Control Technology and Applications (CCTA)</b></I>, 2017.<br></li>
 
 <li> <a href ="https://www.sciencedirect.com/science/article/pii/S240589631732058X" target="_blank">
 Online combinatorial optimization for Interconnected refrigeration systems: linear approximation and submodularity</a>  <br>
 Insoon Yang <br>
-<I>IFAC World Congress (WC)</I>, 2017.<br></li>
-<br>
+<I><b>IFAC World Congress (WC)</b></I>, 2017.<br></li>
 
 <li> <a href ="http://ieeexplore.ieee.org/abstract/document/7798348/" target="_blank">
 Submodularity of energy storage placement in power networks</a><br>
 <a href="https://www.ocf.berkeley.edu/~jqin/" target="_blank">Junjie Qin</a>,  Insoon Yang,  and <a href="https://web.stanford.edu/~ramr/" target="_blank">Ram Rajagopal</a> <br>
-<I>IEEE Conference on Decision and Control (CDC)</I>,  2016.<br>
+<I><b>IEEE Conference on Decision and Control (CDC)</b></I>,  2016. 
 <strong>(Best Student Paper Award finalist)</strong><br></li>
-<br>
 
 <li> <a href ="http://ieeexplore.ieee.org/abstract/document/7525572/" target="_blank">
 Reducing electricity price volatility via stochastic storage control</a> <br>
 Insoon Yang,  and <a href="https://asu.mit.edu/" target="_blank">Asuman E. Ozdaglar</a> <br>
-<I>American Control Conference (ACC)</I>, 2016. <br></li>
-<br>
+<I><b>American Control Conference (ACC)</b></I>, 2016. <br></li>
 
 <li> <a href ="http://ieeexplore.ieee.org/document/7171797/?arnumber=7171797" target="_blank">
 Indirect load control for financial risk management in electricity markets via risk-limiting dynamic contracts</a> <br>
 Insoon Yang,  <a href="https://erg.berkeley.edu/people/callaway-duncan/" target="_blank">Duncan S. Callaway</a>, and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a><br>
-<I>American Control Conference (ACC)</I>, 2015. <br></li>
-<br>
+<I><b>American Control Conference (ACC)</b></I>, 2015. <br></li>
 
 <li> <a href ="http://ieeexplore.ieee.org/document/7040149/?arnumber=7040149" target="_blank">
 Utility learning model predictive control for personal electric loads</a> <br>
 Insoon Yang,  <a href="http://www.idsc.ethz.ch/the-institute/people/person-detail.html?persid=142737" target="_blank">Melanie N. Zeilinger</a>,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a> <br>
-<I>IEEE Conference on Decision and Control (CDC)</I>, 2014. <br></li>
-<br>
+<I><b>IEEE Conference on Decision and Control (CDC)</b></I>, 2014. <br></li>
 
 <li> <a href ="http://ieeexplore.ieee.org/document/7028572/" target="_blank">
 Direct load control for electricity market risk management via risk-limiting dynamic contracts</a> <br>
 Insoon Yang,  <a href="https://erg.berkeley.edu/people/callaway-duncan/" target="_blank">Duncan S. Callaway</a>,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a> <br>
-<I>Allerton Conference on Communication, Control, and Computing</I>, 2014.<br></li>
-<br>
+<I><b>Allerton Conference on Communication, Control, and Computing</b></I>, 2014.<br></li>
 
 <li> <a href ="http://www.sciencedirect.com/science/article/pii/S1474667016427138/" target="_blank">
 Path integral formulation of stochastic optimal control with generalized costs</a> <br>
 Insoon Yang,  <a href="https://igppweb.ucsd.edu/~mmorzfeld/" target="_blank">Matthias Morzfeld</a>,  <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a>, and <a href="https://math.berkeley.edu/~chorin/" target="_blank">Alexandre J. Chorin</a> <br>
-<I>IFAC World Congress (WC)</I>, 2014. <br></li>
-<br>
+<I><b>IFAC World Congress (WC)</b></I>, 2014. <br></li>
 
 <li> <a href ="http://ieeexplore.ieee.org/document/6859294/" target="_blank">
 Dynamic contracts with partial observations: application to indirect load control</a> <br>
 Insoon Yang,  <a href="https://erg.berkeley.edu/people/callaway-duncan/" target="_blank">Duncan S. Callaway</a>,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a><br>
-<I>American Control Conference (ACC)</I>, 2014.<br></li>
-<br>
+<I><b>American Control Conference (ACC)</b></I>, 2014.<br></li>
 
 <li> <a href ="http://ieeexplore.ieee.org/document/6760081/" target="_blank">
 Infinitesimal interconnection variation in nonlinear networked systems</a> <br>
 Insoon Yang,  <a href="http://faculty.washington.edu/sburden/" target="_blank">Samuel A. Burden</a>,  <a href="http://robotics.eecs.berkeley.edu/~sastry/" target="_blank">S. Shankar Sastry</a>,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a> <br>
-<I>IEEE Conference on Decision and Control (CDC)</I>, 2013. <br></li>
-<br>
+<I><b>IEEE Conference on Decision and Control (CDC)</b></I>, 2013. <br></li>
 
 <li> <a href ="http://ieeexplore.ieee.org/document/6760022/" target="_blank">
 Regularization-based identification for level set equations</a> <br>
 Insoon Yang,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a> <br>
-<I>IEEE Conference on Decision and Control (CDC)</I>, 2013. <br></li>
-<br>
+<I><b>IEEE Conference on Decision and Control (CDC)</b></I>, 2013. <br></li>
 
 <li> <a href ="http://ieeexplore.ieee.org/document/6580338/" target="_blank">
 Identification of surface tension in mean curvature flow</a> <br>
 Insoon Yang,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a> <br>
-<I>American Control Conference (ACC)</I>, 2013. <br></li>
-<br>
+<I><b>American Control Conference (ACC)</b></I>, 2013. <br></li>
 
 <li> <a href ="http://dl.acm.org/citation.cfm?id=2461359" target="_blank">
 One-shot computation of reachable sets for differential games</a> <br>
 Insoon Yang,  Sabine Becker-Weimann,  <a href="http://www2.lbl.gov/LBL-Programs/lifesciences/BissellLab/main.html" target="_blank">Mina J. Bissell</a>,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a>
  <br>
-<I>ACM International Conference on Hybrid Systems: Computation and Control (HSCC)</I>, 2013. <br></li>
+<I><b>ACM International Conference on Hybrid Systems: Computation and Control (HSCC)</b></I>, 2013. <br></li>
 </OL>
 </font>
-<br>
 
 <dt> <b>Book Chapters</b><br>
 <br>
