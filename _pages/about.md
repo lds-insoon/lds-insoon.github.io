@@ -32,7 +32,7 @@ I'm an Associate Professor of Electrical and Computer Engineering at Seoul Natio
 <OL>
 <br> 
 <li> <a href ="https://ieeexplore.ieee.org/document/10239211" target="_blank">
-Control of fab lifters via deep reinforcement learning: A semi-MDP approach</a><br>
+<b>Control of fab lifters via deep reinforcement learning: A semi-MDP approach</b></a><br>
 Giho Kim, Jaeuk Shin, Gihun Kim, Joonrak Kim, and
 Insoon Yang <br>
 <I><b>IEEE Transactions on Automation Science and Engineering</b></I>, 21(4):5136-5148, 2024.<br></li>
