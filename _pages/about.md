@@ -1,7 +1,6 @@
 ---
 permalink: /
 layout: archive
-title: "Insoon Yang github homepage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -22,6 +21,7 @@ redirect_from:
 <li><bf> M.A. (<a href="http://math.berkeley.edu/" target="_blank">Math</a>), UC Berkeley, 2013 (advisor: Prof. <a href="https://math.berkeley.edu/~evans/" target="_blank">Lawrence Craig Evans</a>) <br>
 <li><bf> M.S. (<a href="http://eecs.berkeley.edu/" target="_blank">EECS</a>), UC Berkeley, 2012 <br>
 <li><bf> B.S. (<a href="http://www.math.snu.ac.kr/board/" target="_blank">Math</a> & <a href="http://me.snu.ac.kr/eng/default.asp" target="_blank">MAE</a>), Seoul National University, 2009 <br>
+</bf></li>
 </UL>
 <hr>
 <dt> <b>Areas of Research</b><br>
