@@ -483,9 +483,9 @@ Insoon Yang,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_b
 
 <li> <a href ="http://dl.acm.org/citation.cfm?id=2461359" target="_blank">
 One-shot computation of reachable sets for differential games</a> <br>
-Insoon Yang,  Sabine Becker-Weimann,  <a href="http://www2.lbl.gov/LBL-Programs/lifesciences/BissellLab/main.html" target="_blank">Mina J. Bissell</a>,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a></li>
+Insoon Yang,  Sabine Becker-Weimann,  <a href="http://www2.lbl.gov/LBL-Programs/lifesciences/BissellLab/main.html" target="_blank">Mina J. Bissell</a>,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a>
  <br>
-<I>ACM International Conference on Hybrid Systems: Computation and Control (HSCC)</I>, 2013. <br>
+<I>ACM International Conference on Hybrid Systems: Computation and Control (HSCC)</I>, 2013. <br></li>
 </OL>
 <br>
 
