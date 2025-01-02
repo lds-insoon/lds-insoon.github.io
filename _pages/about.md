@@ -6,8 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<font size=2>
 I'm an Associate Professor of Electrical and Computer Engineering at Seoul National University. I completed my Ph.D. in EECS at UC Berkeley in 2015 (advisor: Claire Tomlin). I was an Assistant Professor of Electrical Engineering at University of Southern California from 2016 to 2018, and a Postdoctoral Associate with the Laboratory for Information and Decision Systems at Massachusetts Institute of Technology from
-2015 to 2016. I am interested in the interplay between learning and decision systems.
+2015 to 2016. I am interested in the interplay between learning and decision systems under uncertainty. </font></br>
 <hr>
 <dt> <b>Awards and Honors</b><br>
 <UL>
