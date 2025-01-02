@@ -53,47 +53,40 @@ Insoon Yang <br>
 Multiparametric analysis of multi-task Markov decision processes:
 Structure, invariance, and reducibility</a><br>
 Jaeuk Shin, and Insoon Yang <br>
-<I>IEEE Control Systems Letters</I>, 8:928-933, 2024.<strong>(Selected for presentation at CDC 24)</strong><br></li>
+<I>IEEE Control Systems Letters</I>, 8:928-933, 2024. <strong>(Selected for presentation at CDC 24)</strong><br></li>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/10534845" target="_blank">
 Wasserstein distributionally robust regret minimization</a><br>
 Youngchae Cho, and Insoon Yang <br>
-<I>IEEE Control Systems Letters</I>, 8:820-825, 2024.<br>
-<strong>(Selected for presentation at CDC 24)</strong><br></li>
-<br>
+<I>IEEE Control Systems Letters</I>, 8:820-825, 2024. <strong>(Selected for presentation at CDC 24)</strong><br></li>
 
 <li> <a href ="https://www.sciencedirect.com/science/article/abs/pii/S0005109824000499" target="_blank">
 Anderson acceleration for partially observable Markov decision
 processes: A maximum entropy approach</a><br>
 Mingyu Park, Jaeuk Shin, and Insoon Yang<br>
 <I>Automatica</I>,  163:111557, 2024.<br></li>
-<br>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/10153787" target="_blank">
 Distributionally robust differential dynamic programming with Wasserstein distance</a><br>
 Astghik Hakobyan, and Insoon Yang <br>
 <I>IEEE Control Systems Letters</I>, 7:2329-2334, 2023.<br>
 <strong>(Selected for presentation at CDC 23)</strong><br></li>
-<br>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/9760123" target="_blank">
 Maximum entropy optimal control of continuous-time dynamical systems</a><br>
 Jeongho Kim, and
 Insoon Yang <br>
 <I>IEEE Transactions on Automatic Control</I>,  68(4):2018-2033, 2023.<br></li>
-<br>
 
 <li> <a href ="https://epubs.siam.org/doi/10.1137/22M1494105" target="_blank">
 Distributional robustness in minimax linear quadratic control with Wasserstein distance</a><br>
 Kihyun Kim, and  Insoon Yang  <br>
 <I>SIAM Journal on Control and Optimization</I>, 61(2):458-483, 2023.<br></li>
-<br>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/9888786" target="_blank">
 Distributionally robust risk map for learning-based motion planning and control: A semidefinite programming approach</a><br>
 Astghik Hakobyan, and Insoon Yang <br>
 <I>IEEE Transactions on Robotics</I>, 39(1):718-737, 2023.<br></li>
-<br>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/9627809" target="_blank">
 Risk-sensitive safety analysis using
@@ -101,127 +94,107 @@ conditional value-at-risk</a><br>
 <a href="https://www.control.utoronto.ca/~mchapman/" target="_blank">Margaret P. Chapman</a>, <a href="https://rbonalli.github.io/" target="_blank">Riccardo Bonalli</a>, Kevin M. Smith,
 Insoon Yang, <a href="https://web.stanford.edu/~pavone/" target="_blank">Marco Pavone</a>, and <a href="http://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a> <br>
 <I>IEEE Transactions on Automatic Control</I>, 67(12):6521-6536, 2022.<br></li>
-<br>
 
 <li> <a href ="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cth2.12329" target="_blank">
 On representation formulas for optimal control: A Lagrangian perspective</a><br>
 Yeoneung Kim, and
 Insoon Yang <br>
 <I>IET Control Theory & Applications (CTA)</I>, 16(16):1633-1644, 2022.<br></li>
-<br>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/9830833" target="_blank">
 Infusing model predictive control into meta-reinforcement learning for mobile robots in dynamic environments</a><br>
 Jaeuk Shin, Astghik Hakobyan, Mingyu Park, Yeoneung Kim, Gihun Kim, and Insoon Yang <br>
 <I>IEEE Robotics and Automation Letters</I>, 7(2):10065-10072, 2022.<br>
 <strong>(Selected for presentation at IROS 22)</strong><br></li>
-<br>
 
 <li> <a href ="https://ieeexplore.ieee.org/abstract/document/9547384" target="_blank">
 Wasserstein distributionally robust motion control for collision avoidance using conditional value-at-risk</a><br>
 Astghik Hakobyan, and Insoon Yang <br>
 <I>IEEE Transactions on Robotics</I>, 38(2):939-957, 2022.<br></li>
-<br>
 
 <li> <a href ="https://www.worldscientific.com/doi/10.1142/S0218202522500130" target="_blank">
 Stochastic consensus dynamics for nonconvex optimization on the Stiefel manifold: Mean-field limit and convergence</a><br>
 <a href="http://www.math.snu.ac.kr/~syha/" target="_blank">Seung-Yeal Ha</a>, Myeongju Kang, Dohyun Kim, Jeongho Kim, and Insoon Yang <br>
 <I>Mathematical Models and Methods in Applied Sciences (M3AS)</I>, 32(3):533-617, 2022.<br></li>
-<br>
 
 <li> <a href ="https://www.jmlr.org/papers/v22/20-1235.html" target="_blank">
 Hamilton-Jacobi deep Q-learning for deterministic continuous-time systems with Lipschitz continuous controls</a><br>
 Jeongho Kim, Jaeuk Shin, and Insoon Yang <br>
 <I>Journal of Machine Learning Research (JMLR)</I>, 22(206):1-34, 2021.<br></li>
-<br>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/9222209" target="_blank">
 Wasserstein distributionally robust stochastic control: A data-driven approach</a><br>
 Insoon Yang <br>
 <I>IEEE Transactions on Automatic Control</I>, 66(8):3863-3870, 2021.<br></li>
-<br>
 
 <li> <a href ="https://link.springer.com/article/10.1007/s12541-020-00445-2" target="_blank">
 Appropriate smart factory for SMEs: Concept, application and perspective</a><br>
 Woo-Kyun Jung, Dong-Ryul Kim, Hyunsu Lee, Tae-Hun Lee, Insoon Yang, <a href="http://shrm.snu.ac.kr/index.php?hCode=MEMBERS_02_01" target="_blank">Byeng D. Youn</a>, Daniel Zontar, Matthias Brockmann, <a href="https://www.iop.rwth-aachen.de/go/id/rnzg/lidx/1" target="_blank">Christian Brecher</a>, and <a href="http://fab.snu.ac.kr/members/professor.asp" target="_blank">Sung-Hoon Ahn</a>  <br>
 <I>International Journal of Precision Engineering and Manufacturing</I>, 22:201-215, 2021.<br></li>
-<br>
 
 <li> <a href ="https://link.springer.com/article/10.1007/s10957-020-01747-1" target="_blank">
 A convex optimization approach to dynamic programming in continuous state and action spaces</a><br>
 Insoon Yang  <br>
 <I>Journal of Optimization Theory and Applications (JOTA)</I>, 187:133-157, 2020.<br></li>
-<br>
 
 <li>
 <a href ="https://ieeexplore.ieee.org/document/8970355/" target="_blank">Multi-objective predictive taxi dispatch via network flow optimization</a><br>
 Beomjun Kim, Jeongho Kim, Subin Huh, Seungil You, and Insoon Yang<br>
 <I>IEEE Access</I>, 8:21437-21452, 2020. <br></li>
-<br>
 
 <li> 
  <a href ="https://ieeexplore.ieee.org/document/8767973" target="_blank">Risk-aware motion planning and control using CVaR-constrained optimization</a><br>
 Astghik Hakobyan, Gyeong Chan Kim, and Insoon Yang  <br>
-<I>IEEE Robotics and Automation Letters</I>, 4(4):3924-3931, 2019. <br>
+<I>IEEE Robotics and Automation Letters</I>, 4(4):3924-3931, 2019. 
 <strong>(Selected for presentation at IROS 19)</strong><br></li>
-<br>
 
 <li>
 <a href ="https://ieeexplore.ieee.org/document/8848388" target="_blank">Sample efficient home power anomaly detection in real time using semi-supervised learning</a><br>
 Xinlin Wang, Insoon Yang, and  <a href="http://fab.snu.ac.kr/members/professor.asp" target="_blank">Sung-Hoon Ahn</a><br>
 <I>IEEE Access</I>, 7:139712-139725, 2019. <br></li>
-<br>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/8540897" target="_blank">
 Submodularity of storage placement optimization in power networks</a><br>
 <a href="https://www.ocf.berkeley.edu/~jqin/" target="_blank">Junjie Qin</a>,  Insoon Yang,  and <a href="https://web.stanford.edu/~ramr/" target="_blank">Ram Rajagopal</a><br>
-<I>IEEE Transactions on Automatic Control</I>, 64(8):3268-3283, 2019. <br>
+<I>IEEE Transactions on Automatic Control</I>, 64(8):3268-3283, 2019. 
 <strong>(Conference version selected as Best Student Paper Award finalist at CDC 16)</strong><br></li>
-<br>
 
 <li> <a href ="https://www.sciencedirect.com/science/article/pii/S0005109818302073" target="_blank">
 A dynamic game approach to distributionally robust safety specifications for stochastic systems</a><br>
 Insoon Yang  <br>
 <I>Automatica</I>, 94:94-101, 2018.<br></li>
-<br>
 
 <li> <a href ="https://link.springer.com/article/10.1007/s40684-018-0057-y" target="_blank">
 Smart machining process using machine learning: A review and perspective on machining industry</a><br>
 Dong-Hyeon Kim, Thomas J. Y. Kim, Xinlin Wang, Mincheol Kim, Ying-Jun Quan, Jin Woo Oh, Soo-Hong Min, Hyungjung Kim, Binayak Bhandari, Insoon Yang, and <a href="http://fab.snu.ac.kr/members/professor.asp" target="_blank">Sung-Hoon Ahn</a>  <br>
-<I>International Journal of Precision Engineering and Manufacturing-Green Technology</I>, 5(4):555-568, 2018.<br>
+<I>International Journal of Precision Engineering and Manufacturing-Green Technology</I>, 5(4):555-568, 2018. 
 <strong>(IJPEM-GT Most Cited Article Award, 2020)</strong><br></li>
-<br>
 
 <li> <a href ="http://ieeexplore.ieee.org/document/7938642/" target="_blank">
 A convex optimization approach to distributionally robust Markov decision processes with Wasserstein distance</a><br>
 Insoon Yang  <br>
-<I>IEEE Control Systems Letters</I>, 1(1):164-169, 2017.<br>
+<I>IEEE Control Systems Letters</I>, 1(1):164-169, 2017. 
 <strong>(Selected for presentation at CDC 17)</strong><br></li>
-<br>
-
+ 
 <li> <a href ="http://epubs.siam.org/doi/abs/10.1137/16M1058492" target="_blank">
 Optimal control of conditional value-at-risk in continuous time</a><br>
 <a href="http://www.christopherwellsmiller.com/" target="_blank">Christopher W. Miller</a>, and  Insoon Yang  <br>
 <I>SIAM Journal on Control and Optimization</I>, 55(2):856-884, 2017.<br></li>
-<br>
 
 <li> <a href ="http://ieeexplore.ieee.org/abstract/document/7542160/" target="_blank">
 Variance-constrained risk sharing in stochastic systems</a><br>
 Insoon Yang,  <a href="https://erg.berkeley.edu/people/callaway-duncan/" target="_blank">Duncan S. Callaway</a>,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a> <br>
 <I>IEEE Transactions on Automatic Control</I>, 62(4):1865-1879, 2017.<br></li>
-<br>
 
 <li> <a href ="http://ieeexplore.ieee.org/document/7345543/" target="_blank">
 Approximation algorithms for optimization of combinatorial dynamical systems</a><br>
 Insoon Yang,  <a href="http://faculty.washington.edu/sburden/" target="_blank">Samuel A. Burden</a>,  <a href="https://web.stanford.edu/~ramr/" target="_blank">Ram Rajagopal</a>,  <a href="http://robotics.eecs.berkeley.edu/~sastry/" target="_blank">S. Shankar Sastry</a>,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a> <br>
 <I>IEEE Transactions on Automatic Control</I>, 61(9):2644-2649, 2016.<br></li>
-<br>
 
 <li> <a href ="http://www.sciencedirect.com/science/article/pii/S0167691114002102" target="_blank">
 Reaction-diffusion systems in protein networks: global existence and identification</a><br>
 Insoon Yang,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a><br>
 <I>Systems & Control Letters</I>, 74:50-57, 2014. <br></li>
-<br>
 
 <li> <a href ="https://link.springer.com/article/10.1007/s12541-009-0020-5" target="_blank">
 Micro ECM with ultrasonic vibrations using a semi-cylindrical tool</a><br>
