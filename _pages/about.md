@@ -12,6 +12,7 @@ I'm an Associate Professor of Electrical and Computer Engineering at Seoul Natio
 <hr>
 <dt> <b>Awards and Honors</b><br>
 <UL>
+<font size=3>  
 <li> CoE Teaching Award, College of Engineering, Seoul National University, 2022<br></li>
 <li> ECE Teaching Award, ECE Dept., Seoul National University, 2020<br></li>
 <li> Creative-Pioneering Researcher, Seoul National University, 2018<br></li>
@@ -21,7 +22,7 @@ I'm an Associate Professor of Electrical and Computer Engineering at Seoul Natio
 <li> EECS Distinguished Student Teaching Award, UC Berkeley, 2013<br></li>
 <li> Summa cum laude, Seoul National University, 2009<br></li>
 <li> Special Prize in Mathematics Olympiad for University Students, Korean Mathematical Society, (twice) 2003, 2004<br>
-</li>
+</li></font>
 </UL>
 <hr>
 <dt> <b>Publications</b><br>
@@ -29,7 +30,7 @@ I'm an Associate Professor of Electrical and Computer Engineering at Seoul Natio
 <dt> <b>Journal Publications</b><br>
 <OL>
 <br>
-
+<font size=3>  
 <li> <a href ="https://ieeexplore.ieee.org/document/10239211" target="_blank">
 Control of fab lifters via deep reinforcement learning: A semi-MDP approach</a><br>
 Giho Kim, Jaeuk Shin, Gihun Kim, Joonrak Kim, and
@@ -201,6 +202,7 @@ Insoon Yang,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_b
 Micro ECM with ultrasonic vibrations using a semi-cylindrical tool</a><br>
 Insoon Yang,  Min Su Park,  and <a href="http://prema.snu.ac.kr/people/people1.php" target="_blank">Chong Nam Chu</a> <br>
 <I>International Journal of Precision Engineering and Manufacturing</I>, 10(2):5-10, 2009. </I><br></li>
+</font>
 </OL>
 <br>
 <dt> <b>Conference Publications</b><br>
