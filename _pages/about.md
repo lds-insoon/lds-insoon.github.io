@@ -6,58 +6,30 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<head>
-<META name="keywords" Content="control,optimization,risk,autonomous,cyber-physical systems,distributionally robust optimization">
-<title> Insoon Yang</title>
-</head>
-<body>
-<TABLE BORDER=0 CELLSPACING=0 CELLPADDING=2>
-<TR ALIGN=left><td>
-<img align=middle src="insoon.JPG" height="300" width="225"> <td>
-<TABLE BORDER=0 CELLSPACING=5 CELLPADDING=5>
-<tr ALIGN=left><td><FONT SIZE=+3>
-Insoon Yang <br></font><br>
-<font size=+1>
-<font size=+1>
-Associate Professor<br> 
-<a href="http://ece.snu.ac.kr/en" target="_blank">Electrical and Computer Engineering</a> (ECE)<br>
-<a href="http://en.snu.ac.kr/" target="_blank">Seoul National University</a> (SNU)<br>
-<br>
-Room 708, Bldg 301<br>
-1 Gwanak-ro, Gwanak-gu, Seoul, 08826, South Korea<br>
-Phone: 82-2-880-8489<br>
-<KBD>insoonyang at snu.ac.kr</KBD><br>
-<br>
-Research Group:<br> 
-Control and Optimization Research (<a href="http://coregroup.snu.ac.kr/" target="_blank">CORE</a>) Lab<br> 
-</font>
-<br>
-</table>
-</table>
 <hr>
-<dt> <FONT SIZE=+2><b>Academic Appointments</b></font><br>
+<dt> <b>Academic Appointments</b><br>
 <UL>
-<li><font size=+1><bf> Associate Professor (<a href="http://ece.snu.ac.kr/en" target="_blank">ECE</a>), Seoul National University (SNU), 2020- <br>
-<li><font size=+1><bf> Assistant Professor (<a href="http://ece.snu.ac.kr/en" target="_blank">ECE</a>), Seoul National University (SNU), 2018-2020 <br>
-<li><font size=+1><bf> Assistant Professor (<a href="https://minghsiehece.usc.edu/" target="_blank">EE</a>), University of Southern California (USC), 2016-2018 <br>
-<li><font size=+1><bf> Postdoctoral Associate (<a href="http://lids.mit.edu/" target="_blank">LIDS</a>), Massachusetts Institute of Technology (MIT), 2015-2016 <br>
+<li><bf> Associate Professor (<a href="http://ece.snu.ac.kr/en" target="_blank">ECE</a>), Seoul National University (SNU), 2020- <br>
+<li><bf> Assistant Professor (<a href="http://ece.snu.ac.kr/en" target="_blank">ECE</a>), Seoul National University (SNU), 2018-2020 <br>
+<li><bf> Assistant Professor (<a href="https://minghsiehece.usc.edu/" target="_blank">EE</a>), University of Southern California (USC), 2016-2018 <br>
+<li><bf> Postdoctoral Associate (<a href="http://lids.mit.edu/" target="_blank">LIDS</a>), Massachusetts Institute of Technology (MIT), 2015-2016 <br>
 </UL>
 <hr>
-<dt> <FONT SIZE=+2><b>Education</b></font><br>
-<UL><font size=+1>
-<li><font size=+1><bf> Ph.D. (<a href="http://eecs.berkeley.edu/" target="_blank">EECS</a>), UC Berkeley, 2015 <font size=-0.5>(advisor: Prof. <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire Tomlin</a>)<br>
-<li><font size=+1><bf> M.A. (<a href="http://math.berkeley.edu/" target="_blank">Math</a>), UC Berkeley, 2013 <font size=-0.5>(advisor: Prof. <a href="https://math.berkeley.edu/~evans/" target="_blank">Lawrence Craig Evans</a>) <br>
-<li><font size=+1><bf> M.S. (<a href="http://eecs.berkeley.edu/" target="_blank">EECS</a>), UC Berkeley, 2012 <br>
-<li><font size=+1><bf> B.S. (<a href="http://www.math.snu.ac.kr/board/" target="_blank">Math</a> & <a href="http://me.snu.ac.kr/eng/default.asp" target="_blank">MAE</a>), Seoul National University, 2009 <br>
-</UL>
-<hr>
-<dt> <FONT SIZE=+2><b>Areas of Research</b></font><br>
+<dt> <b>Education</b><br>
 <UL>
-<li><font size=+1><bf> Stochastic control and reinforcement learning</bf></font><br> 
-<li><font size=+1><bf> Safe autonomy and risk management</bf></font><br> 
-<li><font size=+1><bf> Optimization</bf></font><br> 
+<li><bf> Ph.D. (<a href="http://eecs.berkeley.edu/" target="_blank">EECS</a>), UC Berkeley, 2015 (advisor: Prof. <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire Tomlin</a>)<br>
+<li><bf> M.A. (<a href="http://math.berkeley.edu/" target="_blank">Math</a>), UC Berkeley, 2013 (advisor: Prof. <a href="https://math.berkeley.edu/~evans/" target="_blank">Lawrence Craig Evans</a>) <br>
+<li><bf> M.S. (<a href="http://eecs.berkeley.edu/" target="_blank">EECS</a>), UC Berkeley, 2012 <br>
+<li><bf> B.S. (<a href="http://www.math.snu.ac.kr/board/" target="_blank">Math</a> & <a href="http://me.snu.ac.kr/eng/default.asp" target="_blank">MAE</a>), Seoul National University, 2009 <br>
 </UL>
-<font size=-0.5>Acknowledgement: Supported by 
+<hr>
+<dt> <b>Areas of Research</b><br>
+<UL>
+<li><bf> Stochastic control and reinforcement learning</bf><br> 
+<li><bf> Safe autonomy and risk management</bf><br> 
+<li><bf> Optimization</bf><br> 
+</UL>
+Acknowledgement: Supported by 
 Samsung Electronics DIT (2022-23),
 IITP RL (2022-26),
 IITP Competency-Aware ML (2022-26),
@@ -71,9 +43,9 @@ SNU Creative-Pioneering (2018-21),
 Seoul Digital Foundation (2018-19),
 NSF ECCS (2017-20), and
 NSF CNS (2017-19).
-</font><br>
+<br>
 <hr>
-<dt> <FONT SIZE=+2><b>Awards and Honors</b></font><br>
+<dt> <b>Awards and Honors</b><br>
 <UL>
 <li> CoE Teaching Award, College of Engineering, Seoul National University, 2022<br>
 <li> ECE Teaching Award, ECE Dept., Seoul National University, 2020<br>
@@ -86,9 +58,9 @@ NSF CNS (2017-19).
 <li> Special Prize in Mathematics Olympiad for University Students, Korean Mathematical Society, (twice) 2003, 2004<br>
 </UL>
 <hr>
-<dt> <FONT SIZE=+2><b>Publications</b></font><br>
+<dt> <b>Publications</b><br>
 <UL>
-<dt> <FONT SIZE=+1><b>Journal Publications</b></font><br>
+<dt> <b>Journal Publications</b><br>
 <br>
 <OL>
 
@@ -163,7 +135,6 @@ Astghik Hakobyan, and Insoon Yang <br>
 <I>IEEE Transactions on Robotics</I>, 39(1):718-737, 2023.<br>
 <br>
 
-
 <li> <a href ="https://ieeexplore.ieee.org/document/9627809" target="_blank">
 Risk-sensitive safety analysis using
 conditional value-at-risk</a><br>
@@ -172,15 +143,12 @@ Insoon Yang, <a href="https://web.stanford.edu/~pavone/" target="_blank">Marco P
 <I>IEEE Transactions on Automatic Control</I>, 67(12):6521-6536, 2022.<br>
 <br>
 
-
 <li> <a href ="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cth2.12329" target="_blank">
 On representation formulas for optimal control: A Lagrangian perspective</a><br>
 Yeoneung Kim, and
 Insoon Yang <br>
 <I>IET Control Theory & Applications (CTA)</I>, 16(16):1633-1644, 2022.<br>
 <br>
-
-
 
 <li> <a href ="https://ieeexplore.ieee.org/document/9830833" target="_blank">
 Infusing model predictive control into meta-reinforcement learning for mobile robots in dynamic environments</a><br>
@@ -189,32 +157,23 @@ Jaeuk Shin, Astghik Hakobyan, Mingyu Park, Yeoneung Kim, Gihun Kim, and Insoon Y
 <strong>(Selected for presentation at IROS 22)</strong><br>
 <br>
 
-
-
 <li> <a href ="https://ieeexplore.ieee.org/abstract/document/9547384" target="_blank">
 Wasserstein distributionally robust motion control for collision avoidance using conditional value-at-risk</a><br>
 Astghik Hakobyan, and Insoon Yang <br>
 <I>IEEE Transactions on Robotics</I>, 38(2):939-957, 2022.<br>
 <br>
 
-
-
 <li> <a href ="https://www.worldscientific.com/doi/10.1142/S0218202522500130" target="_blank">
 Stochastic consensus dynamics for nonconvex optimization on the Stiefel manifold: Mean-field limit and convergence</a><br>
 <a href="http://www.math.snu.ac.kr/~syha/" target="_blank">Seung-Yeal Ha</a>, Myeongju Kang, Dohyun Kim, Jeongho Kim, and Insoon Yang <br>
-<I>Mathematical Models and Methods in Applied Sciences (M3AS)</I>, 32(3):533-617, 2022.
-</I><br>
+<I>Mathematical Models and Methods in Applied Sciences (M3AS)</I>, 32(3):533-617, 2022.<br>
 <br>
-
-
 
 <li> <a href ="https://www.jmlr.org/papers/v22/20-1235.html" target="_blank">
 Hamilton-Jacobi deep Q-learning for deterministic continuous-time systems with Lipschitz continuous controls</a><br>
 Jeongho Kim, Jaeuk Shin, and Insoon Yang <br>
-<I>Journal of Machine Learning Research (JMLR)</I>, 22(206):1-34, 2021.
-</I><br>
+<I>Journal of Machine Learning Research (JMLR)</I>, 22(206):1-34, 2021.<br>
 <br>
-
 
 <li> <a href ="https://ieeexplore.ieee.org/document/9222209" target="_blank">
 Wasserstein distributionally robust stochastic control: A data-driven approach</a><br>
@@ -228,8 +187,6 @@ Woo-Kyun Jung, Dong-Ryul Kim, Hyunsu Lee, Tae-Hun Lee, Insoon Yang, <a href="htt
 <I>International Journal of Precision Engineering and Manufacturing</I>, 22:201-215, 2021.<br>
 <br>
 
-
-
 <li> <a href ="https://link.springer.com/article/10.1007/s10957-020-01747-1" target="_blank">
 A convex optimization approach to dynamic programming in continuous state and action spaces</a><br>
 Insoon Yang  <br>
@@ -241,10 +198,6 @@ Insoon Yang  <br>
 Beomjun Kim, Jeongho Kim, Subin Huh, Seungil You, and Insoon Yang<br>
 <I>IEEE Access</I>, 8:21437-21452, 2020. <br>
 <br>
-
-
-
-
 
 <li> 
  <a href ="https://ieeexplore.ieee.org/document/8767973" target="_blank">Risk-aware motion planning and control using CVaR-constrained optimization</a><br>
@@ -279,7 +232,6 @@ Dong-Hyeon Kim, Thomas J. Y. Kim, Xinlin Wang, Mincheol Kim, Ying-Jun Quan, Jin 
 <strong>(IJPEM-GT Most Cited Article Award, 2020)</strong><br>
 <br>
 
-
 <li> <a href ="http://ieeexplore.ieee.org/document/7938642/" target="_blank">
 A convex optimization approach to distributionally robust Markov decision processes with Wasserstein distance</a><br>
 Insoon Yang  <br>
@@ -292,7 +244,6 @@ Optimal control of conditional value-at-risk in continuous time</a><br>
 <a href="http://www.christopherwellsmiller.com/" target="_blank">Christopher W. Miller</a>, and  Insoon Yang  <br>
 <I>SIAM Journal on Control and Optimization</I>, 55(2):856-884, 2017.<br>
 <br>
-
 
 <li> <a href ="http://ieeexplore.ieee.org/abstract/document/7542160/" target="_blank">
 Variance-constrained risk sharing in stochastic systems</a><br>
@@ -318,22 +269,21 @@ Insoon Yang,  Min Su Park,  and <a href="http://prema.snu.ac.kr/people/people1.p
 <I>International Journal of Precision Engineering and Manufacturing</I>, 10(2):5-10, 2009. </I><br>
 </OL>
 <br>
-<dt> <FONT SIZE=+1><b>Conference Publications</b></font><br>
+<dt> <b>Conference Publications</b><br>
 <br>
 
-<OL><li> 
+<OL>
+<li> 
 <a href ="https://proceedings.mlr.press/v242/shin24a.html" target="_blank">On task-relevant loss functions in meta-reinforcement learning</a><br>
 Jaeuk Shin, Giho Kim, Howon Lee, Joonho Han, and Insoon Yang   <br>
 <I>Learning for Dynamics and Control (L4DC)</I>, 2024. <br>
 <br>
-
 
 <li> 
 <a href ="https://proceedings.neurips.cc/paper_files/paper/2023/hash/c70741145c2c4f1d0c2e91b98729a49a-Abstract-Conference.html" target="_blank">Convergence analysis of ODE models for accelerated first-order methods via positive semidefinite kernels</a><br>
 Jungbin Kim, and Insoon Yang   <br>
 <I>Advances in Neural Information Processing Systems (NeurIPS)</I>, 2023. <br>
 <br>
-
 
 <li> 
 <a href ="https://ieeexplore.ieee.org/document/10383596" target="_blank">Data-driven stochastic optimization using upper confidence bounds: Performance guarantees and distributional robustness</a> <br>
@@ -347,20 +297,17 @@ Yeoneung Kim, Gihun Kim, and Insoon Yang   <br>
 <I>IEEE Conference on Decision and Control (CDC)</I>, 2023.  <br>
 <br>
 
-
 <li> 
 <a href ="https://proceedings.mlr.press/v202/kim23y.html" target="_blank">Unifying Nesterov's accelerated gradient methods for convex and strongly convex objective functions</a><br>
 Jungbin Kim, and Insoon Yang   <br>
 <I>International Conference on Machine Learning (ICML)</I>, 2023. <strong>(Oral, acceptance rate: 2.4%)</strong><br>
 <br>
 
-
 <li> <a href ="https://ieeexplore.ieee.org/document/10161246" target="_blank">
 Distributionally robust optimization with unscented transform for learning-based motion control in dynamic environments</a><br>
 Astghik Hakobyan, and  Insoon Yang   <br>
 <I>IEEE International Conference on Robotics and Automation (ICRA)</I>, 2023.<br>
 <br>
-
 
 <li> 
 <a href ="https://proceedings.neurips.cc/paper_files/paper/2022/hash/078fa8f77ce55ef6e9cf79275b88acb0-Abstract-Conference.html" target="_blank">Improved regret analysis for variance-adaptive linear bandits and horizon-free linear mixture MDPs</a><br>
@@ -380,9 +327,6 @@ Youngchae Cho, and Insoon Yang   <br>
 <I>IEEE Conference on Decision and Control (CDC)</I>, 2022. <br>
 <br>
 
-
-
-
 <li> 
 <a href ="https://proceedings.mlr.press/v162/kim22k.html" target="_blank">Accelerated gradient methods for geodesically convex optimization: Tractable algorithms and convergence analysis</a><br>
 Jungbin Kim, and Insoon Yang   <br>
@@ -401,13 +345,11 @@ Astghik Hakobyan, and Insoon Yang   <br>
 <I>IEEE Conference on Decision and Control (CDC)</I>, 2021. <br>
 <br>
 
-
 <li> 
 <a href ="https://ieeexplore.ieee.org/abstract/document/9304488" target="_blank">Minimax control of ambiguous linear stochastic systems using the Wasserstein metric</a> <br>
 Kihyun Kim, and Insoon Yang   <br>
 <I>IEEE Conference on Decision and Control (CDC)</I>, 2020. <br>
 <br>
-
 
 <li> 
 <a href ="https://ieeexplore.ieee.org/abstract/document/9304325/" target="_blank">A stochastic consensus method for nonconvex optimization on the Stiefel manifold</a> <br>
@@ -421,14 +363,11 @@ Melike Ermis, and Insoon Yang   <br>
 <I>IEEE Symposium on Adaptive Dynamic Programming and Reinforcement Learning (ADPRL)</I>,  2020. <br>
 <br>
 
-
-
 <li> <a href ="https://ieeexplore.ieee.org/abstract/document/9341415" target="_blank">
 Learning-based distributionally robust motion control with Gaussian processes</a><br>
 Astghik Hakobyan, and  Insoon Yang   <br>
 <I>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</I>, 2020.<br>
 <br>
-
 
 <li> <a href ="http://proceedings.mlr.press/v120/kim20b.html" target="_blank">
 Hamilton-Jacobi-Bellman equations for Q-learning in continuous time</a><br>
@@ -436,20 +375,17 @@ Jeongho Kim, and  Insoon Yang   <br>
 <I>Learning for Dynamics and Control (L4DC)</I>, 2020.  <br>
 <br>
 
-
 <li> <a href ="https://ieeexplore.ieee.org/document/9196857" target="_blank">
 Wasserstein distributionally robust motion planning and control with safety constraints using conditional value-at-risk</a><br>
 Astghik Hakobyan, and  Insoon Yang   <br>
 <I>IEEE International Conference on Robotics and Automation (ICRA)</I>, 2020.<br>
 <br>
 
-
 <li> 
 <a href ="https://ieeexplore.ieee.org/document/9028854" target="_blank">Stochastic subgradient methods for dynamic programming in continuous state and action spaces</a>   <br>
 Sunho Jang, and  Insoon Yang   <br>
 <I>IEEE Conference on Decision and Control (CDC)</I>, 2019.<br>
 <br>
-
 
 <li> 
 <a href ="https://ieeexplore.ieee.org/document/9028930" target="_blank">On improving the robustness of reinforcement learning-based controllers using disturbance observer</a>  <br>
@@ -469,13 +405,11 @@ Insoon Yang  <br>
 <I>IEEE Conference on Decision and Control (CDC)</I>, 2017.<br>
 <br>
 
-
 <li> <a href ="http://ieeexplore.ieee.org/abstract/document/8062463/" target="_blank">
 Data-driven distributionally robust control of energy storage to manage wind power fluctuations</a><br>
 Samantha Samuelson, and Insoon Yang  <br>
 <I>IEEE Conference on Control Technology and Applications (CCTA)</I>, 2017.<br>
 <br>
-
 
 <li> <a href ="https://www.sciencedirect.com/science/article/pii/S240589631732058X" target="_blank">
 Online combinatorial optimization for Interconnected refrigeration systems: linear approximation and submodularity</a>  <br>
@@ -532,7 +466,6 @@ Insoon Yang,  <a href="http://faculty.washington.edu/sburden/" target="_blank">S
 <I>IEEE Conference on Decision and Control (CDC)</I>, 2013. <br>
 <br>
 
-
 <li> <a href ="http://ieeexplore.ieee.org/document/6760022/" target="_blank">
 Regularization-based identification for level set equations</a> <br>
 Insoon Yang,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a> <br>
@@ -553,7 +486,7 @@ Insoon Yang,  Sabine Becker-Weimann,  <a href="http://www2.lbl.gov/LBL-Programs/
 </OL>
 <br>
 
-<dt> <FONT SIZE=+1><b>Book Chapters</b></font><br>
+<dt> <b>Book Chapters</b><br>
 <br>
 <OL>
 <li> 
@@ -567,7 +500,7 @@ Tien-Cuong Bui, Joonyoung Kim, Taewoo Kang, Donghyeon Lee, Junyoung Choi, Insoon
 </UL>
 
 <hr>
-<dt> <FONT SIZE=+2><b>Teaching</b></font><br>
+<dt> <b>Teaching</b><br>
 <UL>
 <li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Stochastic Control and Reinforcement Learning</a>, Sp18, Sp20, Sp21, Sp22, Sp23 (SNU)
 <li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Optimization Theory and Applications</a>, Fa19, Fa20, Sp21, Sp22 (SNU)
@@ -582,7 +515,7 @@ Tien-Cuong Bui, Joonyoung Kim, Taewoo Kang, Donghyeon Lee, Junyoung Choi, Insoon
 
 
 <hr>
-<dt> <FONT SIZE=+2><b>Brief Biography</b></font><br>
+<dt> <b>Brief Biography</b><br>
 <br>
 Insoon Yang is an Associate Professor of Electrical and Computer Engineering at Seoul National University. He received B.S. degrees in Mathematics and in Mechanical Engineering (summa cum laude) from Seoul National University in 2009; and an M.S. in EECS, an M.A. in Mathematics and a Ph.D. in EECS  from UC Berkeley in 2012, 2013 and 2015, respectively. 
 He was an Assistant Professor of Electrical  Engineering at University of Southern California  from 2016 to 2018, and a Postdoctoral Associate with the Laboratory for Information and Decision Systems at Massachusetts Institute of Technology  from
@@ -594,14 +527,9 @@ He was an Assistant Professor of Electrical  Engineering at University of Southe
  an associate editor for the <a href ="https://ieeecss.org/publication/open-journal-control-systems" target="_blank">IEEE Open Journal of Control Systems</a>, <a href ="https://ieeecss.org/publication/ieee-control-systems-letters" target="_blank">IEEE Control Systems Letters</a>, and IEEE CSS Conference Editorial Board, and a vice-chair of the IFAC Technical Committee on Stochastic Systems.
 <br> 
 <br> 
-Erd&oumls number: 3 (S. Shankar Sastry - B&eacutela Bollob&aacutes - Paul Erd&oumls)
+Erd&ouml;s number: 3 (S. Shankar Sastry - B&eacutela Bollob&aacutes - Paul Erd&oumls)
 <br> 
 </dl><p>
 <HR>
 <dt>
 
-
-
-
-
-</body>
