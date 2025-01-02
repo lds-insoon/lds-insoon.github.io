@@ -29,6 +29,7 @@ redirect_from:
 <li><bf> Stochastic control and reinforcement learning</bf><br> 
 <li><bf> Safe autonomy and risk management</bf><br> 
 <li><bf> Optimization</bf><br> 
+</li>
 </UL>
 Acknowledgement: Supported by 
 Samsung Electronics DIT (2022-23),
@@ -57,6 +58,7 @@ NSF CNS (2017-19).
 <li> EECS Distinguished Student Teaching Award, UC Berkeley, 2013<br>
 <li> Summa cum laude, Seoul National University, 2009<br>
 <li> Special Prize in Mathematics Olympiad for University Students, Korean Mathematical Society, (twice) 2003, 2004<br>
+</li>
 </UL>
 <hr>
 <dt> <b>Publications</b><br>
