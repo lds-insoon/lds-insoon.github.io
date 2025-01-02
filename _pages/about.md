@@ -14,6 +14,7 @@ redirect_from:
 <li><bf> Assistant Professor (<a href="https://minghsiehece.usc.edu/" target="_blank">EE</a>), University of Southern California (USC), 2016-2018 <br>
 <li><bf> Postdoctoral Associate (<a href="http://lids.mit.edu/" target="_blank">LIDS</a>), Massachusetts Institute of Technology (MIT), 2015-2016 <br>
 
+</UL>
 <hr>
 <dt> <b>Education</b><br>
 <UL>
