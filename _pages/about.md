@@ -31,20 +31,6 @@ redirect_from:
 <li><bf> Optimization</bf><br> 
 </li>
 </UL>
-Acknowledgement: Supported by 
-Samsung Electronics DIT (2022-23),
-IITP RL (2022-26),
-IITP Competency-Aware ML (2022-26),
-SK Hynix AICC (2020-21),
-IITP Cloud Robot AI (2020-23),
-NRF Early Career (2020-24),
-Samsung Electronics DS (2018-23),
-NRF Basic Research Lab (2018-24),
-Sindoh (2018-2021),
-SNU Creative-Pioneering (2018-21),
-Seoul Digital Foundation (2018-19),
-NSF ECCS (2017-20), and
-NSF CNS (2017-19).
 <br>
 <hr>
 <dt> <b>Awards and Honors</b><br>
@@ -529,6 +515,20 @@ He was an Assistant Professor of Electrical  Engineering at University of Southe
 <br> 
 Erd&ouml;s number: 3 (S. Shankar Sastry - B&eacutela Bollob&aacutes - Paul Erd&oumls)
 <br> 
+Acknowledgement: Supported by 
+Samsung Electronics DIT (2022-23),
+IITP RL (2022-26),
+IITP Competency-Aware ML (2022-26),
+SK Hynix AICC (2020-21),
+IITP Cloud Robot AI (2020-23),
+NRF Early Career (2020-24),
+Samsung Electronics DS (2018-23),
+NRF Basic Research Lab (2018-24),
+Sindoh (2018-2021),
+SNU Creative-Pioneering (2018-21),
+Seoul Digital Foundation (2018-19),
+NSF ECCS (2017-20), and
+NSF CNS (2017-19).
 <p>
 <HR>
 <dt>
