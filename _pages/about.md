@@ -10,9 +10,9 @@ redirect_from:
 <dt> <b>Academic Appointments</b><br>
 <UL>
 <li> Associate Professor (<a href="http://ece.snu.ac.kr/en" target="_blank">ECE</a>), Seoul National University (SNU), 2020- <br></li>
-<li><bf> Assistant Professor (<a href="http://ece.snu.ac.kr/en" target="_blank">ECE</a>), Seoul National University (SNU), 2018-2020 <br></bf></li>
-<li><bf> Assistant Professor (<a href="https://minghsiehece.usc.edu/" target="_blank">EE</a>), University of Southern California (USC), 2016-2018 <br></bf></li>
-<li><bf> Postdoctoral Associate (<a href="http://lids.mit.edu/" target="_blank">LIDS</a>), Massachusetts Institute of Technology (MIT), 2015-2016 <br></bf></li>
+<li> Assistant Professor (<a href="http://ece.snu.ac.kr/en" target="_blank">ECE</a>), Seoul National University (SNU), 2018-2020 <br></li>
+<li>Assistant Professor (<a href="https://minghsiehece.usc.edu/" target="_blank">EE</a>), University of Southern California (USC), 2016-2018 <br></li>
+<li>Postdoctoral Associate (<a href="http://lids.mit.edu/" target="_blank">LIDS</a>), Massachusetts Institute of Technology (MIT), 2015-2016 <br></li>
 </UL>
 <hr>
 <dt> <b>Education</b><br>
