@@ -1,5 +1,6 @@
 ---
 permalink: /
+layout: archive
 title: "Insoon Yang github homepage"
 author_profile: true
 redirect_from: 
