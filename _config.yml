@@ -25,8 +25,8 @@ author:
   name             : "Insoon Yang"
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Room 708, Bldg 301,1 Gwanak-ro, Gwanak-gu, Seoul, 08826, South Korea"
+  Research Group   : "Control and Optimization Research Lab"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -303,6 +303,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-target-blank
   - jemoji
 
 # Mimic GitHub Pages with --safe
