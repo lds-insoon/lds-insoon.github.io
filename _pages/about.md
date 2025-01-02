@@ -475,15 +475,15 @@ Insoon Yang,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_b
 <I>IEEE Conference on Decision and Control (CDC)</I>, 2013. <br>
 <br>
 
-<li> <a href ="http://ieeexplore.ieee.org/document/6580338/" target="_blank"></li>
+<li> <a href ="http://ieeexplore.ieee.org/document/6580338/" target="_blank">
 Identification of surface tension in mean curvature flow</a> <br>
 Insoon Yang,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a> <br>
-<I>American Control Conference (ACC)</I>, 2013. <br>
+<I>American Control Conference (ACC)</I>, 2013. <br></li>
 <br>
 
-<li> <a href ="http://dl.acm.org/citation.cfm?id=2461359" target="_blank"></li>
+<li> <a href ="http://dl.acm.org/citation.cfm?id=2461359" target="_blank">
 One-shot computation of reachable sets for differential games</a> <br>
-Insoon Yang,  Sabine Becker-Weimann,  <a href="http://www2.lbl.gov/LBL-Programs/lifesciences/BissellLab/main.html" target="_blank">Mina J. Bissell</a>,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a>
+Insoon Yang,  Sabine Becker-Weimann,  <a href="http://www2.lbl.gov/LBL-Programs/lifesciences/BissellLab/main.html" target="_blank">Mina J. Bissell</a>,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a></li>
  <br>
 <I>ACM International Conference on Hybrid Systems: Computation and Control (HSCC)</I>, 2013. <br>
 </OL>
