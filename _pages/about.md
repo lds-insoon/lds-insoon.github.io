@@ -463,7 +463,7 @@ Insoon Yang,  <a href="https://erg.berkeley.edu/people/callaway-duncan/" target=
 <I>American Control Conference (ACC)</I>, 2014.<br></li>
 <br>
 
-<li> <a href ="http://ieeexplore.ieee.org/document/6760081/" target="_blank"
+<li> <a href ="http://ieeexplore.ieee.org/document/6760081/" target="_blank">
 Infinitesimal interconnection variation in nonlinear networked systems</a> <br>
 Insoon Yang,  <a href="http://faculty.washington.edu/sburden/" target="_blank">Samuel A. Burden</a>,  <a href="http://robotics.eecs.berkeley.edu/~sastry/" target="_blank">S. Shankar Sastry</a>,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a> <br>
 <I>IEEE Conference on Decision and Control (CDC)</I>, 2013. <br>></li>
