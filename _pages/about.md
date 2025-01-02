@@ -48,7 +48,7 @@ For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
-<dt><b>Brief Biography</b><br>
+<b>Brief Biography</b><br>
 <br>
 Insoon Yang is an Associate Professor of Electrical and Computer Engineering at Seoul National University. He received B.S. degrees in Mathematics and in Mechanical Engineering (summa cum laude) from Seoul National University in 2009; and an M.S. in EECS, an M.A. in Mathematics and a Ph.D. in EECS  from UC Berkeley in 2012, 2013 and 2015, respectively. 
 He was an Assistant Professor of Electrical  Engineering at University of Southern California  from 2016 to 2018, and a Postdoctoral Associate with the Laboratory for Information and Decision Systems at Massachusetts Institute of Technology  from
