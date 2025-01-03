@@ -385,8 +385,7 @@ Insoon Yang,  Sabine Becker-Weimann,  <a href="http://www2.lbl.gov/LBL-Programs/
 <hr>
 <dt> <b>Ph.D. Students and Postdocs</b><br><br>
 <font size=3>  
-<dt> <b>Current</b><br>
-</font>  
+<dt> <b>Current</b><br>  
 <UL>
 <font size=3>  
 <li> Jaeuk Shin</li>
@@ -402,8 +401,7 @@ Insoon Yang,  Sabine Becker-Weimann,  <a href="http://www2.lbl.gov/LBL-Programs/
 </font>  
 </UL>
 <font size=3>  
-<dt> <b>Former</b><br>
-</font>  
+<dt> <b>Former</b><br>  
 <UL>
 <font size=3>  
 <li> Astghik Hakobyan (PhD 2023). Current: Assistant Professor, National Polytechnic University of Armenia</li>
