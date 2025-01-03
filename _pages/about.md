@@ -388,7 +388,6 @@ Insoon Yang,  Sabine Becker-Weimann,  <a href="http://www2.lbl.gov/LBL-Programs/
 </OL>
 </font>
 <br>
-
 <dt> <b>Book Chapters</b><br>
 <font size=3> 
 <br>
@@ -399,7 +398,6 @@ Tien-Cuong Bui, Joonyoung Kim, Taewoo Kang, Donghyeon Lee, Junyoung Choi, Insoon
 <I>In: Intelligent Systems and Applications, vol. 1251, pp. 389-406, Springer, 2021.</I> <br></li>
 </OL>
 </font>
-</UL>
 <hr>
 <dt> <b>Teaching</b><br>
 <UL>
