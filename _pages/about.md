@@ -26,7 +26,7 @@ I am an Associate Professor of <a href ="https://ece.snu.ac.kr/en" target="_blan
 </UL>
 <hr>
 <dt> <b>Publications</b><br>
-<UL>
+
 <dt> <b>Journal Publications</b><br>
 <font size=3> 
 <OL>
@@ -399,7 +399,7 @@ Tien-Cuong Bui, Joonyoung Kim, Taewoo Kang, Donghyeon Lee, Junyoung Choi, Insoon
 <I>In: Intelligent Systems and Applications, vol. 1251, pp. 389-406, Springer, 2021.</I> <br></li>
 </OL>
 </font>
-</UL>
+
 
 
 <hr>
