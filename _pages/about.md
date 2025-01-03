@@ -10,21 +10,6 @@ redirect_from:
 I am an Associate Professor of <a href ="https://ece.snu.ac.kr/en" target="_blank">ECE</a> at <a href ="https://en.snu.ac.kr" target="_blank">Seoul National University</a>. I completed my Ph.D. in <a href ="https://eecs.berkeley.edu/" target="_blank">EECS</a> at <a href ="https://berkeley.edu/" target="_blank">UC Berkeley</a> in 2015 (advisor: <a href ="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire Tomlin</a>). I was an Assistant Professor of <a href ="https://minghsiehece.usc.edu/" target="_blank">EE</a> at <a href ="https://usc.edu/" target="_blank">University of Southern California</a> from 2016 to 2018, and a Postdoctoral Associate with the <a href ="https://lids.mit.edu/" target="_blank">Laboratory for Information and Decision Systems</a> at <a href ="https://web.mit.edu/" target="_blank">Massachusetts Institute of Technology</a> from
 2015 to 2016. My research focus is on stochastic control, optimization and reinforcement learning, with application to safe and interactive autonomy. I am particularly interested in the interplay between learning and decision systems under uncertainty. </font>
 <hr>
-<dt> <b>Awards and Honors</b><br>
-<UL>
-<font size=3>  
-<li> CoE Teaching Award, College of Engineering, Seoul National University, 2022<br></li>
-<li> ECE Teaching Award, ECE Dept., Seoul National University, 2020<br></li>
-<li> Creative-Pioneering Researcher, Seoul National University, 2018<br></li>
-<li> Best Student Paper Award Finalist, The 55th IEEE Conference on Decision and Control (CDC), 2016<br></li>
-<li> Eli Jury Award (Outstanding contribution to Systems, Communications, and Control), UC Berkeley, 2015<br></li>
-<li> University Outstanding Graduate Student Instructor Award, UC Berkeley, 2013<br></li>
-<li> EECS Distinguished Student Teaching Award, UC Berkeley, 2013<br></li>
-<li> Summa cum laude, Seoul National University, 2009<br></li>
-<li> Special Prize in Mathematics Olympiad for University Students, Korean Mathematical Society, (twice) 2003, 2004<br>
-</li></font>
-</UL>
-<hr>
 <dt> <b>Journal Publications</b><br>
 <font size=3> 
 <OL>
