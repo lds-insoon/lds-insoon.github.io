@@ -35,7 +35,7 @@ I am an Associate Professor of <a href ="https://ece.snu.ac.kr/en" target="_blan
 <b>Control of fab lifters via deep reinforcement learning: A semi-MDP approach</b></a><br>
 Giho Kim, Jaeuk Shin, Gihun Kim, Joonrak Kim, and
 Insoon Yang <br>
-<I><b>IEEE Transactions on Automation Science and Engineering</b></I>, 21(4):5136-5148, 2024.<br></li>
+<I>IEEE Transactions on Automation Science and Engineering</I>, 21(4):5136-5148, 2024.<br></li>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/10509008" target="_blank">
 <b>Wasserstein distributionally robust control of partially observable
