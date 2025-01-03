@@ -403,25 +403,9 @@ Tien-Cuong Bui, Joonyoung Kim, Taewoo Kang, Donghyeon Lee, Junyoung Choi, Insoon
 
 
 <hr>
-<dt> <b>Awards and Honors</b><br>
-<UL>
-<font size=3>  
-<li> CoE Teaching Award, College of Engineering, Seoul National University, 2022<br></li>
-<li> ECE Teaching Award, ECE Dept., Seoul National University, 2020<br></li>
-<li> Creative-Pioneering Researcher, Seoul National University, 2018<br></li>
-<li> Best Student Paper Award Finalist, The 55th IEEE Conference on Decision and Control (CDC), 2016<br></li>
-<li> Eli Jury Award (Outstanding contribution to Systems, Communications, and Control), UC Berkeley, 2015<br></li>
-<li> University Outstanding Graduate Student Instructor Award, UC Berkeley, 2013<br></li>
-<li> EECS Distinguished Student Teaching Award, UC Berkeley, 2013<br></li>
-<li> Summa cum laude, Seoul National University, 2009<br></li>
-<li> Special Prize in Mathematics Olympiad for University Students, Korean Mathematical Society, (twice) 2003, 2004<br>
-</li></font>
-</UL>
-
-  
 <dt> <b>Teaching</b><br>
 <UL>
-<font size=3>
+<font size=3><br>
 <li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Optimization Theory and Applications</a>, Fa19, Fa20, Sp21, Sp22, Fa24 (SNU)<br></li>
 <li> Linear Algebra for Engineering, Fa17 (USC), Fa24 (SNU)<br></li>
 <li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Deep Reinforcement Learning</a>, Su19, Su20, Su21, Su22, Su23, Su24 (Samsung)<br></li>
