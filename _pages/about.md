@@ -28,7 +28,6 @@ I am an Associate Professor of <a href ="https://ece.snu.ac.kr/en" target="_blan
 <dt> <b>Journal Publications</b><br>
 <font size=3> 
 <OL>
-<br> 
 <li> <a href ="https://ieeexplore.ieee.org/document/10239211" target="_blank">
 <b>Control of fab lifters via deep reinforcement learning: A semi-MDP approach</b></a><br>
 Giho Kim, Jaeuk Shin, Gihun Kim, Joonrak Kim, and
@@ -205,7 +204,6 @@ Insoon Yang,  Min Su Park,  and <a href="http://prema.snu.ac.kr/people/people1.p
 <hr>
 <dt> <b>Conference Publications</b><br>
 <font size=3> 
-<br>
 <OL>
 <li> 
 <a href ="https://proceedings.mlr.press/v242/shin24a.html" target="_blank"><b>On task-relevant loss functions in meta-reinforcement learning</b></a><br>
@@ -385,21 +383,10 @@ Insoon Yang,  Sabine Becker-Weimann,  <a href="http://www2.lbl.gov/LBL-Programs/
 <I><b>ACM International Conference on Hybrid Systems: Computation and Control (HSCC)</b></I>, 2013. <br></li>
 </OL>
 </font>
-<br>
-<dt> <b>Book Chapters</b><br>
-<font size=3> 
-<br>
-<OL>
-<li> 
-<a href ="https://link.springer.com/chapter/10.1007/978-3-030-55187-2_31" target="_blank"><b>STAR: Spatio-temporal prediction of air quality using a multimodal approach</b></a>   <br>
-Tien-Cuong Bui, Joonyoung Kim, Taewoo Kang, Donghyeon Lee, Junyoung Choi, Insoon Yang, <a href="http://milab.snu.ac.kr/kjung/" target="_blank">Kyomin Jung</a>, and <a href="http://kdb.snu.ac.kr/chask/" target="_blank">Sang Kyun Cha</a>   <br>
-<I>In: Intelligent Systems and Applications, vol. 1251, pp. 389-406, Springer, 2021.</I> <br></li>
-</OL>
-</font>
 <hr>
 <dt> <b>Teaching</b><br>
 <UL>
-<font size=3><br>
+<font size=3>
 <li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Optimization Theory and Applications</a>, Fa19, Fa20, Sp21, Sp22, Fa24 (SNU)<br></li>
 <li> Linear Algebra for Engineering, Fa17 (USC), Fa24 (SNU)<br></li>
 <li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Deep Reinforcement Learning</a>, Su19, Su20, Su21, Su22, Su23, Su24 (Samsung)<br></li>
