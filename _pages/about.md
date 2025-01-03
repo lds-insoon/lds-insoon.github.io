@@ -383,5 +383,13 @@ Insoon Yang,  Sabine Becker-Weimann,  <a href="http://www2.lbl.gov/LBL-Programs/
 <li> Linear System Theory (EE585), Fa16 (USC)<br></li></font>
 </UL>
 <hr>
+<dt> <b>Students and Postdocs</b><br>
+<dt> <b>Current</b><br>  
+<UL>
+<font size=3>
+<li> Jaeuk Shin</li>
+<li> </li>
+</font>
+</UL>
 
 
