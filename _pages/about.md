@@ -26,7 +26,7 @@ I am an Associate Professor of <a href ="https://ece.snu.ac.kr/en" target="_blan
 </UL>
 <hr>
 <dt> <b>Publications</b><br>
-
+<UL>
 <dt> <b>Journal Publications</b><br>
 <font size=3> 
 <OL>
@@ -399,9 +399,7 @@ Tien-Cuong Bui, Joonyoung Kim, Taewoo Kang, Donghyeon Lee, Junyoung Choi, Insoon
 <I>In: Intelligent Systems and Applications, vol. 1251, pp. 389-406, Springer, 2021.</I> <br></li>
 </OL>
 </font>
-
-
-
+</UL>
 <hr>
 <dt> <b>Teaching</b><br>
 <UL>
@@ -416,9 +414,6 @@ Tien-Cuong Bui, Joonyoung Kim, Taewoo Kang, Donghyeon Lee, Junyoung Choi, Insoon
 <li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Optimal Control Theory</a>, Fa18 (SNU)<br></li>
 <li> Linear System Theory (EE585), Fa16 (USC)<br></li></font>
 </UL>
-
-
 <hr>
 
-<dt>
 
