@@ -25,8 +25,6 @@ I am an Associate Professor of <a href ="https://ece.snu.ac.kr/en" target="_blan
 </li></font>
 </UL>
 <hr>
-<dt> <b>Publications</b><br>
-<UL>
 <dt> <b>Journal Publications</b><br>
 <font size=3> 
 <OL>
@@ -204,7 +202,7 @@ Insoon Yang,  Min Su Park,  and <a href="http://prema.snu.ac.kr/people/people1.p
 <I><b>International Journal of Precision Engineering and Manufacturing</b></I>, 10(2):5-10, 2009. </I><br></li>
 </OL>
 </font>
-<br>
+<hr>
 <dt> <b>Conference Publications</b><br>
 <font size=3> 
 <br>
