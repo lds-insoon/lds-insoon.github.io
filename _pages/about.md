@@ -385,8 +385,10 @@ Insoon Yang,  Sabine Becker-Weimann,  <a href="http://www2.lbl.gov/LBL-Programs/
 <hr>
 <dt> <b>Ph.D. Students and Postdocs</b><br><br>
 <font size=3>  
-<dt> <b>Current</b><br>  
+<dt> <b>Current</b><br>
+</font>  
 <UL>
+<font size=3>  
 <li> Jaeuk Shin</li>
 <li> Giho Kim</li>
 <li> Giwhan Kim</li>
@@ -396,14 +398,19 @@ Insoon Yang,  Sabine Becker-Weimann,  <a href="http://www2.lbl.gov/LBL-Programs/
 <li> Howon Lee</li>
 <li> Wonhyung Jung</li>
 <li> Jungjin Lee</li>
-<li> Sukchul Jung</li>  
+<li> Sukchul Jung</li>
+</font>  
 </UL>
-<dt> <b>Former</b><br>  
+<font size=3>  
+<dt> <b>Former</b><br>
+</font>  
 <UL>
+<font size=3>  
 <li> Astghik Hakobyan (PhD 2023). Current: Assistant Professor, National Polytechnic University of Armenia</li>
 <li> Jeongho Kim (Postdoc 2019-21). Current: Assistant Professor of Applied Mathematics, Kyung Hee University</li>
 <li> Yeoneung Kim (Postdoc 2021-22). Current: Assistant Professor of Applied Artificial Intelligence, SeoulTech</li>
-<li> Youngchae Cho (Postdoc 2021-24). Current: Research Associate, Tokyo Institute of Technology</li>  
+<li> Youngchae Cho (Postdoc 2021-24). Current: Research Associate, Tokyo Institute of Technology</li>
+</font>  
 </UL>
-</font>
+
 
