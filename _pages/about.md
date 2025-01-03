@@ -198,7 +198,7 @@ Insoon Yang,  and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_b
 <li> <a href ="https://link.springer.com/article/10.1007/s12541-009-0020-5" target="_blank">
 <b>Micro ECM with ultrasonic vibrations using a semi-cylindrical tool</b></a><br>
 Insoon Yang,  Min Su Park,  and <a href="http://prema.snu.ac.kr/people/people1.php" target="_blank">Chong Nam Chu</a> <br>
-<I>International Journal of Precision Engineering and Manufacturing</I>, 10(2):5-10, 2009. </I><br></li>
+<I>International Journal of Precision Engineering and Manufacturing</I>, 10(2):5-10, 2009. <br></li>
 </OL>
 </font>
 <hr>
