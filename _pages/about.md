@@ -403,16 +403,16 @@ Tien-Cuong Bui, Joonyoung Kim, Taewoo Kang, Donghyeon Lee, Junyoung Choi, Insoon
 
 <hr>
 <dt> <b>Teaching</b><br>
-<UL>
+<UL><font size=3>
+<li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Optimization Theory and Applications</a>, Fa19, Fa20, Sp21, Sp22, Fa24 (SNU)</li>
+<li> Linear Algebra for Engineering, Fa17 (USC), Fa24 (SNU)</li>
+  <li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Deep Reinforcement Learning</a>, Su19, Su20, Su21, Su22, Su23, Su24 (Samsung)</li>
 <li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Stochastic Control and Reinforcement Learning</a>, Sp18, Sp20, Sp21, Sp22, Sp23 (SNU)</li>
-<li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Optimization Theory and Applications</a>, Fa19, Fa20, Sp21, Sp22 (SNU)</li>
-<li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Deep Reinforcement Learning</a>, Su19, Su20, Su21, Su22, Su23 (Samsung)</li>
 <li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Advanced Control</a>, Fa20, Fa21, Fa22 (SNU)</li>
 <li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Feedback Control Systems</a>, Fa19 (SNU)</li>
 <li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Introduction to Robotics and Autonomous Systems</a>, Sp19 (SNU)</li>
 <li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Optimal Control Theory</a>, Fa18 (SNU)</li>
-<li> Linear Algebra for Engineering (EE510), Fa17 (USC)</li>
-<li> Linear System Theory (EE585), Fa16 (USC)</li>
+<li> Linear System Theory (EE585), Fa16 (USC)</li></font>
 </UL>
 
 
