@@ -21,7 +21,7 @@ repository               : "lds-insoon.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "insoon_p.jpg"
   name             : "Insoon Yang"
   occupation       : "Associate Professor"
   Phone            : "82-2-880-8489"
