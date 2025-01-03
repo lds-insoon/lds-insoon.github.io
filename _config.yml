@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Insoon Yang"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Insoon Yang"
 description              : &description "personal description"
