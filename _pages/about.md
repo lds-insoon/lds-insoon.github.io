@@ -12,7 +12,7 @@ I am an Associate Professor of <a href ="https://ece.snu.ac.kr/en" target="_blan
 2015 to 2016. My research focus is on stochastic control, optimization and reinforcement learning, with application to safe and interactive autonomy. I am particularly interested in the interplay between learning and decision systems under uncertainty. 
 <br>
 <br>  
-I was the recipient of the 2015 Eli Jury Award and a finalist for the Best Student Paper Award at the 55th IEEE Conference on Decision and Control (CDC) 2016. I am  an associate editor for the <a href ="https://ieeecss.org/publication/open-journal-control-systems" target="_blank">IEEE Open Journal of Control Systems</a>, <a href ="https://ieeecss.org/publication/ieee-control-systems-letters" target="_blank">IEEE Control Systems Letters</a>, and IEEE CSS Conference Editorial Board, and a vice-chair of the IFAC Technical Committee on Stochastic Systems.
+I was the recipient of the 2015 Eli Jury Award and a finalist for the Best Student Paper Award at the 55th IEEE Conference on Decision and Control (CDC) 2016. I serve as an associate editor for the <a href ="https://ieeecss.org/publication/open-journal-control-systems" target="_blank">IEEE Open Journal of Control Systems</a>, <a href ="https://ieeecss.org/publication/ieee-control-systems-letters" target="_blank">IEEE Control Systems Letters</a>, and IEEE CSS Conference Editorial Board, and a vice-chair of the IFAC Technical Committee on Stochastic Systems.
 <br>
 <br>  
 Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
