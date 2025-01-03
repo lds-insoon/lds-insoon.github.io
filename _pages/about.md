@@ -6,9 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 <font size=3>
 I am an Associate Professor of <a href ="https://ece.snu.ac.kr/en" target="_blank">ECE</a> at <a href ="https://en.snu.ac.kr" target="_blank">Seoul National University</a>. I completed my Ph.D. in <a href ="https://eecs.berkeley.edu/" target="_blank">EECS</a> at <a href ="https://berkeley.edu/" target="_blank">UC Berkeley</a> in 2015 (advisor: <a href ="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire Tomlin</a>). I was an Assistant Professor of <a href ="https://minghsiehece.usc.edu/" target="_blank">EE</a> at <a href ="https://usc.edu/" target="_blank">University of Southern California</a> from 2016 to 2018, and a Postdoctoral Associate with the <a href ="https://lids.mit.edu/" target="_blank">Laboratory for Information and Decision Systems</a> at <a href ="https://web.mit.edu/" target="_blank">Massachusetts Institute of Technology</a> from
-2015 to 2016. My research focus is on stochastic control, optimization and reinforcement learning, with application to safe and interactive autonomy. I am particularly interested in the interplay between learning and decision systems under uncertainty. </font>
+2015 to 2016. My research focus is on stochastic control, optimization and reinforcement learning, with application to safe and interactive autonomy. I am particularly interested in the interplay between learning and decision systems under uncertainty. 
+</font>
 <hr>
 <dt> <b>Journal Publications</b><br>
 <font size=3> 
