@@ -399,6 +399,7 @@ Tien-Cuong Bui, Joonyoung Kim, Taewoo Kang, Donghyeon Lee, Junyoung Choi, Insoon
 <I>In: Intelligent Systems and Applications, vol. 1251, pp. 389-406, Springer, 2021.</I> <br></li>
 </OL>
 </font>
+</dt>
 
 
 <hr>
