@@ -13,18 +13,18 @@ I am an Associate Professor of <a href ="https://ece.snu.ac.kr/en" target="_blan
 <dt> <b>Journal Publications</b><br>
 <font size=3> 
 <OL>
-<li> <a href ="https://ieeexplore.ieee.org/document/10239211" target="_blank">
-<b>Control of fab lifters via deep reinforcement learning: A semi-MDP approach</b></a><br>
-Giho Kim, Jaeuk Shin, Gihun Kim, Joonrak Kim, and
-Insoon Yang <br>
-<I>IEEE Transactions on Automation Science and Engineering</I>, 21(4):5136-5148, 2024.<br></li>
-
 <li> <a href ="https://ieeexplore.ieee.org/document/10509008" target="_blank">
 <b>Wasserstein distributionally robust control of partially observable
 linear stochastic systems</b></a><br>
 Astghik Hakobyan, and
 Insoon Yang <br>
 <I>IEEE Transactions on Automatic Control</I>,  69(9):6121-6136, 2024.<br></li>
+
+<li> <a href ="https://ieeexplore.ieee.org/document/10239211" target="_blank">
+<b>Control of fab lifters via deep reinforcement learning: A semi-MDP approach</b></a><br>
+Giho Kim, Jaeuk Shin, Gihun Kim, Joonrak Kim, and
+Insoon Yang <br>
+<I>IEEE Transactions on Automation Science and Engineering</I>, 21(4):5136-5148, 2024.<br></li>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/10415511" target="_blank">
 <b>Risk-aware Wasserstein distributionally robust control of vessels in natural waterways</b></a><br>
