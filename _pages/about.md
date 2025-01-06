@@ -16,9 +16,6 @@ I was the recipient of the 2015 Eli Jury Award and a finalist for the Best Stude
 <br>
 <br>  
 Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
-<br>
-<br>   
-CV: pdf 
 <br>  
 </font>
 <hr>
