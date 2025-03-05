@@ -200,6 +200,11 @@ Insoon Yang,  Min Su Park,  and <a href="http://prema.snu.ac.kr/people/people1.p
 <font size=3> 
 <OL>
 <li> 
+<a href ="[https://proceedings.mlr.press/v242/shin24a.html](https://arxiv.org/pdf/2405.19380)" target="_blank"><b>Approximate Thompson Sampling for Learning Linear Quadratic Regulators with $O(\sqrt{T})$ Regret-</b></a><br>
+Yeoneung Lim, Gihun Kim, and Insoon Yang   <br>
+<I>Learning for Dynamics and Control (L4DC)</I>, 2025. <br></li>
+  
+<li> 
 <a href ="https://proceedings.mlr.press/v242/shin24a.html" target="_blank"><b>On task-relevant loss functions in meta-reinforcement learning</b></a><br>
 Jaeuk Shin, Giho Kim, Howon Lee, Joonho Han, and Insoon Yang   <br>
 <I>Learning for Dynamics and Control (L4DC)</I>, 2024. <br></li>
