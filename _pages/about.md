@@ -386,6 +386,7 @@ Insoon Yang,  Sabine Becker-Weimann,  <a href="http://www2.lbl.gov/LBL-Programs/
 <dt> <b>Teaching</b><br>
 <UL>
 <font size=3>
+<li> Probability and Random Processes</a>, Sp25 (SNU)<br></li>
 <li> Optimization Theory and Applications</a>, Fa19, Fa20, Sp21, Sp22, Fa24 (SNU)<br></li>
 <li> Linear Algebra for Engineering, Fa17 (USC), Fa24 (SNU)<br></li>
 <li> Deep Reinforcement Learning</a>, Su19, Su20, Su21, Su22, Su23, Su24 (Samsung)<br></li>
