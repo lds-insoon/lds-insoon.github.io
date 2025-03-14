@@ -200,7 +200,7 @@ Insoon Yang,  Min Su Park,  and <a href="http://prema.snu.ac.kr/people/people1.p
 <font size=3> 
 <OL>
 <li> 
-<a href ="https://arxiv.org/pdf/2405.19380" target="_blank"><b>Approximate Thompson sampling for learning linear quadratic regulators with $O(\sqrt{T})$ regret-</b></a><br>
+<a href ="https://arxiv.org/pdf/2405.19380" target="_blank"><b>Approximate Thompson sampling for learning linear quadratic regulators with $O(\sqrt{T})$ regret</b></a><br>
 Yeoneung Lim, Gihun Kim, and Insoon Yang   <br>
 <I>Learning for Dynamics and Control (L4DC)</I>, 2025. <br></li>
   
@@ -386,14 +386,14 @@ Insoon Yang,  Sabine Becker-Weimann,  <a href="http://www2.lbl.gov/LBL-Programs/
 <dt> <b>Teaching</b><br>
 <UL>
 <font size=3>
-<li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Optimization Theory and Applications</a>, Fa19, Fa20, Sp21, Sp22, Fa24 (SNU)<br></li>
+<li> Optimization Theory and Applications</a>, Fa19, Fa20, Sp21, Sp22, Fa24 (SNU)<br></li>
 <li> Linear Algebra for Engineering, Fa17 (USC), Fa24 (SNU)<br></li>
-<li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Deep Reinforcement Learning</a>, Su19, Su20, Su21, Su22, Su23, Su24 (Samsung)<br></li>
-<li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Stochastic Control and Reinforcement Learning</a>, Sp18, Sp20, Sp21, Sp22, Sp23 (SNU)<br></li>
-<li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Advanced Control</a>, Fa20, Fa21, Fa22 (SNU)<br></li>
-<li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Feedback Control Systems</a>, Fa19 (SNU)<br></li>
-<li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Introduction to Robotics and Autonomous Systems</a>, Sp19 (SNU)<br></li>
-<li> <a href="http://coregroup.snu.ac.kr/teaching/" target="_blank">Optimal Control Theory</a>, Fa18 (SNU)<br></li>
+<li> Deep Reinforcement Learning</a>, Su19, Su20, Su21, Su22, Su23, Su24 (Samsung)<br></li>
+<li> Stochastic Control and Reinforcement Learning</a>, Sp18, Sp20, Sp21, Sp22, Sp23 (SNU)<br></li>
+<li> Advanced Control</a>, Fa20, Fa21, Fa22 (SNU)<br></li>
+<li> Feedback Control Systems</a>, Fa19 (SNU)<br></li>
+<li> Introduction to Robotics and Autonomous Systems</a>, Sp19 (SNU)<br></li>
+<li> Optimal Control Theory</a>, Fa18 (SNU)<br></li>
 <li> Linear System Theory (EE585), Fa16 (USC)<br></li></font>
 </UL>
 <hr>
