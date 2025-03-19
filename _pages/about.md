@@ -227,7 +227,7 @@ Yeoneung Kim, Gihun Kim, and Insoon Yang   <br>
 <li> 
 <a href ="https://proceedings.mlr.press/v202/kim23y.html" target="_blank"><b>Unifying Nesterov's accelerated gradient methods for convex and strongly convex objective functions</b></a><br>
 Jungbin Kim, and Insoon Yang   <br>
-<I>International Conference on Machine Learning (ICML)</I>, 2023. <strong>(Oral, acceptance rate: 2.4%)</strong><br></li>
+<I>International Conference on Machine Learning (ICML)</I>, 2023. <strong>(Oral, top 2%)</strong><br></li>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/10161246" target="_blank">
 <b>Distributionally robust optimization with unscented transform for learning-based motion control in dynamic environments</b></a><br>
