@@ -46,12 +46,12 @@ Insoon Yang <br>
 <b>Multiparametric analysis of multi-task Markov decision processes:
 Structure, invariance, and reducibility</b></a><br>
 Jaeuk Shin, and Insoon Yang <br>
-<I>IEEE Control Systems Letters</I>, 8:928-933, 2024. <strong>(Selected for presentation at CDC 24)</strong><br></li>
+<I>IEEE Control Systems Letters</I>, 8:928-933, 2024. (Selected for presentation at CDC 24)<br></li>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/10534845" target="_blank">
 <b>Wasserstein distributionally robust regret minimization</b></a><br>
 Youngchae Cho, and Insoon Yang <br>
-<I>IEEE Control Systems Letters</I>, 8:820-825, 2024. <strong>(Selected for presentation at CDC 24)</strong><br></li>
+<I>IEEE Control Systems Letters</I>, 8:820-825, 2024. (Selected for presentation at CDC 24)<br></li>
 
 <li> <a href ="https://www.sciencedirect.com/science/article/abs/pii/S0005109824000499" target="_blank">
 <b>Anderson acceleration for partially observable Markov decision
@@ -63,7 +63,7 @@ Mingyu Park, Jaeuk Shin, and Insoon Yang<br>
 <b>Distributionally robust differential dynamic programming with Wasserstein distance</b></a><br>
 Astghik Hakobyan, and Insoon Yang <br>
 <I>IEEE Control Systems Letters</I>, 7:2329-2334, 2023. 
-<strong>(Selected for presentation at CDC 23)</strong><br></li>
+(Selected for presentation at CDC 23)<br></li>
 
 <li> <a href ="https://ieeexplore.ieee.org/document/9760123" target="_blank">
 <b>Maximum entropy optimal control of continuous-time dynamical systems</b></a><br>
@@ -98,7 +98,7 @@ Insoon Yang <br>
 <b>Infusing model predictive control into meta-reinforcement learning for mobile robots in dynamic environments</b></a><br>
 Jaeuk Shin, Astghik Hakobyan, Mingyu Park, Yeoneung Kim, Gihun Kim, and Insoon Yang <br>
 <I>IEEE Robotics and Automation Letters</I>, 7(2):10065-10072, 2022. 
-<strong>(Selected for presentation at IROS 22)</strong><br></li>
+(Selected for presentation at IROS 22)<br></li>
 
 <li> <a href ="https://ieeexplore.ieee.org/abstract/document/9547384" target="_blank">
 <b>Wasserstein distributionally robust motion control for collision avoidance using conditional value-at-risk</b></a><br>
@@ -139,7 +139,7 @@ Beomjun Kim, Jeongho Kim, Subin Huh, Seungil You, and Insoon Yang<br>
  <a href ="https://ieeexplore.ieee.org/document/8767973" target="_blank"><b>Risk-aware motion planning and control using CVaR-constrained optimization</b></a><br>
 Astghik Hakobyan, Gyeong Chan Kim, and Insoon Yang  <br>
 <I>IEEE Robotics and Automation Letters</I>, 4(4):3924-3931, 2019. 
-<strong>(Selected for presentation at IROS 19)</strong><br></li>
+(Selected for presentation at IROS 19)<br></li>
 
 <li>
 <a href ="https://ieeexplore.ieee.org/document/8848388" target="_blank"><b>Sample efficient home power anomaly detection in real time using semi-supervised learning</b></a><br>
@@ -202,7 +202,7 @@ Insoon Yang,  Min Su Park,  and <a href="http://prema.snu.ac.kr/people/people1.p
 <li> 
 <a href ="https://arxiv.org/pdf/2405.19380" target="_blank"><b>Approximate Thompson sampling for learning linear quadratic regulators with $O(\sqrt{T})$ regret</b></a><br>
 Yeoneung Lim, Gihun Kim, and Insoon Yang   <br>
-<I>Learning for Dynamics and Control (L4DC)</I>, 2025. <br></li>
+<I>Learning for Dynamics and Control (L4DC)</I>, 2025. <strong>(Oral)</strong><br></li>
   
 <li> 
 <a href ="https://proceedings.mlr.press/v242/shin24a.html" target="_blank"><b>On task-relevant loss functions in meta-reinforcement learning</b></a><br>
