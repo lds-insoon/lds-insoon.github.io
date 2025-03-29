@@ -167,7 +167,7 @@ Dong-Hyeon Kim, Thomas J. Y. Kim, Xinlin Wang, Mincheol Kim, Ying-Jun Quan, Jin 
 <b>A convex optimization approach to distributionally robust Markov decision processes with Wasserstein distance</b></a><br>
 Insoon Yang  <br>
 <I>IEEE Control Systems Letters</I>, 1(1):164-169, 2017. 
-<strong>(Selected for presentation at CDC 17)</strong><br></li>
+(Selected for presentation at CDC 17)<br></li>
  
 <li> <a href ="http://epubs.siam.org/doi/abs/10.1137/16M1058492" target="_blank">
 <b>Optimal control of conditional value-at-risk in continuous time</b></a><br>
