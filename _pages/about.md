@@ -201,7 +201,7 @@ Insoon Yang,  Min Su Park,  and <a href="http://prema.snu.ac.kr/people/people1.p
 <OL>
 <li> 
 <a href ="https://arxiv.org/pdf/2405.19380" target="_blank"><b>Approximate Thompson sampling for learning linear quadratic regulators with $O(\sqrt{T})$ regret</b></a><br>
-Yeoneung Lim, Gihun Kim, and Insoon Yang   <br>
+Yeoneung Lim, Gihun Kim, Jiwhan Park, and Insoon Yang   <br>
 <I>Learning for Dynamics and Control (L4DC)</I>, 2025. <strong>(Oral)</strong><br></li>
   
 <li> 
