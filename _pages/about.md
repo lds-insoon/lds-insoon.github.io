@@ -12,7 +12,7 @@ I am a Professor of <a href ="https://ece.snu.ac.kr/en" target="_blank">ECE</a> 
 2015 to 2016 (advisor: Prof. <a href ="https://asu.mit.edu/" target="_blank">Asu Ozdaglar</a>). Before joining SNU, I was an Assistant Professor of <a href ="https://minghsiehece.usc.edu/" target="_blank">EE</a> at <a href ="https://usc.edu/" target="_blank">University of Southern California</a> from 2016 to 2018. 
 <br>
 <br>    
-My research focus is on stochastic control, optimization (for ML), and reinforcement learning, with application to safe and interactive autonomy. I am particularly interested in the interplay between learning and decision systems under uncertainty. 
+My research focus is on sequential decision-making, optimization (for ML), and reinforcement learning, with application to safe and interactive autonomy. I am particularly interested in the interplay between learning and decision systems under uncertainty. 
 <br>
 <br>  
 I received the 2015 Eli Jury Award and was a finalist for the Best Student Paper Award at the 55th IEEE Conference on Decision and Control (CDC). I currently serve as an Associate Editor for the <a href ="https://ieeecss.org/publication/open-journal-control-systems" target="_blank">IEEE Open Journal of Control Systems</a>, <a href ="https://ieeecss.org/publication/ieee-control-systems-letters" target="_blank">IEEE Control Systems Letters</a>, and IEEE CSS Conference Editorial Board, and as Vice-Chair of the IFAC Technical Committee on Stochastic Systems.
