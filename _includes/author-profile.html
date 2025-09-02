@@ -32,6 +32,9 @@ Learning and Decision Systems (<a href="https://lds-lab.github.io/" target="_bla
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
+      {% if author.google_scholar %}
+  <li><a href="{{ author.google_scholar }}"><i class="ai ai-google-scholar" aria-hidden="true"></i> Google Scholar</a></li>
+{% endif %}
     </ul>
   </div>
 </div>
