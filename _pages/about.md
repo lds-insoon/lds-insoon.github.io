@@ -204,6 +204,22 @@ Insoon Yang,  Min Su Park,  and <a href="http://prema.snu.ac.kr/people/people1.p
 <font size=3> 
 <OL>
 <li> 
+<a href ="https://arxiv.org/abs/2504.00447" target="_blank"><b>Egocentric conformal prediction for safe and efficient navigation in dynamic cluttered environments</b></a> <br>
+Jaeuk Shin, Jungjin Lee, and Insoon Yang   <br>
+<I>IEEE Conference on Decision and Control (CDC)</I>, 2025.  <br></li>
+
+<li> 
+<a href ="https://arxiv.org/abs/2503.23742" target="_blank"><b>On the steady-state distributionally robust Kalman filter</b></a> <br>
+Minhyuk Jang, Astghik Hakobyan, and Insoon Yang   <br>
+<I>IEEE Conference on Decision and Control (CDC)</I>, 2025.  <br></li>
+
+<li> 
+<a href ="https://arxiv.org/abs/2504.00390" target="_blank"><b>Robust continuous-time generation scheduling under power demand uncertainty: An affine decision rule approach</b></a> <br>
+Youngchae Cho, Insoon Yang, and Takayuki Ishizaki   <br>
+<I>IEEE Conference on Decision and Control (CDC)</I>, 2025.  <br></li>
+
+  
+<li> 
 <a href ="https://proceedings.mlr.press/v283/kim25b.html" target="_blank"><b>Approximate Thompson sampling for learning linear quadratic regulators with $O(\sqrt{T})$ regret</b></a><br>
 Yeoneung Lim, Gihun Kim, Jiwhan Park, and Insoon Yang   <br>
 <I>Learning for Dynamics and Control (L4DC)</I>, 2025. <strong>(Oral)</strong><br></li>
