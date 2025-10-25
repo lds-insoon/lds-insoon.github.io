@@ -15,7 +15,10 @@ My research focus is on decision-making under uncertainty, optimization for ML, 
 <br>
 I received the 2015 Eli Jury Award and was a finalist for the Best Student Paper Award at the 55th IEEE Conference on Decision and Control (CDC). I currently serve as an Associate Editor for the <a href ="https://ieeecss.org/publication/open-journal-control-systems" target="_blank">IEEE Open Journal of Control Systems</a>, <a href ="https://ieeecss.org/publication/ieee-control-systems-letters" target="_blank">IEEE Control Systems Letters</a>, and IEEE CSS Conference Editorial Board, and as Vice-Chair of the IFAC Technical Committee on Stochastic Systems.
 <br>
-<br>  
+<br> 
+New: Guest Senior Editor for the <a href ="https://ieeecss.org/publication/open-journal-control-systems/special-sections" target="_blank">Special Section on the Intersection of ML and Control</a>, IEEE Open Journal of Control Systems
+<br>
+<br>   
 Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
 <br>  
 </font>
