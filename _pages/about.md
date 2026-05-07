@@ -13,7 +13,7 @@ I am a Professor of <a href ="https://ece.snu.ac.kr/en" target="_blank">ECE</a> 
 My research focus is on decision-making under uncertainty, optimization for ML, and reinforcement learning, with application to safe  autonomy and physical AI. I am particularly interested in the interplay between learning and decision systems under uncertainty. 
 <br>
 <br>
-I received the 2015 Eli Jury Award and was a finalist for the Best Student Paper Award at the 55th IEEE Conference on Decision and Control (CDC). I currently serve as an Associate Editor for the <a href ="https://ieeecss.org/publication/open-journal-control-systems" target="_blank">IEEE Open Journal of Control Systems</a>, <a href ="https://ieeecss.org/publication/ieee-control-systems-letters" target="_blank">IEEE Control Systems Letters</a>, and IEEE CSS Conference Editorial Board, and as Vice-Chair of the IFAC Technical Committee on Stochastic Systems.
+I received the 2015 Eli Jury Award and was a finalist for the Best Student Paper Award at the 55th IEEE Conference on Decision and Control (CDC). I currently serve as an Associate Editor for the IEEE CSS Conference Editorial Board, and as Vice-Chair of the IFAC Technical Committee on Stochastic Systems.
 <br>
 <br> 
 <b>New:</b> Guest Senior Editor for the <a href ="https://ieeecss.org/publication/open-journal-control-systems/special-sections" target="_blank">Special Section on the Intersection of ML and Control</a>, IEEE Open Journal of Control Systems
@@ -210,17 +210,27 @@ Insoon Yang,  Min Su Park,  and <a href="http://prema.snu.ac.kr/people/people1.p
 <font size=3> 
 <OL>
 <li> 
-<a href ="https://arxiv.org/abs/2504.00447" target="_blank"><b>Egocentric conformal prediction for safe and efficient navigation in dynamic cluttered environments</b></a> <br>
+<a href ="https://arxiv.org/pdf/2509.21818" target="_blank"><b>Sharpness-aware minimization can hallucinate minimizers</b></a> <br>
+Chanwoong Park, Uijeong Jang, Ernest K. Ryu, and Insoon Yang   <br>
+<I>International Conference on Machine Learning (ICML)</I>, 2026.  <br></li>
+  
+<li> 
+<a href ="https://arxiv.org/pdf/2509.15513" target="_blank"><b>KoopCast: Trajectory forecasting via Koopman operators</b></a> <br>
+Jungjin Lee, Jaeuk Shin, Gihwan Kim, Joonho Han, and Insoon Yang   <br>
+<I>IEEE International Conference on Robotics and Automation (ICRA)</I>, 2026.  <br></li>
+
+<li> 
+<a href ="https://ieeexplore.ieee.org/abstract/document/11312645" target="_blank"><b>Egocentric conformal prediction for safe and efficient navigation in dynamic cluttered environments</b></a> <br>
 Jaeuk Shin, Jungjin Lee, and Insoon Yang   <br>
 <I>IEEE Conference on Decision and Control (CDC)</I>, 2025.  <br></li>
 
 <li> 
-<a href ="https://arxiv.org/abs/2503.23742" target="_blank"><b>On the steady-state distributionally robust Kalman filter</b></a> <br>
+<a href ="https://ieeexplore.ieee.org/abstract/document/11312612/" target="_blank"><b>On the steady-state distributionally robust Kalman filter</b></a> <br>
 Minhyuk Jang, Astghik Hakobyan, and Insoon Yang   <br>
 <I>IEEE Conference on Decision and Control (CDC)</I>, 2025.  <br></li>
 
 <li> 
-<a href ="https://arxiv.org/abs/2504.00390" target="_blank"><b>Robust continuous-time generation scheduling under power demand uncertainty: An affine decision rule approach</b></a> <br>
+<a href ="https://ieeexplore.ieee.org/abstract/document/11312344" target="_blank"><b>Robust continuous-time generation scheduling under power demand uncertainty: An affine decision rule approach</b></a> <br>
 Youngchae Cho, Insoon Yang, and Takayuki Ishizaki   <br>
 <I>IEEE Conference on Decision and Control (CDC)</I>, 2025.  <br></li>
 
