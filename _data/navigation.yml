@@ -6,11 +6,11 @@
 
 main:
 - title: "Home"
-    url: /
+  url: /
 - title: "Physical AI Notes"
-    url: /physicalai/
+  url: /physicalai/
 - title: "Lab"
-    url: https://lds-lab.github.io/
+  url: https://lds-lab.github.io/
 
 #  - title: "Publications"
 #    url: /publications/
