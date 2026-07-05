@@ -104,3 +104,21 @@ $serif-display: "Source Serif 4", Georgia, "Times New Roman", serif;
   font-size: 0.98em;
   line-height: 1.4;
 }
+
+/* --- Serif treatment for blog posts (.blog-post 스코프) --- */
+.blog-post .page__title { font-family: $serif-display; }
+
+.blog-post .page__content {
+  font-family: $serif-display;
+  font-size: 1.05em;      /* 세리프 본문은 살짝 키우면 가독성↑ */
+  line-height: 1.7;       /* 롱폼용 넉넉한 레딩 */
+}
+.blog-post .page__content h2,
+.blog-post .page__content h3,
+.blog-post .page__content h4 { font-family: $serif-display; }
+
+/* 코드는 monospace 유지 */
+.blog-post .page__content code,
+.blog-post .page__content pre,
+.blog-post .page__content tt,
+.blog-post .page__content kbd { font-family: $monospace; }
