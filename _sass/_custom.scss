@@ -29,3 +29,52 @@
 }
 .post-meta__author { font-weight: 600; color: $text-color; }
 .post-meta__sep    { margin: 0 0.5em; color: #b8b8b8; }
+
+/* --- Physical AI Notes landing --- */
+.blog-intro { margin: 0.25em 0 2em; }
+.blog-intro__lead { margin: 0 0 0.4em; color: $text-color; line-height: 1.6; }
+.blog-intro__by { margin: 0; font-size: 0.82em; color: #9a9a9a; }
+
+.blog-feature {
+  border-top: 1px solid $border-color;
+  padding-top: 1.5em;
+  margin-bottom: 2em;
+}
+.blog-feature__label,
+.blog-index__label {
+  display: block;
+  margin: 0 0 0.6em;
+  font-size: 0.75em;
+  letter-spacing: 0.03em;
+  color: #9a9a9a;
+}
+.blog-feature__title {
+  display: block;
+  margin: 0 0 0.4em;
+  font-size: 1.2em;
+  font-weight: 700;
+  line-height: 1.3;
+}
+.blog-feature__title a,
+.blog-index__title a { color: $text-color; text-decoration: none; }
+.blog-feature__title a:hover,
+.blog-index__title a:hover { text-decoration: underline; }
+.blog-feature__dek { margin: 0 0 0.5em; color: #5b5b5b; line-height: 1.55; }
+.blog-feature__meta { margin: 0; font-size: 0.82em; color: #9a9a9a; }
+
+.blog-index { border-top: 1px solid $border-color; padding-top: 1.25em; }
+.blog-index__row {
+  display: flex;
+  gap: 18px;
+  align-items: baseline;
+  padding: 0.7em 0;
+  border-bottom: 1px solid $border-color;
+}
+.blog-index__row:last-child { border-bottom: 0; }
+.blog-index__date {
+  flex-shrink: 0;
+  min-width: 92px;
+  font-size: 0.82em;
+  color: #9a9a9a;
+}
+.blog-index__title { font-size: 0.95em; line-height: 1.4; }
