@@ -2,11 +2,18 @@
 .blog-nav { font-family: $sans-serif; }
 .blog-nav__title { margin: 0 0 0.5em; font-size: $type-size-5; }
 .blog-nav__title a { text-decoration: none; }
-.blog-nav__year {
+.blog-nav__topic {
   display: block;
-  margin: 1em 0 0.25em;
-  font-size: 0.7em; font-weight: 700;
-  letter-spacing: 0.05em; text-transform: uppercase;
+  margin: 1.25em 0 0.35em;
+  font-size: 0.8em;
+  font-weight: 700;
+  color: $text-color;
+  line-height: 1.25;
+}
+.blog-nav__empty {
+  margin: 0 0 0.5em;
+  font-size: 0.8em;
+  font-style: italic;
   color: #9a9a9a;
 }
 .blog-nav__list { margin: 0 0 0.5em; padding: 0; list-style: none; }
