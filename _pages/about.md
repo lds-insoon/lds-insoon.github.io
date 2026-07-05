@@ -30,7 +30,7 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
 <b>Physics-informed causal reasoning in physical AI: A review on modeling non-stationary environments for safety–critical control</b></a><br>
 Sung Kwon On, Sukchul Jeong, Jungjin Lee, and
 Insoon Yang <br>
-<I>International Journal of Control, Automation, and Systems (IJCAS)</I>,  24:726-752, 2026.<br></li>
+<I>International Journal of Control, Automation, and Systems (IJCAS)</I>,  24:726-752, 2026. <a href ="https://lds-insoon.github.io/files/IJCAS26.pdf" target="_blank"><b>[PDF]</b></a><br></li>
   
 <li> <a href ="https://ieeexplore.ieee.org/document/10509008" target="_blank">
 <b>Wasserstein distributionally robust control of partially observable
