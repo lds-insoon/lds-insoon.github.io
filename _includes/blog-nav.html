@@ -1,8 +1,8 @@
 {% include base_path %}
 
 <nav class="blog-nav">
-  <h4 class="blog-nav__title"><a href="{{ base_path }}/physicalai/">Physical AI Notes</a></h4>
-  <p class="blog-nav__author"><a href="{{ base_path }}/">Insoon Yang</a></p>
+  <h4 class="blog-nav__title"><a href="{{ base_path }}physicalai/">Physical AI Notes</a></h4>
+  <p class="blog-nav__author">by<a href="{{ base_path }}">Insoon Yang</a></p>
 
   {% for topic in site.data.blog_nav %}
     {% assign topic_posts = site.posts | where: "series", topic %}
