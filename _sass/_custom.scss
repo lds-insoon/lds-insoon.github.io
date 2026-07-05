@@ -2,8 +2,11 @@
 $serif-display: "Source Serif 4", Georgia, "Times New Roman", serif;
 
 .blog-nav { font-family: $sans-serif; }
-.blog-nav__title { margin: 0 0 0.5em; font-size: $type-size-5; }
+.blog-nav__title { margin: 0 0 0.15em; font-size: $type-size-5; }
 .blog-nav__title a { text-decoration: none; }
+.blog-nav__author { margin: 0; font-size: 0.82em; color: #9a9a9a; }
+.blog-nav__author a { color: #9a9a9a; text-decoration: none; }
+.blog-nav__author a:hover { color: $link-color; text-decoration: underline; }
 .blog-nav__topic {
   display: block;
   margin: 1.25em 0 0.35em;
