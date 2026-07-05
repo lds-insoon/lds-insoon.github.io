@@ -31,7 +31,7 @@ layout: default
           {% if page.blog_nav %}
             <p class="post-meta">
               <!-- <span class="post-meta__author" itemprop="author">{{ site.author.name }}</span> -->
-              <a href="{{ site.baseurl }}/">{{ site.author.name }}</a>
+              <!-- <a href="{{ site.baseurl }}/">{{ site.author.name }}</a> -->
               {% if page.date %}<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% endif %}
               {% if page.read_time %}<span class="post-meta__sep">·</span>{% include read-time.html %}{% endif %}
             </p>
