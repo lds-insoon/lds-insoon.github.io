@@ -26,7 +26,7 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
 <dt> <b>Journal Publications</b><br>
 <font size=3> 
 <OL>
-<li> <a href ="https://link.springer.com/article/10.1007/s12555-026-00082-x" target="_blank">
+<li> <a href ="https://lds-insoon.github.io/files/IJCAS26.pdf" target="_blank">
 <b>Physics-informed causal reasoning in physical AI: A review on modeling non-stationary environments for safety–critical control</b></a><br>
 Sung Kwon On, Sukchul Jeong, Jungjin Lee, and
 Insoon Yang <br>
