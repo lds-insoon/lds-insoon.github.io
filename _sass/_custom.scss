@@ -33,7 +33,7 @@ $serif-display: "Source Serif 4", Georgia, "Times New Roman", serif;
 .post-meta__sep    { margin: 0 0.5em; color: #b8b8b8; }
 
 /* --- Physical AI Notes landing --- */
-.blog-intro { max-width: 660px; margin: 0.5em 0 2.25em; }
+.blog-intro { max-width: 660px; margin: -0.3em 0 2.25em; }   /* 위 여백 0.5em → -0.3em */
 .blog-intro__lead {
   margin: 0 0 0.65em;
   max-width: 34rem;
