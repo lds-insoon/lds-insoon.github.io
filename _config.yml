@@ -12,7 +12,7 @@ title                    : "Insoon Yang"
 title_separator          : "-"
 name                     : &name "Insoon Yang"
 description              : &description "personal description"
-url                      : https://lds-insoon.github.io/ # the base hostname & protocol for your site e.g. "https://lds-insoon.github.io/"
+url                      : https://lds-insoon.github.io # the base hostname & protocol for your site e.g. "https://lds-insoon.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lds-insoon.github.io"
 
