@@ -1,11 +1,29 @@
 {% include base_path %}
+{% assign ui = site.data.ui[page.lang] | default: site.data.ui.en %}
+
+{% if page.lang == 'ko' %}{% assign other_lang = 'en' %}{% else %}{% assign other_lang = 'ko' %}{% endif %}
+{% assign other_ui = site.data.ui[other_lang] %}
+{% assign has_counterpart = false %}
+{% if page.ref %}
+  {% assign matches = site.posts | where: "ref", page.ref | where: "lang", other_lang %}
+  {% if matches.size > 0 %}{% assign counterpart = matches | first %}{% assign has_counterpart = true %}{% endif %}
+{% endif %}
+{% if has_counterpart %}{% assign other_url = counterpart.url %}{% else %}{% assign other_url = other_ui.home_url %}{% endif %}
 
 <nav class="blog-nav">
-  <h4 class="blog-nav__title"><a href="{{ base_path }}physicalai">Physical AI Notes</a></h4>
-  <p class="blog-nav__author">by <a href="{{ base_path }}">Insoon Yang</a></p>
+  <p class="blog-nav__lang">
+    {% if page.lang == 'ko' %}
+      <a href="{{ base_path }}{{ other_url }}">EN</a><span class="blog-nav__lang-sep">|</span><span class="blog-nav__lang-active">KR</span>
+    {% else %}
+      <span class="blog-nav__lang-active">EN</span><span class="blog-nav__lang-sep">|</span><a href="{{ base_path }}{{ other_url }}">KR</a>
+    {% endif %}
+  </p>
+
+  <h4 class="blog-nav__title"><a href="{{ base_path }}{{ ui.home_url }}">{{ ui.blog_title }}</a></h4>
+  <p class="blog-nav__author">{{ ui.by }} <a href="{{ base_path }}/">Insoon Yang</a></p>
 
   {% for topic in site.data.blog_nav %}
-    {% assign topic_posts = site.posts | where: "series", topic %}
+    {% assign topic_posts = site.posts | where: "series", topic | where: "lang", page.lang %}
     <span class="blog-nav__topic">{{ topic }}</span>
     {% if topic_posts.size > 0 %}
       <ul class="blog-nav__list">
@@ -14,7 +32,7 @@
         {% endfor %}
       </ul>
     {% else %}
-      <p class="blog-nav__empty">Coming soon.</p>
+      <p class="blog-nav__empty">{{ ui.coming }}</p>
     {% endif %}
   {% endfor %}
 </nav>
