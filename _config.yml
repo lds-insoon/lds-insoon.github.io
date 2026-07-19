@@ -225,9 +225,7 @@ collections:
 # These settings control how pages and collections are included in the site
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
+  - scope: { path: "", type: posts }
     values:
       layout: single
       author_profile: false
@@ -236,13 +234,13 @@ defaults:
       comments: true
       share: false
       related: true
+      lang: en          
   # _pages
-  - scope:
-      path: ""
-      type: pages
+  - scope: { path: "", type: pages }
     values:
       layout: single
       author_profile: true
+      lang: en          
   # _teaching
   - scope:
       path: ""
