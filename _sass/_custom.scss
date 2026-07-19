@@ -26,6 +26,12 @@ $serif-display: "Source Serif 4", Georgia, "Times New Roman", serif;
 .blog-nav__item a { text-decoration: none; font-size: 0.85em; }
 .blog-nav__item--active > a { font-weight: 700; }
 
+.blog-nav__lang { margin: 0 0 1.1em; font-size: 0.8em; letter-spacing: 0.03em; }
+.blog-nav__lang a { color: #9a9a9a; text-decoration: none; }
+.blog-nav__lang a:hover { color: $link-color; text-decoration: underline; }
+.blog-nav__lang-active { color: $text-color; font-weight: 700; }
+.blog-nav__lang-sep { color: #cfcfcf; margin: 0 0.4em; }
+
 /* 포스트 상단 바이라인 */
 .post-meta {
   margin: 0.25em 0 2em;
