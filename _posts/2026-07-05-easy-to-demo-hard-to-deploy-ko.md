@@ -1,4 +1,5 @@
 ---
+order: 1
 series: "Physical AI Deployment Assurance"
 ref: demo-deploy
 title: "피지컬 AI의 데모는 쉽지만, 현장 배치는 어렵다"
