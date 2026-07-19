@@ -1,0 +1,194 @@
+---
+title: "What Is Physical AI Deployment Assurance?"
+permalink: /physicalai/what-is-physical-ai-deployment-assurance/
+date: 2026-07-19
+excerpt: "Physical AI deployment assurance turns 'it works' into 'you may run it here': defensible evidence for a specific site, explicit assumptions, and a clear owner for the residual risk."
+header:
+  og_image: /images/og-deployment-assurance-pillars.png
+tags:
+  - deployment-assurance
+  - physical-ai
+  - robotics
+  - safety
+  - assurance
+categories:
+  - physicalai
+lang: en
+series: "Physical AI Deployment Assurance"
+ref: what-is-assurance
+---
+
+<p><em>Evidence, not footage — post 2 in the Physical AI Deployment Assurance series.</em></p>
+
+<p><a href="{{ site.baseurl }}/physicalai/easy-to-demo-hard-to-deploy/">Post 1</a> ended with a name.</p>
+
+<p>The argument was that the gap between a flawless demo and a stalled deployment is structural. A demo is an existence proof. Deployment is a claim about conditions the world selects. The playbook that carried much of internet software across its own gap — ship, fail, patch — does not transfer cleanly to machines that share space with people.</p>
+
+<p>What crosses a gap like that is not a bigger demo. It is a discipline.</p>
+
+<p>I called it <strong>Physical AI Deployment Assurance</strong>.</p>
+
+<p>A name, on its own, is cheap. It earns its keep only when it says what belongs inside it, what evidence it demands, and what it is not.</p>
+
+<p>Imagine a delivery robot that has completed a successful pilot in a hospital. It navigated the corridor, avoided staff, called the elevator, and delivered supplies on video. The deployment question is not whether the robot can do this once. The question is whether the hospital is justified in letting it do this every day, during shift changes, with patients, carts, visitors, cleaning staff, network failures, software updates, and someone’s liability attached to the exceptions.</p>
+
+<p>That is the problem this discipline is meant to answer.</p>
+
+<h2 id="the-definition">The definition</h2>
+
+<p><strong>Physical AI deployment assurance</strong> is the discipline of producing defensible evidence that an embodied AI system can operate at an acceptable level of risk in a specific site, under explicit assumptions, with a clear owner for the risk that remains.</p>
+
+<p>A demo says:</p>
+
+<blockquote>
+  <p>It works.</p>
+</blockquote>
+
+<p>Assurance says:</p>
+
+<blockquote>
+  <p>You may run it here.</p>
+</blockquote>
+
+<p>Three words in that definition carry most of the load.</p>
+
+<p><strong>Specific</strong> means assurance is not a generic property of a robot. The same system can be acceptable in one site and unacceptable in another.</p>
+
+<p><strong>Defensible</strong> means the evidence survives a skeptic with something at stake — an operator, a certifier, an insurer, or counsel — not an audience predisposed to applaud.</p>
+
+<p><strong>Remains</strong> concedes something no serious deployment can avoid: evidence reduces risk; it does not erase it. Assurance does not promise zero. It states the residual risk, the assumptions behind it, and the party that owns it.</p>
+
+<figure>
+  <img src="{{ site.baseurl }}/images/deployment-assurance-pillars.svg" alt="Deployment assurance spans the deployment gap on three pillars — the agent, the environment, and the operations — each defined by the question it must answer." />
+  <figcaption>Deployment assurance spans the deployment gap on three pillars — the agent, the environment, and the operations — each defined by the question it must answer.</figcaption>
+</figure>
+
+<h2 id="three-questions-three-pillars">Three questions, three pillars</h2>
+
+<p>Post 1 ended with three questions that survive any model improvement.</p>
+
+<p>What exactly is being promised for <em>this</em> site?</p>
+
+<p>On what evidence would a reasonable skeptic accept the promise?</p>
+
+<p>Who owns the risk that remains after the promise is kept?</p>
+
+<p>Those questions require three linked claims.</p>
+
+<p>The agent can be trusted.<br />
+The environment is ready.<br />
+Operations can own the residual risk.</p>
+
+<p>The agent. The environment. The operations.</p>
+
+<p>One pillar each.</p>
+
+<h2 id="pillar-1-the-agent">Pillar 1: the agent</h2>
+
+<p>The agent pillar is usually led by the vendor. Its question is not “does it work,” but:</p>
+
+<blockquote>
+  <p>How does it fail, how often, and under which stated assumptions?</p>
+</blockquote>
+
+<p>Evidence here should look less like success footage and more like quantified failure probabilities with the assumptions attached: sensing conditions, obstacle behavior, latency bounds, fallback modes, and the region in which the training distribution still describes reality.</p>
+
+<p>The technical machinery for statements like this exists. Risk-constrained control, distribution-free prediction intervals, robustness margins under distribution shift, reachability analysis, stress testing, and runtime monitoring all have something to contribute. Later posts will unpack some of them.</p>
+
+<p>But the machinery is not the only bottleneck. Often the vendor is asked for a safety number and handed no threshold.</p>
+
+<p>Safe compared to what?<br />
+At what confidence?<br />
+Decided by whom?</p>
+
+<p>Hold that thought. It gets its own post.</p>
+
+<h2 id="pillar-2-the-environment">Pillar 2: the environment</h2>
+
+<p>The environment is the orphaned pillar: everyone depends on it, but almost no one owns it.</p>
+
+<p>The same robot is a different risk in a hospital corridor at shift change and in an empty logistics mezzanine at 3 a.m. Post 1 put it this way: deployment is judged by conditions selected by the world. The site is where the world does the selecting.</p>
+
+<p>Site readiness is not one thing. It includes geometry, lighting, reflective surfaces, clearances, floor conditions, human traffic patterns, connectivity, elevator access, emergency procedures, human assistance, and the mundane question of who moves the temporary sign that blocks the robot’s path.</p>
+
+<p>All of this is assessable. Yet in many projects, site readiness appears only after go-live under a different name:</p>
+
+<blockquote>
+  <p>Unexpected site conditions.</p>
+</blockquote>
+
+<p>The vendor assumed an idealized site. The operator assumed the robot handles reality.</p>
+
+<p>Incidents live in the space between those two assumptions, which is precisely why neither party’s paperwork mentions it clearly enough.</p>
+
+<h2 id="pillar-3-the-operations">Pillar 3: the operations</h2>
+
+<p>The operations pillar belongs to the party that must live with the system after the pilot team leaves.</p>
+
+<p>Suppose the controller is trustworthy and the site is ready. Risk remains — it always does — and this pillar is the ledger of the remainder: acceptance criteria that actually bind, monitoring that notices when the assumptions behind yesterday’s evidence have decayed, incident response, insurance, maintenance, fallback authority, and the question of what tonight’s software update does to last month’s sign-off.</p>
+
+<p>Post 1 noted that the procurement document, the safety document, the technical report, and the insurance discussion too often do not reference one another.</p>
+
+<p>This pillar is where those documents would have to meet.</p>
+
+<p>It is the least technical pillar and often the one where deployments stall, because it is where risk stops being a number and becomes someone’s liability.</p>
+
+<h2 id="what-deployment-assurance-is-not">What deployment assurance is not</h2>
+
+<p>Boundaries matter more than definitions. Deployment assurance overlaps with several neighboring disciplines, but it is not identical to any of them.</p>
+
+<p>It borrows from <strong>AI safety</strong>, but AI safety mostly asks how to make controllers better. Deployment assurance asks whether <em>this</em> controller is good enough for <em>this</em> site on <em>this</em> evidence.</p>
+
+<p>It borrows from <strong>AI governance</strong> and <strong>model assurance</strong>, but those fields often audit organizational process. Deployment assurance must also produce claims about a physical system in a physical place.</p>
+
+<p>It borrows from <strong>classical verification and validation</strong>, but learned controllers are updated, fine-tuned, and exposed to site drift. The object being signed off does not stand still.</p>
+
+<p>Each neighboring discipline contributes tools. None of them, as practiced today, fully answers all three questions at once: the agent, the environment, and the operations.</p>
+
+<h2 id="why-now-the-itemized-bill">Why now: the itemized bill</h2>
+
+<p>Post 1 said the bill is arriving. Here is the itemization.</p>
+
+<p>Safety ownership is becoming harder to keep vague. In Korea, the <a href="https://elaw.klri.re.kr/eng_service/lawView.do?hseq=59952&amp;lang=ENG" target="_blank" rel="noopener">Serious Accidents Punishment Act</a> has made serious workplace accidents an executive-level concern. In Europe, the <a href="https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai" target="_blank" rel="noopener">AI Act</a> and the <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32023R1230" target="_blank" rel="noopener">Machinery Regulation</a> are pushing safety-critical AI and software components toward more explicit risk management, product-safety reasoning, and conformity assessment.</p>
+
+<p>The details differ by jurisdiction. The direction is common.</p>
+
+<p>Physical AI systems will increasingly need safety claims that survive scrutiny.</p>
+
+<p>Certification bodies are being asked to evaluate controllers whose behavior is a statistical claim rather than a code listing. Insurers are being asked to price systems with little actuarial history. Operators are being asked to run systems whose residual risk often went unnamed during procurement.</p>
+
+<p>Three institutions, one common demand:</p>
+
+<blockquote>
+  <p>Show me the evidence, the assumptions, and the owner of the remaining risk.</p>
+</blockquote>
+
+<p>Producing that claim is the discipline’s job.</p>
+
+<h2 id="who-this-is-for">Who this is for</h2>
+
+<p>If you <strong>build robots</strong>, the evidence pack — not the demo — is becoming part of the product. It increasingly sets the length of your sales cycle.</p>
+
+<p>If you <strong>operate sites</strong>, you are buying residual risk whether or not anyone names it. Assurance is how you find out how much.</p>
+
+<p>If you <strong>certify systems</strong>, you will be asked to endorse statistical claims about learned controllers. The question is on what basis.</p>
+
+<p>If you <strong>insure deployments</strong>, your premium may become the industry’s de facto safety threshold.</p>
+
+<p>And if you are <strong>counsel</strong>, undocumented risk does not disappear. It merely loses its paper trail. Evidence tied to corrective action reads differently from evidence filed and ignored.</p>
+
+<h2 id="where-this-goes">Where this goes</h2>
+
+<p>This series maps the discipline: the questions, the conflicts over who decides and who pays, and the methods that make claims defensible.</p>
+
+<p>It starts where the discipline is weakest.</p>
+
+<p>Risk numbers are easy to produce. Thresholds are hard to own.</p>
+
+<p>How safe is safe enough — and who, exactly, decides?</p>
+
+<p>That is the next post.</p>
+
+<hr />
+
+<p><em>Views are my own and do not represent my employer or any organization I advise.</em></p>
