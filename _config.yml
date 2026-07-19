@@ -233,7 +233,7 @@ defaults:
       read_time: true
       comments: true
       share: false
-      related: true
+      related: false
       lang: en          
   # _pages
   - scope: { path: "", type: pages }
