@@ -1,0 +1,35 @@
+{% include base_path %}
+{% assign ui = site.data.ui[page.lang] | default: site.data.ui.en %}
+{% assign wpm = site.words_per_minute | default: 200 %}
+
+<div class="blog-intro">
+  <p class="blog-intro__lead"><b>{{ ui.lead }}</b></p>
+</div>
+
+{% assign posts = site.posts | where: "lang", page.lang %}
+{% if posts.size > 0 %}
+
+  {% for post in posts limit:1 %}
+  <div class="blog-feature">
+    <span class="blog-feature__label">{{ ui.latest }}</span>
+    <span class="blog-feature__title"><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></span>
+    {% if post.excerpt %}<p class="blog-feature__dek">{{ post.excerpt | markdownify | strip_html | strip_newlines | strip }}</p>{% endif %}
+    <p class="blog-feature__meta">{{ post.date | date: ui.date_format }}{% if post.read_time %} · {% assign _m = post.content | number_of_words | divided_by: wpm | plus: 1 %}{{ _m }} {{ ui.read_suffix }}{% endif %}{% if post.series %} · {{ post.series }}{% endif %}</p>
+  </div>
+  {% endfor %}
+
+  {% if posts.size > 1 %}
+  <div class="blog-index">
+    <span class="blog-index__label">{{ ui.more }}</span>
+    {% for post in posts offset:1 %}
+    <div class="blog-index__row">
+      <span class="blog-index__date">{{ post.date | date: ui.date_format }}</span>
+      <span class="blog-index__title"><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></span>
+    </div>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+{% else %}
+  <p>{{ ui.no_posts }}</p>
+{% endif %}
