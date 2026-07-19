@@ -1,7 +1,7 @@
 ---
 series: "Physical AI Deployment Assurance"
 ref: demo-deploy
-title: "피지컬 AI는 데모는 쉽지만, 현장 배치는 어렵다"
+title: "피지컬 AI의 데모는 쉽지만, 현장 배치는 어렵다"
 permalink: /physicalai/ko/easy-to-demo-hard-to-deploy/
 date: 2026-07-05
 excerpt: "데모는 존재 증명이고, 현장 배치는 특정 장소가 실제로 만들어낼 조건들에 대한 주장이다. 이 간극이 왜 구조적인지, 그리고 인터넷 소프트웨어의 ‘배포하며 배우기’가 왜 사람과 공간을 공유하는 기계에는 통하지 않는지 다룬다."
