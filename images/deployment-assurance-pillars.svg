@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" role="img" aria-labelledby="title desc">
+  <title id="title">Three pillars of Physical AI Deployment Assurance</title>
+  <desc id="desc">Deployment assurance spans the deployment gap through three pillars: the agent, the environment, and operations.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#1f2937"/>
+    </marker>
+  </defs>
+  <rect width="960" height="420" rx="18" fill="#ffffff"/>
+  <text x="480" y="44" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#111827">Physical AI Deployment Assurance</text>
+  <text x="480" y="76" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="16" fill="#4b5563">From “it works” to “you may run it here”</text>
+  <line x1="120" y1="130" x2="840" y2="130" stroke="#1f2937" stroke-width="2.5" marker-end="url(#arrow)"/>
+  <text x="120" y="114" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" fill="#374151">Demo</text>
+  <text x="840" y="114" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" fill="#374151">Deployment</text>
+  <rect x="90" y="165" width="230" height="160" rx="16" fill="#f9fafb" stroke="#d1d5db" stroke-width="2"/>
+  <rect x="365" y="165" width="230" height="160" rx="16" fill="#f9fafb" stroke="#d1d5db" stroke-width="2"/>
+  <rect x="640" y="165" width="230" height="160" rx="16" fill="#f9fafb" stroke="#d1d5db" stroke-width="2"/>
+  <text x="205" y="204" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#111827">Agent</text>
+  <text x="480" y="204" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#111827">Environment</text>
+  <text x="755" y="204" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="24" font-weight="700" fill="#111827">Operations</text>
+  <text x="205" y="238" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" fill="#374151">Can the controller</text>
+  <text x="205" y="260" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" fill="#374151">be trusted?</text>
+  <text x="480" y="238" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" fill="#374151">Is this site ready</text>
+  <text x="480" y="260" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" fill="#374151">to receive it?</text>
+  <text x="755" y="238" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" fill="#374151">Who owns the</text>
+  <text x="755" y="260" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" fill="#374151">residual risk?</text>
+  <text x="205" y="298" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="13" fill="#6b7280">failure modes · assumptions</text>
+  <text x="480" y="298" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="13" fill="#6b7280">geometry · traffic · drift</text>
+  <text x="755" y="298" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="13" fill="#6b7280">monitoring · response · liability</text>
+  <text x="480" y="374" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" fill="#4b5563">Evidence + assumptions + residual-risk ownership</text>
+</svg>
