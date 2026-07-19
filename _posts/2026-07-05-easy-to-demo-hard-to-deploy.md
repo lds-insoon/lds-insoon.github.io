@@ -1,4 +1,6 @@
 ---
+lang: en
+ref: demo-deploy
 title: "Physical AI Is Easy to Demo, Hard to Deploy"
 date: 2026-07-05
 series: "Physical AI Deployment Assurance"
