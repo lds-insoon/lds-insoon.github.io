@@ -1,4 +1,5 @@
 ---
+order: 1
 lang: en
 ref: demo-deploy
 title: "Physical AI Is Easy to Demo, Hard to Deploy"
