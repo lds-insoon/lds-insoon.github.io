@@ -1,0 +1,349 @@
+---
+order:3
+title: "How Safe Is Safe Enough — and Who Decides?"
+permalink: /physicalai/how-safe-is-safe-enough/
+date: 2026-08-02
+excerpt: "Risk numbers are easy to produce; thresholds are hard to own. Where the safety threshold α comes from, the three answers older industries gave, why physical AI bends all of them — and why everyone touches the threshold but no one signs it."
+header:
+  og_image: /images/og-alpha-deferral-circle.png
+tags:
+  - deployment-assurance
+  - physical-ai
+  - robotics
+  - safety
+  - assurance
+categories:
+  - physicalai
+lang: en
+translation_url: /physicalai/ko/how-safe-is-safe-enough/
+---
+
+<p><em>Evidence, not footage — post 3 in the Physical AI Deployment Assurance series.</em></p>
+
+<p>Post 2 parked a question in the agent pillar.</p>
+
+<p>The vendor is asked for a safety number and handed no threshold.</p>
+
+<p>Safe compared to what?<br />
+At what confidence?<br />
+Decided by whom?</p>
+
+<p>This post picks up that question.</p>
+
+<p>Post 2 ended with the shape of the problem: risk numbers are easy to produce; thresholds are hard to own. Here is why, and who is supposed to do the owning.</p>
+
+<p>Imagine a hospital considering whether to move a delivery robot from pilot to routine operation. The vendor can report a collision-risk estimate. The safety team asks whether the estimate is low enough. The hospital board asks who is supposed to sign off. The insurer asks how the remaining risk should be priced. The engineer can compute a number, but the organization still has to decide what number it is willing to own.</p>
+
+<p>That question looks technical.</p>
+
+<p>It is not.</p>
+
+<p>It is a question about signatures, which means it lives in the operations pillar while wearing the agent pillar&rsquo;s clothes.</p>
+
+<h2 id="the-mathematics-starts-too-late">The mathematics starts too late</h2>
+
+<p>Let me begin with a confession about my own field.</p>
+
+<p>Nearly every tool in quantitative safety takes the threshold as an input. Call the threshold α: the tolerated probability, tail mass, or risk level below which the system is considered acceptable for the purpose at hand.</p>
+
+<p>Risk-constrained control bounds the conditional value-at-risk at level α. Conformal methods guarantee coverage 1&minus;α. Chance-constrained planning caps the violation probability at α.</p>
+
+<p>Different machinery, same signature:</p>
+
+<blockquote>
+  <p>Give me α, and I will give you guarantees.</p>
+</blockquote>
+
+<p>I have spent much of my career on the mathematics that begins after α has been chosen.</p>
+
+<p>This post is about what happens before.</p>
+
+<p>In many projects, what happens before is almost nothing. Ask where α came from and the room goes quiet. The number arrives from a previous project, from a reviewer&rsquo;s intuition, from an internal convention, or from whatever made the simulation pass.</p>
+
+<p>The most consequential parameter in the safety argument is often the one with the thinnest paper trail: the threshold everyone computes against, but no one remembers choosing.</p>
+
+<h2 id="three-answers-from-older-industries">Three answers from older industries</h2>
+
+<p>Physical AI is not the first field to face this problem.</p>
+
+<p>Aviation, rail, automotive, and process industries confronted versions of the same blank long before robots began sharing corridors with people. Their answers sort into three broad archetypes.</p>
+
+<h3 id="comparative">Comparative</h3>
+
+<p>The new system must be at least as safe as what it replaces.</p>
+
+<p>European rail practice has used principles in this family — the French <em>GAMAB</em> principle, roughly &ldquo;globally at least as good&rdquo;: the new system should be at least as safe as the existing one. The baseline is history. The threshold is not chosen from nowhere; it is chosen relative to a system society already accepts.</p>
+
+<h3 id="absolute">Absolute</h3>
+
+<p>Anchor the threshold to something outside the immediate system.</p>
+
+<p>Aviation offers the most famous engineering example. For catastrophic failure conditions in large transport aircraft, <a href="https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_25.1309-1A.pdf" target="_blank" rel="noopener">certification guidance</a> has long used &ldquo;extremely improbable&rdquo; objectives, commonly associated with probabilities on the order of 10⁻⁹ per flight hour.</p>
+
+<p>That number is often treated as bedrock. But the usual reconstruction is more interesting. The existing fleet&rsquo;s accident record implied a tolerable rate of catastrophic accidents. A share of that budget was attributed to system failures. The budget was then divided across the many potential catastrophic failure conditions of an aircraft. Out came the number.</p>
+
+<p>The apparent constant began life as a comparison:</p>
+
+<blockquote>
+  <p>No worse than the fleet we already accept.</p>
+</blockquote>
+
+<p>Through decades of use, that comparison hardened into an absolute.</p>
+
+<p>Thresholds are born as comparisons and retire as constants.</p>
+
+<h3 id="procedural">Procedural</h3>
+
+<p>Refuse to name a universal number; name a duty instead.</p>
+
+<p>The UK&rsquo;s <a href="https://www.hse.gov.uk/enforce/expert/alarpglance.htm" target="_blank" rel="noopener">ALARP doctrine</a> — risk must be as low as reasonably practicable — does not begin by declaring one global threshold. It asks what additional safety measures are available, what risk reduction they would buy, and whether the sacrifice required would be grossly disproportionate to the benefit.</p>
+
+<p>Regulators may publish tolerability bands around such reasoning. But the doctrine&rsquo;s core is procedural. It does not say, once and for all, &ldquo;this number is safe.&rdquo; It says that the responsible party must keep reducing risk until the case for stopping can be defended.</p>
+
+<p>One more device deserves naming.</p>
+
+<p>Automotive and industrial functional-safety standards often route the question through tables. Parameters like severity, exposure, and controllability go in; an integrity level comes out. Notice what the table really does: it distributes the signature.</p>
+
+<p>No individual engineer chooses α. A committee chose the table, and the engineer applies it. For mature hazard classes with decades of data, that is not necessarily a flaw. It is the point. The value judgment gets made collectively once, then retired from daily engineering.</p>
+
+<p>Physical AI does not yet have such a table.</p>
+
+<p>It lacks the two ingredients that make tables legitimate: accumulated failure data and a community willing to turn value judgments into shared thresholds.</p>
+
+<h2 id="why-physical-ai-bends-all-three-answers">Why Physical AI bends all three answers</h2>
+
+<p>Physical AI inherits these archetypes, but bends each of them.</p>
+
+<h3 id="the-comparative-answer">The comparative answer</h3>
+
+<p>The comparative answer arrives in one familiar phrase:</p>
+
+<blockquote>
+  <p>Safer than a human.</p>
+</blockquote>
+
+<p>The phrase is doing far less work than it appears to.</p>
+
+<p>Which human?</p>
+
+<p>The median operator?<br />
+The trained professional?<br />
+The tired worker near the end of a shift?<br />
+The distracted visitor?<br />
+The impaired tail that drives much of the baseline statistics?</p>
+
+<p>Safer on average, or safer everywhere?</p>
+
+<p>A system can beat the human aggregate while being worse in specific, describable situations. Describable matters, because describable scenarios are the ones that become procurement objections, safety concerns, insurance exclusions, and litigable narratives.</p>
+
+<p>Then comes an asymmetry no threshold can ignore: machines can fail in ways humans rarely do, and publics may weigh machine failure differently from human failure.</p>
+
+<p>I am not endorsing that asymmetry or complaining about it. I am observing that any threshold which pretends it does not exist may not survive contact with its first incident.</p>
+
+<p>I will not tell you whether &ldquo;safer than the average human&rdquo; is enough.</p>
+
+<p>I am telling you the sentence is underspecified.</p>
+
+<h3 id="the-absolute-answer">The absolute answer</h3>
+
+<p>The absolute answer needs an anchor, and the anchor needs exposure history.</p>
+
+<p>Aviation could build thresholds on enormous accumulated exposure and comparatively standardized operating regimes. Physical AI has neither the exposure base nor the site homogeneity.</p>
+
+<p>Post 2 used the word <em>specific</em> deliberately. Deployment assurance is site-specific. The same robot can be low-risk in a quiet logistics mezzanine at 3 a.m. and much higher-risk in a hospital corridor during shift change.</p>
+
+<p>Aviation could average over enormous flight hours.</p>
+
+<p>A hospital corridor does not average the same way.</p>
+
+<h3 id="the-procedural-answer">The procedural answer</h3>
+
+<p>The procedural answer presumes that the next increment of safety can at least be argued about: what measure is available, what risk reduction it buys, and whether the sacrifice is grossly disproportionate to the benefit.</p>
+
+<p>For learned systems, even that can be unstable.</p>
+
+<p>Is the next increment of safety more data?<br />
+A different architecture?<br />
+A restricted operating envelope?<br />
+A lower speed limit?<br />
+A human in the loop?<br />
+A better map?<br />
+A runtime monitor?<br />
+A different sensor suite?<br />
+A narrower deployment site?</p>
+
+<p>The options are not enumerable in advance. The marginal cost of risk reduction is often unknown until after the engineering work begins. That makes &ldquo;reasonably practicable&rdquo; a moving target.</p>
+
+<p>And underneath all three answers sits the deepest bend.</p>
+
+<p>A learned controller&rsquo;s risk number is conditional.</p>
+
+<p>The honest object is not α.</p>
+
+<p>It is:</p>
+
+<blockquote>
+  <p>α&nbsp;|&nbsp;A</p>
+</blockquote>
+
+<p>A risk threshold conditional on an assumption set.</p>
+
+<p><em>A</em> is not fine print. It is part of the claim.</p>
+
+<p>The honest statement is never simply:</p>
+
+<blockquote>
+  <p>10⁻⁷ per hour.</p>
+</blockquote>
+
+<p>It is:</p>
+
+<blockquote>
+  <p>10⁻⁷ per hour, under assumptions A.</p>
+</blockquote>
+
+<p>Lighting within tested bounds.<br />
+Human traffic within the training distribution.<br />
+The map current.<br />
+Network latency within the validated range.<br />
+No unmodeled obstruction in the designated path.<br />
+No adversarial interference.<br />
+No post-deployment update that changes the controller&rsquo;s behavior outside the evidence base.</p>
+
+<p>Signing α without signing A is signing nothing.</p>
+
+<p>So the question doubles.</p>
+
+<p>Who signs the number?<br />
+Who signs the assumptions?<br />
+And who is watching A on the Tuesday after the renovation, when the assumption set has quietly stopped being true?</p>
+
+<p>A signable safety claim therefore needs more than a threshold. It needs a threshold, an assumption set, and a monitoring plan for detecting when those assumptions have stopped being true.</p>
+
+<h2 id="the-circle-of-deferral">The circle of deferral</h2>
+
+<p>Now watch the actors handle the blank.</p>
+
+<p>The <strong>operator</strong> asks the vendor: just tell me it is safe. A yes-or-no question about a conditional distribution.</p>
+
+<p>The <strong>vendor</strong> asks for a spec: give us the number and we will meet it. This is rational, not evasive. Authoring the number is authoring liability.</p>
+
+<p>The <strong>regulator</strong> writes process, not numbers. A number creates exposure in both directions: too strict and it may stall an industry; too loose and it may be blamed after the next accident. Process requirements are more survivable than constants.</p>
+
+<p>The <strong>certifier</strong> audits what the standard specifies. Where the standard contains no number, it audits process. &ldquo;You followed your procedure&rdquo; may be true, useful, and still incomplete.</p>
+
+<p>The <strong>insurer</strong> is the actor structurally forced to produce a number, because the premium is one. With little actuarial history, it prices conservatively, or declines to price at all. In practice, that price can quietly become one of the industry&rsquo;s working thresholds.</p>
+
+<p>The <strong>court</strong> chooses last, after the accident, with the outcome visible and the counterfactual invisible — an epistemically difficult seat, and often the one holding the final signature.</p>
+
+<p>Trace the circle.</p>
+
+<p>Everyone touches the threshold.</p>
+
+<p>No one signs it.</p>
+
+<figure>
+  <img src="{{ site.baseurl }}/images/alpha-deferral-circle.svg" alt="Six actors — operator, vendor, regulator, certifier, insurer, and court — arranged in a circle around the safety threshold α, each deferring the choice to the next." />
+  <figcaption>Everyone touches the threshold. No one signs it.</figcaption>
+</figure>
+
+<p>And when the circle completes without a signature:</p>
+
+<blockquote>
+  <p>If no one chooses α, the accident chooses it.</p>
+</blockquote>
+
+<p>That is not a moral judgment about any single actor. It is a system failure.</p>
+
+<p>When the threshold is not owned before deployment, it is often reconstructed after an incident, under grief, scrutiny, and litigation.</p>
+
+<p>An accident is a terrible chooser.</p>
+
+<p>It sets the threshold retroactively, one case at a time — and often for an entire industry, not just for the party that failed.</p>
+
+<h2 id="what-alpha-actually-is">What α actually is</h2>
+
+<p>I promised no answer, and I will keep the promise.</p>
+
+<p>What I can offer is a decomposition, because much of the dysfunction above comes from treating α as a number.</p>
+
+<p>α is not a number.</p>
+
+<p>It is a five-part sentence:</p>
+
+<blockquote>
+  <p><em>This level of risk — relative to this baseline — under these assumptions — valid until these monitored conditions change — on this party&rsquo;s authority.</em></p>
+</blockquote>
+
+<p>That sentence has five parts.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Part</th>
+      <th>Question</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Number</td>
+      <td>What level of risk is being accepted?</td>
+    </tr>
+    <tr>
+      <td>Baseline</td>
+      <td>Safe compared to what?</td>
+    </tr>
+    <tr>
+      <td>Assumption set</td>
+      <td>Under what conditions does the claim hold?</td>
+    </tr>
+    <tr>
+      <td>Validity window</td>
+      <td>Until what changes?</td>
+    </tr>
+    <tr>
+      <td>Signatory</td>
+      <td>On whose authority?</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Remove any one part and the remaining four become difficult to sign.</p>
+
+<p>Most deployment conversations I have seen negotiate the first part and improvise the other four after the contract is signed, which is another way of saying: after it is too late.</p>
+
+<p>Here is the honest division of labor.</p>
+
+<p>Engineering can make the sentence legible. It can compute the number, expose the assumptions, monitor their decay, quantify uncertainty, and clarify the baseline comparison.</p>
+
+<p>Choosing the sentence is a governance act.</p>
+
+<p>Governance here does not mean bureaucracy. It means deciding which residual risk an organization is willing to own, under what assumptions, and on whose authority.</p>
+
+<p>The recurring mistake runs in both directions: asking engineers to smuggle governance inside the mathematics, or asking boards to sign mathematics they cannot read.</p>
+
+<p>The job of deployment assurance, in the end, is to hand each party a sentence it can actually sign.</p>
+
+<h2 id="where-this-goes">Where this goes</h2>
+
+<p>If the threshold is a five-part sentence, the next question is what a signable version of that sentence looks like in practice.</p>
+
+<p>What has to be in a safety claim for a skeptic with something at stake to accept it?</p>
+
+<p>What assumptions must be stated?</p>
+
+<p>What evidence must be attached?</p>
+
+<p>What monitoring plan keeps the claim alive after deployment?</p>
+
+<p>And what is usually missing?</p>
+
+<p>Risk numbers are easy to produce. Thresholds are hard to own. A defensible safety claim is the document that makes ownership possible.</p>
+
+<p>That is the next post:</p>
+
+<p><strong>The anatomy of a defensible safety claim.</strong></p>
+
+<hr />
+
+<p><em>Views are my own and do not represent my employer or any organization I advise.</em></p>
