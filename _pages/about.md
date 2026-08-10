@@ -13,7 +13,7 @@ I am a Professor of <a href ="https://ece.snu.ac.kr/en" target="_blank">ECE</a> 
 My research focus is on decision-making under uncertainty, optimization for ML, and reinforcement learning, with application to safe  autonomy and physical AI. I am particularly interested in the interplay between learning and decision systems under uncertainty. 
 <br>
 <br>
-I received the 2015 Eli Jury Award and was a finalist for the Best Student Paper Award at the 55th IEEE Conference on Decision and Control (CDC). 
+I received the 2015 Eli Jury Award and was a finalist for the Best Student Paper Award at the 55th IEEE Conference on Decision and Control (CDC).  
 <br>
 <br>  
 I currently serve as an Associate Editor for the IEEE Transactions on Automatic Control and IEEE CSS Conference Editorial Board, and as Vice-Chair of the IFAC Technical Committee on Stochastic Systems.
