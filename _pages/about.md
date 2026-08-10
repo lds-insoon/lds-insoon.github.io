@@ -213,6 +213,22 @@ Insoon Yang,  Min Su Park,  and <a href="http://prema.snu.ac.kr/people/people1.p
 <font size=3> 
 <OL>
 <li> 
+<a href ="https://arxiv.org/pdf/2604.02749" target="_blank"><b>Residual-aware distributionally robust EKF: Absorbing linearization mismatch via Wasserstein ambiguity</b></a> <br>
+Minhyuk Jang, Jungjin Lee, Astghik Hakobyan, Naira Hovakimyan, and Insoon Yang   <br>
+<I>IEEE Conference on Decision and Control (CDC)</I>, 2026.  <br></li>
+
+<li> 
+<a href ="" target="_blank"><b>Zero-shot generalization in LQR via D-optimal successor-feature coverage</b></a> <br>
+Giho Kim, and Insoon Yang   <br>
+<I>IEEE Conference on Decision and Control (CDC)</I>, 2026.  <br></li>
+
+<li> 
+<a href ="" target="_blank"><b>Lookahead-gradient dynamics for Nesterov acceleration in continuous time </b></a> <br>
+Chanwoong Park, Youngchae Cho, and Insoon Yang   <br>
+<I>IEEE Conference on Decision and Control (CDC)</I>, 2026.  <br></li>
+
+  
+<li> 
 <a href ="https://arxiv.org/pdf/2509.21818" target="_blank"><b>Sharpness-aware minimization can hallucinate minimizers</b></a> <br>
 Chanwoong Park, Uijeong Jang, Ernest K. Ryu, and Insoon Yang   <br>
 <I>International Conference on Machine Learning (ICML)</I>, 2026.  <br></li>
