@@ -213,6 +213,16 @@ Insoon Yang,  Min Su Park,  and <a href="http://prema.snu.ac.kr/people/people1.p
 <font size=3> 
 <OL>
 <li> 
+<a href ="" target="_blank"><b>Distributionally robust domain randomization with learned risk-sensitive dynamics samplers</b></a> <br>
+Sukchul Jeong, and Insoon Yang   <br>
+<I>Advances in Neural Information Processing Systems (NeurIPS)</I>, 2026. <strong>(Spotlight)</strong><br></li>
+  
+<li> 
+<a href ="" target="_blank"><b>AdaptFlow: State-achored modulation with flow matching for offline goal-conditioned RL</b></a> <br>
+Jaesuk Joo, and Insoon Yang   <br>
+<I>Advances in Neural Information Processing Systems (NeurIPS)</I>, 2026.  <br></li>
+  
+<li> 
 <a href ="https://arxiv.org/pdf/2604.02749" target="_blank"><b>Residual-aware distributionally robust EKF: Absorbing linearization mismatch via Wasserstein ambiguity</b></a> <br>
 Minhyuk Jang, Jungjin Lee, Astghik Hakobyan, Naira Hovakimyan, and Insoon Yang   <br>
 <I>IEEE Conference on Decision and Control (CDC)</I>, 2026.  <br></li>
