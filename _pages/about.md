@@ -239,7 +239,7 @@ Chanwoong Park, Youngchae Cho, and Insoon Yang   <br>
 
   
 <li> 
-<a href ="https://arxiv.org/pdf/2509.21818" target="_blank"><b>Sharpness-aware minimization can hallucinate minimizers</b></a> <br>
+<a href ="https://proceedings.mlr.press/v306/park26e.html" target="_blank"><b>Sharpness-aware minimization can hallucinate minimizers</b></a> <br>
 Chanwoong Park, Uijeong Jang, Ernest K. Ryu, and Insoon Yang   <br>
 <I>International Conference on Machine Learning (ICML)</I>, 2026.  <br></li>
   
