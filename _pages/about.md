@@ -244,7 +244,7 @@ Chanwoong Park, Uijeong Jang, Ernest K. Ryu, and Insoon Yang   <br>
 <I>International Conference on Machine Learning (ICML)</I>, 2026.  <br></li>
   
 <li> 
-<a href ="https://arxiv.org/pdf/2509.15513" target="_blank"><b>KoopCast: Trajectory forecasting via Koopman operators</b></a> <br>
+<a href ="https://ieeexplore.ieee.org/abstract/document/11695800" target="_blank"><b>KoopCast: Trajectory forecasting via Koopman operators</b></a> <br>
 Jungjin Lee, Jaeuk Shin, Gihwan Kim, Joonho Han, and Insoon Yang   <br>
 <I>IEEE International Conference on Robotics and Automation (ICRA)</I>, 2026.  <br></li>
 
