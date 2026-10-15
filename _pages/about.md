@@ -190,7 +190,7 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
 <li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
   <a href="https://proceedings.mlr.press/v202/kim23y.html" target="_blank"><b>Unifying Nesterov's accelerated gradient methods for convex and strongly convex objective functions</b></a><br>
   Jungbin Kim, and Insoon Yang<br>
-  <i>International Conference on Machine Learning (ICML)</i>, 2023. <strong>(Oral, top 2%)</strong>
+  <i>International Conference on Machine Learning (ICML)</i>, 2023. <strong>(Oral)</strong>
 </div></li>
 
 <li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
