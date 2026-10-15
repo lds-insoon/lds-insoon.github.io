@@ -188,18 +188,6 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
 </div></li>
 
 <li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
-  <a href="https://ieeexplore.ieee.org/document/10383596" target="_blank"><b>Data-driven stochastic optimization using upper confidence bounds: Performance guarantees and distributional robustness</b></a><br>
-  Youngchae Cho, and Insoon Yang<br>
-  <i>IEEE Conference on Decision and Control (CDC)</i>, 2023.
-</div></li>
-
-<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
-  <a href="https://ieeexplore.ieee.org/document/10384233" target="_blank"><b>On concentration bounds for Bayesian identification of linear non-Gaussian systems</b></a><br>
-  Yeoneung Kim, Gihun Kim, and Insoon Yang<br>
-  <i>IEEE Conference on Decision and Control (CDC)</i>, 2023.
-</div></li>
-
-<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
   <a href="https://proceedings.mlr.press/v202/kim23y.html" target="_blank"><b>Unifying Nesterov's accelerated gradient methods for convex and strongly convex objective functions</b></a><br>
   Jungbin Kim, and Insoon Yang<br>
   <i>International Conference on Machine Learning (ICML)</i>, 2023. <strong>(Oral, top 2%)</strong>
@@ -211,10 +199,16 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
   <i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2023.
 </div></li>
 
-<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
-  <a href="https://ieeexplore.ieee.org/document/10153787" target="_blank"><b>Distributionally robust differential dynamic programming with Wasserstein distance</b></a><br>
-  Astghik Hakobyan, and Insoon Yang<br>
-  <i>IEEE Control Systems Letters</i>, 7:2329-2334, 2023. (Selected for presentation at CDC 23)
+<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
+  <a href="https://ieeexplore.ieee.org/document/10383596" target="_blank"><b>Data-driven stochastic optimization using upper confidence bounds: Performance guarantees and distributional robustness</b></a><br>
+  Youngchae Cho, and Insoon Yang<br>
+  <i>IEEE Conference on Decision and Control (CDC)</i>, 2023.
+</div></li>
+
+<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
+  <a href="https://ieeexplore.ieee.org/document/10384233" target="_blank"><b>On concentration bounds for Bayesian identification of linear non-Gaussian systems</b></a><br>
+  Yeoneung Kim, Gihun Kim, and Insoon Yang<br>
+  <i>IEEE Conference on Decision and Control (CDC)</i>, 2023.
 </div></li>
 
 <li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
@@ -235,6 +229,12 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
   <i>IEEE Transactions on Robotics</i>, 39(1):718-737, 2023.
 </div></li>
 
+<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
+  <a href="https://ieeexplore.ieee.org/document/10153787" target="_blank"><b>Distributionally robust differential dynamic programming with Wasserstein distance</b></a><br>
+  Astghik Hakobyan, and Insoon Yang<br>
+  <i>IEEE Control Systems Letters</i>, 7:2329-2334, 2023. (Selected for presentation at CDC 23)
+</div></li>
+
 </ul>
 </div>
 
@@ -245,6 +245,12 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
   <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/078fa8f77ce55ef6e9cf79275b88acb0-Abstract-Conference.html" target="_blank"><b>Improved regret analysis for variance-adaptive linear bandits and horizon-free linear mixture MDPs</b></a><br>
   Yeoneung Kim, Insoon Yang, and Kwang-Sung Jun<br>
   <i>Advances in Neural Information Processing Systems (NeurIPS)</i>, 2022.
+</div></li>
+
+<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
+  <a href="https://proceedings.mlr.press/v162/kim22k.html" target="_blank"><b>Accelerated gradient methods for geodesically convex optimization: Tractable algorithms and convergence analysis</b></a><br>
+  Jungbin Kim, and Insoon Yang<br>
+  <i>International Conference on Machine Learning (ICML)</i>, 2022.
 </div></li>
 
 <li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
@@ -259,17 +265,19 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
   <i>IEEE Conference on Decision and Control (CDC)</i>, 2022.
 </div></li>
 
-<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
-  <a href="https://proceedings.mlr.press/v162/kim22k.html" target="_blank"><b>Accelerated gradient methods for geodesically convex optimization: Tractable algorithms and convergence analysis</b></a><br>
-  Jungbin Kim, and Insoon Yang<br>
-  <i>International Conference on Machine Learning (ICML)</i>, 2022.
-</div></li>
 
 <li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
   <a href="https://ieeexplore.ieee.org/document/9627809" target="_blank"><b>Risk-sensitive safety analysis using conditional value-at-risk</b></a><br>
   <a href="https://www.control.utoronto.ca/~mchapman/" target="_blank">Margaret P. Chapman</a>, <a href="https://rbonalli.github.io/" target="_blank">Riccardo Bonalli</a>, Kevin M. Smith, Insoon Yang, <a href="https://web.stanford.edu/~pavone/" target="_blank">Marco Pavone</a>, and <a href="http://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a><br>
   <i>IEEE Transactions on Automatic Control</i>, 67(12):6521-6536, 2022.
 </div></li>
+
+<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
+  <a href="https://ieeexplore.ieee.org/abstract/document/9547384" target="_blank"><b>Wasserstein distributionally robust motion control for collision avoidance using conditional value-at-risk</b></a><br>
+  Astghik Hakobyan, and Insoon Yang<br>
+  <i>IEEE Transactions on Robotics</i>, 38(2):939-957, 2022.
+</div></li>
+
 
 <li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
   <a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cth2.12329" target="_blank"><b>On representation formulas for optimal control: A Lagrangian perspective</b></a><br>
@@ -283,11 +291,6 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
   <i>IEEE Robotics and Automation Letters</i>, 7(2):10065-10072, 2022. (Selected for presentation at IROS 22)
 </div></li>
 
-<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
-  <a href="https://ieeexplore.ieee.org/abstract/document/9547384" target="_blank"><b>Wasserstein distributionally robust motion control for collision avoidance using conditional value-at-risk</b></a><br>
-  Astghik Hakobyan, and Insoon Yang<br>
-  <i>IEEE Transactions on Robotics</i>, 38(2):939-957, 2022.
-</div></li>
 
 <li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
   <a href="https://www.worldscientific.com/doi/10.1142/S0218202522500130" target="_blank"><b>Stochastic consensus dynamics for nonconvex optimization on the Stiefel manifold: Mean-field limit and convergence</b></a><br>
