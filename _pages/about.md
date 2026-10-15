@@ -43,18 +43,6 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
 <div class="pub-year" id="pub-2026">
 <h3 class="pub-year-h">2026</h3>
 <ul class="pubs">
-<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
-  <a href="https://ieeexplore.ieee.org/abstract/document/11601080" target="_blank"><b>CANVAS: Competency-aware navigation assessment suite for pedestrian trajectory forecasting</b></a><br>
-  Jaeuk Shin, Joon Ho Han, Gihwan Kim, Jungjin Lee, and Insoon Yang<br>
-  <i>IEEE Open Journal of Control Systems</i>, 5:378-393, 2026.
-</div></li>
-
-<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
-  <a href="https://lds-insoon.github.io/files/IJCAS26.pdf" target="_blank"><b>Physics-informed causal reasoning in physical AI: A review on modeling non-stationary environments for safety-critical control</b></a><br>
-  Sung Kwon On, Sukchul Jeong, Jungjin Lee, and Insoon Yang<br>
-  <i>International Journal of Control, Automation, and Systems (IJCAS)</i>, 24:726-752, 2026. <a href="https://lds-insoon.github.io/files/IJCAS26.pdf" target="_blank"><b>[PDF]</b></a>
-</div></li>
-
 <li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
   <b>Distributionally robust domain randomization with learned risk-sensitive dynamics samplers</b><br>
   Sukchul Jeong, and Insoon Yang<br>
@@ -97,6 +85,18 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
   <i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2026.
 </div></li>
 
+<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
+  <a href="https://ieeexplore.ieee.org/abstract/document/11601080" target="_blank"><b>CANVAS: Competency-aware navigation assessment suite for pedestrian trajectory forecasting</b></a><br>
+  Jaeuk Shin, Joon Ho Han, Gihwan Kim, Jungjin Lee, and Insoon Yang<br>
+  <i>IEEE Open Journal of Control Systems</i>, 5:378-393, 2026.
+</div></li>
+
+<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
+  <a href="https://lds-insoon.github.io/files/IJCAS26.pdf" target="_blank"><b>Physics-informed causal reasoning in physical AI: A review on modeling non-stationary environments for safety-critical control</b></a><br>
+  Sung Kwon On, Sukchul Jeong, Jungjin Lee, and Insoon Yang<br>
+  <i>International Journal of Control, Automation, and Systems (IJCAS)</i>, 24:726-752, 2026. <a href="https://lds-insoon.github.io/files/IJCAS26.pdf" target="_blank"><b>[PDF]</b></a>
+</div></li>
+
 </ul>
 </div>
 
@@ -133,6 +133,12 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
 <div class="pub-year" id="pub-2024">
 <h3 class="pub-year-h">2024</h3>
 <ul class="pubs">
+<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
+  <a href="https://proceedings.mlr.press/v242/shin24a.html" target="_blank"><b>On task-relevant loss functions in meta-reinforcement learning</b></a><br>
+  Jaeuk Shin, Giho Kim, Howon Lee, Joonho Han, and Insoon Yang<br>
+  <i>Learning for Dynamics and Control (L4DC)</i>, 2024.
+</div></li>
+
 <li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
   <a href="https://ieeexplore.ieee.org/document/10509008" target="_blank"><b>Wasserstein distributionally robust control of partially observable linear stochastic systems</b></a><br>
   Astghik Hakobyan, and Insoon Yang<br>
@@ -169,42 +175,12 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
   <i>Automatica</i>, 163:111557, 2024.
 </div></li>
 
-<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
-  <a href="https://proceedings.mlr.press/v242/shin24a.html" target="_blank"><b>On task-relevant loss functions in meta-reinforcement learning</b></a><br>
-  Jaeuk Shin, Giho Kim, Howon Lee, Joonho Han, and Insoon Yang<br>
-  <i>Learning for Dynamics and Control (L4DC)</i>, 2024.
-</div></li>
-
 </ul>
 </div>
 
 <div class="pub-year" id="pub-2023">
 <h3 class="pub-year-h">2023</h3>
 <ul class="pubs">
-<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
-  <a href="https://ieeexplore.ieee.org/document/10153787" target="_blank"><b>Distributionally robust differential dynamic programming with Wasserstein distance</b></a><br>
-  Astghik Hakobyan, and Insoon Yang<br>
-  <i>IEEE Control Systems Letters</i>, 7:2329-2334, 2023. (Selected for presentation at CDC 23)
-</div></li>
-
-<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
-  <a href="https://ieeexplore.ieee.org/document/9760123" target="_blank"><b>Maximum entropy optimal control of continuous-time dynamical systems</b></a><br>
-  Jeongho Kim, and Insoon Yang<br>
-  <i>IEEE Transactions on Automatic Control</i>, 68(4):2018-2033, 2023.
-</div></li>
-
-<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
-  <a href="https://epubs.siam.org/doi/10.1137/22M1494105" target="_blank"><b>Distributional robustness in minimax linear quadratic control with Wasserstein distance</b></a><br>
-  Kihyun Kim, and Insoon Yang<br>
-  <i>SIAM Journal on Control and Optimization</i>, 61(2):458-483, 2023.
-</div></li>
-
-<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
-  <a href="https://ieeexplore.ieee.org/document/9888786" target="_blank"><b>Distributionally robust risk map for learning-based motion planning and control: A semidefinite programming approach</b></a><br>
-  Astghik Hakobyan, and Insoon Yang<br>
-  <i>IEEE Transactions on Robotics</i>, 39(1):718-737, 2023.
-</div></li>
-
 <li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
   <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/c70741145c2c4f1d0c2e91b98729a49a-Abstract-Conference.html" target="_blank"><b>Convergence analysis of ODE models for accelerated first-order methods via positive semidefinite kernels</b></a><br>
   Jungbin Kim, and Insoon Yang<br>
@@ -235,12 +211,60 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
   <i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2023.
 </div></li>
 
+<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
+  <a href="https://ieeexplore.ieee.org/document/10153787" target="_blank"><b>Distributionally robust differential dynamic programming with Wasserstein distance</b></a><br>
+  Astghik Hakobyan, and Insoon Yang<br>
+  <i>IEEE Control Systems Letters</i>, 7:2329-2334, 2023. (Selected for presentation at CDC 23)
+</div></li>
+
+<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
+  <a href="https://ieeexplore.ieee.org/document/9760123" target="_blank"><b>Maximum entropy optimal control of continuous-time dynamical systems</b></a><br>
+  Jeongho Kim, and Insoon Yang<br>
+  <i>IEEE Transactions on Automatic Control</i>, 68(4):2018-2033, 2023.
+</div></li>
+
+<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
+  <a href="https://epubs.siam.org/doi/10.1137/22M1494105" target="_blank"><b>Distributional robustness in minimax linear quadratic control with Wasserstein distance</b></a><br>
+  Kihyun Kim, and Insoon Yang<br>
+  <i>SIAM Journal on Control and Optimization</i>, 61(2):458-483, 2023.
+</div></li>
+
+<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
+  <a href="https://ieeexplore.ieee.org/document/9888786" target="_blank"><b>Distributionally robust risk map for learning-based motion planning and control: A semidefinite programming approach</b></a><br>
+  Astghik Hakobyan, and Insoon Yang<br>
+  <i>IEEE Transactions on Robotics</i>, 39(1):718-737, 2023.
+</div></li>
+
 </ul>
 </div>
 
 <div class="pub-year" id="pub-2022">
 <h3 class="pub-year-h">2022</h3>
 <ul class="pubs">
+<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
+  <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/078fa8f77ce55ef6e9cf79275b88acb0-Abstract-Conference.html" target="_blank"><b>Improved regret analysis for variance-adaptive linear bandits and horizon-free linear mixture MDPs</b></a><br>
+  Yeoneung Kim, Insoon Yang, and Kwang-Sung Jun<br>
+  <i>Advances in Neural Information Processing Systems (NeurIPS)</i>, 2022.
+</div></li>
+
+<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
+  <a href="https://ieeexplore.ieee.org/abstract/document/9992738" target="_blank"><b>Wasserstein distributionally robust control of partially observable linear systems: Tractable approximation and performance guarantee</b></a><br>
+  Astghik Hakobyan, and Insoon Yang<br>
+  <i>IEEE Conference on Decision and Control (CDC)</i>, 2022.
+</div></li>
+
+<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
+  <a href="https://ieeexplore.ieee.org/abstract/document/9992574" target="_blank"><b>On affine policies for Wasserstein distributionally robust unit commitment</b></a><br>
+  Youngchae Cho, and Insoon Yang<br>
+  <i>IEEE Conference on Decision and Control (CDC)</i>, 2022.
+</div></li>
+
+<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
+  <a href="https://proceedings.mlr.press/v162/kim22k.html" target="_blank"><b>Accelerated gradient methods for geodesically convex optimization: Tractable algorithms and convergence analysis</b></a><br>
+  Jungbin Kim, and Insoon Yang<br>
+  <i>International Conference on Machine Learning (ICML)</i>, 2022.
+</div></li>
+
 <li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
   <a href="https://ieeexplore.ieee.org/document/9627809" target="_blank"><b>Risk-sensitive safety analysis using conditional value-at-risk</b></a><br>
   <a href="https://www.control.utoronto.ca/~mchapman/" target="_blank">Margaret P. Chapman</a>, <a href="https://rbonalli.github.io/" target="_blank">Riccardo Bonalli</a>, Kevin M. Smith, Insoon Yang, <a href="https://web.stanford.edu/~pavone/" target="_blank">Marco Pavone</a>, and <a href="http://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a><br>
@@ -271,36 +295,24 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
   <i>Mathematical Models and Methods in Applied Sciences (M3AS)</i>, 32(3):533-617, 2022.
 </div></li>
 
-<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
-  <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/078fa8f77ce55ef6e9cf79275b88acb0-Abstract-Conference.html" target="_blank"><b>Improved regret analysis for variance-adaptive linear bandits and horizon-free linear mixture MDPs</b></a><br>
-  Yeoneung Kim, Insoon Yang, and Kwang-Sung Jun<br>
-  <i>Advances in Neural Information Processing Systems (NeurIPS)</i>, 2022.
-</div></li>
-
-<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
-  <a href="https://ieeexplore.ieee.org/abstract/document/9992738" target="_blank"><b>Wasserstein distributionally robust control of partially observable linear systems: Tractable approximation and performance guarantee</b></a><br>
-  Astghik Hakobyan, and Insoon Yang<br>
-  <i>IEEE Conference on Decision and Control (CDC)</i>, 2022.
-</div></li>
-
-<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
-  <a href="https://ieeexplore.ieee.org/abstract/document/9992574" target="_blank"><b>On affine policies for Wasserstein distributionally robust unit commitment</b></a><br>
-  Youngchae Cho, and Insoon Yang<br>
-  <i>IEEE Conference on Decision and Control (CDC)</i>, 2022.
-</div></li>
-
-<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
-  <a href="https://proceedings.mlr.press/v162/kim22k.html" target="_blank"><b>Accelerated gradient methods for geodesically convex optimization: Tractable algorithms and convergence analysis</b></a><br>
-  Jungbin Kim, and Insoon Yang<br>
-  <i>International Conference on Machine Learning (ICML)</i>, 2022.
-</div></li>
-
 </ul>
 </div>
 
 <div class="pub-year" id="pub-2021">
 <h3 class="pub-year-h">2021</h3>
 <ul class="pubs">
+<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
+  <a href="https://ieeexplore.ieee.org/abstract/document/9683383" target="_blank"><b>On Anderson acceleration for partially observable Markov decision processes</b></a><br>
+  Melike Ermis, Mingyu Park, and Insoon Yang<br>
+  <i>IEEE Conference on Decision and Control (CDC)</i>, 2021.
+</div></li>
+
+<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
+  <a href="https://ieeexplore.ieee.org/abstract/document/9682981" target="_blank"><b>Toward improving the distributional robustness of risk-aware controllers in learning-enabled environments</b></a><br>
+  Astghik Hakobyan, and Insoon Yang<br>
+  <i>IEEE Conference on Decision and Control (CDC)</i>, 2021.
+</div></li>
+
 <li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
   <a href="https://www.jmlr.org/papers/v22/20-1235.html" target="_blank"><b>Hamilton-Jacobi deep Q-learning for deterministic continuous-time systems with Lipschitz continuous controls</b></a><br>
   Jeongho Kim, Jaeuk Shin, and Insoon Yang<br>
@@ -319,36 +331,12 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
   <i>International Journal of Precision Engineering and Manufacturing</i>, 22:201-215, 2021.
 </div></li>
 
-<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
-  <a href="https://ieeexplore.ieee.org/abstract/document/9683383" target="_blank"><b>On Anderson acceleration for partially observable Markov decision processes</b></a><br>
-  Melike Ermis, Mingyu Park, and Insoon Yang<br>
-  <i>IEEE Conference on Decision and Control (CDC)</i>, 2021.
-</div></li>
-
-<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
-  <a href="https://ieeexplore.ieee.org/abstract/document/9682981" target="_blank"><b>Toward improving the distributional robustness of risk-aware controllers in learning-enabled environments</b></a><br>
-  Astghik Hakobyan, and Insoon Yang<br>
-  <i>IEEE Conference on Decision and Control (CDC)</i>, 2021.
-</div></li>
-
 </ul>
 </div>
 
 <div class="pub-year" id="pub-2020">
 <h3 class="pub-year-h">2020</h3>
 <ul class="pubs">
-<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
-  <a href="https://link.springer.com/article/10.1007/s10957-020-01747-1" target="_blank"><b>A convex optimization approach to dynamic programming in continuous state and action spaces</b></a><br>
-  Insoon Yang<br>
-  <i>Journal of Optimization Theory and Applications (JOTA)</i>, 187:133-157, 2020.
-</div></li>
-
-<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
-  <a href="https://ieeexplore.ieee.org/document/8970355/" target="_blank"><b>Multi-objective predictive taxi dispatch via network flow optimization</b></a><br>
-  Beomjun Kim, Jeongho Kim, Subin Huh, Seungil You, and Insoon Yang<br>
-  <i>IEEE Access</i>, 8:21437-21452, 2020.
-</div></li>
-
 <li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
   <a href="https://ieeexplore.ieee.org/abstract/document/9304488" target="_blank"><b>Minimax control of ambiguous linear stochastic systems using the Wasserstein metric</b></a><br>
   Kihyun Kim, and Insoon Yang<br>
@@ -385,12 +373,36 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
   <i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2020.
 </div></li>
 
+<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
+  <a href="https://link.springer.com/article/10.1007/s10957-020-01747-1" target="_blank"><b>A convex optimization approach to dynamic programming in continuous state and action spaces</b></a><br>
+  Insoon Yang<br>
+  <i>Journal of Optimization Theory and Applications (JOTA)</i>, 187:133-157, 2020.
+</div></li>
+
+<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
+  <a href="https://ieeexplore.ieee.org/document/8970355/" target="_blank"><b>Multi-objective predictive taxi dispatch via network flow optimization</b></a><br>
+  Beomjun Kim, Jeongho Kim, Subin Huh, Seungil You, and Insoon Yang<br>
+  <i>IEEE Access</i>, 8:21437-21452, 2020.
+</div></li>
+
 </ul>
 </div>
 
 <div class="pub-year" id="pub-2019">
 <h3 class="pub-year-h">2019</h3>
 <ul class="pubs">
+<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
+  <a href="https://ieeexplore.ieee.org/document/9028854" target="_blank"><b>Stochastic subgradient methods for dynamic programming in continuous state and action spaces</b></a><br>
+  Sunho Jang, and Insoon Yang<br>
+  <i>IEEE Conference on Decision and Control (CDC)</i>, 2019.
+</div></li>
+
+<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
+  <a href="https://ieeexplore.ieee.org/document/9028930" target="_blank"><b>On improving the robustness of reinforcement learning-based controllers using disturbance observer</b></a><br>
+  Jeong Woo Kim, <a href="http://hshim.wordpress.com" target="_blank">Hyungbo Shim</a>, and Insoon Yang<br>
+  <i>IEEE Conference on Decision and Control (CDC)</i>, 2019.
+</div></li>
+
 <li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
   <a href="https://ieeexplore.ieee.org/document/8767973" target="_blank"><b>Risk-aware motion planning and control using CVaR-constrained optimization</b></a><br>
   Astghik Hakobyan, Gyeong Chan Kim, and Insoon Yang<br>
@@ -409,24 +421,18 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
   <i>IEEE Transactions on Automatic Control</i>, 64(8):3268-3283, 2019. <strong>(Conference version selected as Best Student Paper Award finalist at CDC 16)</strong>
 </div></li>
 
-<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
-  <a href="https://ieeexplore.ieee.org/document/9028854" target="_blank"><b>Stochastic subgradient methods for dynamic programming in continuous state and action spaces</b></a><br>
-  Sunho Jang, and Insoon Yang<br>
-  <i>IEEE Conference on Decision and Control (CDC)</i>, 2019.
-</div></li>
-
-<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
-  <a href="https://ieeexplore.ieee.org/document/9028930" target="_blank"><b>On improving the robustness of reinforcement learning-based controllers using disturbance observer</b></a><br>
-  Jeong Woo Kim, <a href="http://hshim.wordpress.com" target="_blank">Hyungbo Shim</a>, and Insoon Yang<br>
-  <i>IEEE Conference on Decision and Control (CDC)</i>, 2019.
-</div></li>
-
 </ul>
 </div>
 
 <div class="pub-year" id="pub-2018">
 <h3 class="pub-year-h">2018</h3>
 <ul class="pubs">
+<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
+  <a href="https://ieeexplore.ieee.org/document/8430957/" target="_blank"><b>Safety-aware optimal control of stochastic systems using conditional value-at-risk</b></a><br>
+  Samantha Samuelson, and Insoon Yang<br>
+  <i>American Control Conference (ACC)</i>, 2018. (<a href="https://arxiv.org/abs/1802.07903" target="_blank">Extended version</a>)
+</div></li>
+
 <li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
   <a href="https://www.sciencedirect.com/science/article/pii/S0005109818302073" target="_blank"><b>A dynamic game approach to distributionally robust safety specifications for stochastic systems</b></a><br>
   Insoon Yang<br>
@@ -439,36 +445,12 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
   <i>International Journal of Precision Engineering and Manufacturing-Green Technology</i>, 5(4):555-568, 2018. <strong>(IJPEM-GT Most Cited Article Award, 2020)</strong>
 </div></li>
 
-<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
-  <a href="https://ieeexplore.ieee.org/document/8430957/" target="_blank"><b>Safety-aware optimal control of stochastic systems using conditional value-at-risk</b></a><br>
-  Samantha Samuelson, and Insoon Yang<br>
-  <i>American Control Conference (ACC)</i>, 2018. (<a href="https://arxiv.org/abs/1802.07903" target="_blank">Extended version</a>)
-</div></li>
-
 </ul>
 </div>
 
 <div class="pub-year" id="pub-2017">
 <h3 class="pub-year-h">2017</h3>
 <ul class="pubs">
-<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
-  <a href="http://ieeexplore.ieee.org/document/7938642/" target="_blank"><b>A convex optimization approach to distributionally robust Markov decision processes with Wasserstein distance</b></a><br>
-  Insoon Yang<br>
-  <i>IEEE Control Systems Letters</i>, 1(1):164-169, 2017. (Selected for presentation at CDC 17)
-</div></li>
-
-<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
-  <a href="http://epubs.siam.org/doi/abs/10.1137/16M1058492" target="_blank"><b>Optimal control of conditional value-at-risk in continuous time</b></a><br>
-  <a href="http://www.christopherwellsmiller.com/" target="_blank">Christopher W. Miller</a>, and Insoon Yang<br>
-  <i>SIAM Journal on Control and Optimization</i>, 55(2):856-884, 2017.
-</div></li>
-
-<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
-  <a href="http://ieeexplore.ieee.org/abstract/document/7542160/" target="_blank"><b>Variance-constrained risk sharing in stochastic systems</b></a><br>
-  Insoon Yang, <a href="https://erg.berkeley.edu/people/callaway-duncan/" target="_blank">Duncan S. Callaway</a>, and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a><br>
-  <i>IEEE Transactions on Automatic Control</i>, 62(4):1865-1879, 2017.
-</div></li>
-
 <li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
   <a href="http://ieeexplore.ieee.org/document/8264292/" target="_blank"><b>Distributionally robust stochastic control with conic confidence sets</b></a><br>
   Insoon Yang<br>
@@ -487,18 +469,30 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
   <i>IFAC World Congress (WC)</i>, 2017.
 </div></li>
 
+<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
+  <a href="http://ieeexplore.ieee.org/document/7938642/" target="_blank"><b>A convex optimization approach to distributionally robust Markov decision processes with Wasserstein distance</b></a><br>
+  Insoon Yang<br>
+  <i>IEEE Control Systems Letters</i>, 1(1):164-169, 2017. (Selected for presentation at CDC 17)
+</div></li>
+
+<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
+  <a href="http://epubs.siam.org/doi/abs/10.1137/16M1058492" target="_blank"><b>Optimal control of conditional value-at-risk in continuous time</b></a><br>
+  <a href="http://www.christopherwellsmiller.com/" target="_blank">Christopher W. Miller</a>, and Insoon Yang<br>
+  <i>SIAM Journal on Control and Optimization</i>, 55(2):856-884, 2017.
+</div></li>
+
+<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
+  <a href="http://ieeexplore.ieee.org/abstract/document/7542160/" target="_blank"><b>Variance-constrained risk sharing in stochastic systems</b></a><br>
+  Insoon Yang, <a href="https://erg.berkeley.edu/people/callaway-duncan/" target="_blank">Duncan S. Callaway</a>, and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a><br>
+  <i>IEEE Transactions on Automatic Control</i>, 62(4):1865-1879, 2017.
+</div></li>
+
 </ul>
 </div>
 
 <div class="pub-year" id="pub-2016">
 <h3 class="pub-year-h">2016</h3>
 <ul class="pubs">
-<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
-  <a href="http://ieeexplore.ieee.org/document/7345543/" target="_blank"><b>Approximation algorithms for optimization of combinatorial dynamical systems</b></a><br>
-  Insoon Yang, <a href="http://faculty.washington.edu/sburden/" target="_blank">Samuel A. Burden</a>, <a href="https://web.stanford.edu/~ramr/" target="_blank">Ram Rajagopal</a>, <a href="http://robotics.eecs.berkeley.edu/~sastry/" target="_blank">S. Shankar Sastry</a>, and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a><br>
-  <i>IEEE Transactions on Automatic Control</i>, 61(9):2644-2649, 2016.
-</div></li>
-
 <li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
   <a href="http://ieeexplore.ieee.org/abstract/document/7798348/" target="_blank"><b>Submodularity of energy storage placement in power networks</b></a><br>
   <a href="https://www.ocf.berkeley.edu/~jqin/" target="_blank">Junjie Qin</a>, Insoon Yang, and <a href="https://web.stanford.edu/~ramr/" target="_blank">Ram Rajagopal</a><br>
@@ -509,6 +503,12 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
   <a href="http://ieeexplore.ieee.org/abstract/document/7525572/" target="_blank"><b>Reducing electricity price volatility via stochastic storage control</b></a><br>
   Insoon Yang, and <a href="https://asu.mit.edu/" target="_blank">Asuman E. Ozdaglar</a><br>
   <i>American Control Conference (ACC)</i>, 2016.
+</div></li>
+
+<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
+  <a href="http://ieeexplore.ieee.org/document/7345543/" target="_blank"><b>Approximation algorithms for optimization of combinatorial dynamical systems</b></a><br>
+  Insoon Yang, <a href="http://faculty.washington.edu/sburden/" target="_blank">Samuel A. Burden</a>, <a href="https://web.stanford.edu/~ramr/" target="_blank">Ram Rajagopal</a>, <a href="http://robotics.eecs.berkeley.edu/~sastry/" target="_blank">S. Shankar Sastry</a>, and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a><br>
+  <i>IEEE Transactions on Automatic Control</i>, 61(9):2644-2649, 2016.
 </div></li>
 
 </ul>
@@ -529,12 +529,6 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
 <div class="pub-year" id="pub-2014">
 <h3 class="pub-year-h">2014</h3>
 <ul class="pubs">
-<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
-  <a href="http://www.sciencedirect.com/science/article/pii/S0167691114002102" target="_blank"><b>Reaction-diffusion systems in protein networks: Global existence and identification</b></a><br>
-  Insoon Yang, and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a><br>
-  <i>Systems & Control Letters</i>, 74:50-57, 2014.
-</div></li>
-
 <li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
   <a href="http://ieeexplore.ieee.org/document/7040149/?arnumber=7040149" target="_blank"><b>Utility learning model predictive control for personal electric loads</b></a><br>
   Insoon Yang, <a href="http://www.idsc.ethz.ch/the-institute/people/person-detail.html?persid=142737" target="_blank">Melanie N. Zeilinger</a>, and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a><br>
@@ -557,6 +551,12 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
   <a href="http://ieeexplore.ieee.org/document/6859294/" target="_blank"><b>Dynamic contracts with partial observations: Application to indirect load control</b></a><br>
   Insoon Yang, <a href="https://erg.berkeley.edu/people/callaway-duncan/" target="_blank">Duncan S. Callaway</a>, and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a><br>
   <i>American Control Conference (ACC)</i>, 2014.
+</div></li>
+
+<li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
+  <a href="http://www.sciencedirect.com/science/article/pii/S0167691114002102" target="_blank"><b>Reaction-diffusion systems in protein networks: Global existence and identification</b></a><br>
+  Insoon Yang, and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a><br>
+  <i>Systems & Control Letters</i>, 74:50-57, 2014.
 </div></li>
 
 </ul>
