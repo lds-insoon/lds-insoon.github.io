@@ -517,8 +517,8 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
 </ul>
 </div>
 
-<div class="pub-year" id="pub-2015">
-<h3 class="pub-year-h">2015</h3>
+<div class="pub-year" id="pub-2015-and-earlier">
+<h3 class="pub-year-h">2015 and earlier</h3>
 <ul class="pubs">
 <li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
   <a href="http://ieeexplore.ieee.org/document/7171797/?arnumber=7171797" target="_blank"><b>Indirect load control for financial risk management in electricity markets via risk-limiting dynamic contracts</b></a><br>
@@ -526,12 +526,6 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
   <i>American Control Conference (ACC)</i>, 2015.
 </div></li>
 
-</ul>
-</div>
-
-<div class="pub-year" id="pub-2014">
-<h3 class="pub-year-h">2014</h3>
-<ul class="pubs">
 <li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
   <a href="http://ieeexplore.ieee.org/document/7040149/?arnumber=7040149" target="_blank"><b>Utility learning model predictive control for personal electric loads</b></a><br>
   Insoon Yang, <a href="http://www.idsc.ethz.ch/the-institute/people/person-detail.html?persid=142737" target="_blank">Melanie N. Zeilinger</a>, and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a><br>
@@ -562,12 +556,6 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
   <i>Systems & Control Letters</i>, 74:50-57, 2014.
 </div></li>
 
-</ul>
-</div>
-
-<div class="pub-year" id="pub-2013">
-<h3 class="pub-year-h">2013</h3>
-<ul class="pubs">
 <li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
   <a href="http://ieeexplore.ieee.org/document/6760081/" target="_blank"><b>Infinitesimal interconnection variation in nonlinear networked systems</b></a><br>
   Insoon Yang, <a href="http://faculty.washington.edu/sburden/" target="_blank">Samuel A. Burden</a>, <a href="http://robotics.eecs.berkeley.edu/~sastry/" target="_blank">S. Shankar Sastry</a>, and <a href="https://people.eecs.berkeley.edu/~tomlin/" target="_blank">Claire J. Tomlin</a><br>
@@ -592,12 +580,6 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
   <i>ACM International Conference on Hybrid Systems: Computation and Control (HSCC)</i>, 2013.
 </div></li>
 
-</ul>
-</div>
-
-<div class="pub-year" id="pub-2009">
-<h3 class="pub-year-h">2009</h3>
-<ul class="pubs">
 <li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
   <a href="https://link.springer.com/article/10.1007/s12541-009-0020-5" target="_blank"><b>Micro ECM with ultrasonic vibrations using a semi-cylindrical tool</b></a><br>
   Insoon Yang, Min Su Park, and <a href="http://prema.snu.ac.kr/people/people1.php" target="_blank">Chong Nam Chu</a><br>
