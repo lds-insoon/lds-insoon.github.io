@@ -56,6 +56,18 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
 </div></li>
 
 <li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
+  <a href="https://proceedings.mlr.press/v306/park26e.html" target="_blank"><b>Sharpness-aware minimization can hallucinate minimizers</b></a><br>
+  Chanwoong Park, Uijeong Jang, Ernest K. Ryu, and Insoon Yang<br>
+  <i>International Conference on Machine Learning (ICML)</i>, 2026.
+</div></li>
+
+<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
+  <a href="https://ieeexplore.ieee.org/abstract/document/11695800" target="_blank"><b>KoopCast: Trajectory forecasting via Koopman operators</b></a><br>
+  Jungjin Lee, Jaeuk Shin, Gihwan Kim, Joonho Han, and Insoon Yang<br>
+  <i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2026.
+</div></li>
+
+<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
   <a href="https://arxiv.org/pdf/2604.02749" target="_blank"><b>Residual-aware distributionally robust EKF: Absorbing linearization mismatch via Wasserstein ambiguity</b></a><br>
   Minhyuk Jang, Jungjin Lee, Astghik Hakobyan, Naira Hovakimyan, and Insoon Yang<br>
   <i>IEEE Conference on Decision and Control (CDC)</i>, 2026.
@@ -71,18 +83,6 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
   <b>Lookahead-gradient dynamics for Nesterov acceleration in continuous time </b><br>
   Chanwoong Park, Youngchae Cho, and Insoon Yang<br>
   <i>IEEE Conference on Decision and Control (CDC)</i>, 2026.
-</div></li>
-
-<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
-  <a href="https://proceedings.mlr.press/v306/park26e.html" target="_blank"><b>Sharpness-aware minimization can hallucinate minimizers</b></a><br>
-  Chanwoong Park, Uijeong Jang, Ernest K. Ryu, and Insoon Yang<br>
-  <i>International Conference on Machine Learning (ICML)</i>, 2026.
-</div></li>
-
-<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
-  <a href="https://ieeexplore.ieee.org/abstract/document/11695800" target="_blank"><b>KoopCast: Trajectory forecasting via Koopman operators</b></a><br>
-  Jungjin Lee, Jaeuk Shin, Gihwan Kim, Joonho Han, and Insoon Yang<br>
-  <i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2026.
 </div></li>
 
 <li class="pub j"><span class="pub-tag" title="Journal">J</span><div class="pub-body">
@@ -104,6 +104,12 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
 <h3 class="pub-year-h">2025</h3>
 <ul class="pubs">
 <li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
+  <a href="https://proceedings.mlr.press/v283/kim25b.html" target="_blank"><b>Approximate Thompson sampling for learning linear quadratic regulators with O(√T) regret</b></a><br>
+  Yeoneung Kim, Gihun Kim, Jiwhan Park, and Insoon Yang<br>
+  <i>Learning for Dynamics and Control (L4DC)</i>, 2025. <strong>(Oral)</strong>
+</div></li>
+
+<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
   <a href="https://ieeexplore.ieee.org/abstract/document/11312645" target="_blank"><b>Egocentric conformal prediction for safe and efficient navigation in dynamic cluttered environments</b></a><br>
   Jaeuk Shin, Jungjin Lee, and Insoon Yang<br>
   <i>IEEE Conference on Decision and Control (CDC)</i>, 2025.
@@ -119,12 +125,6 @@ Erdös number: 3 (S. Shankar Sastry - Béla Bollobás - Paul Erdös)
   <a href="https://ieeexplore.ieee.org/abstract/document/11312344" target="_blank"><b>Robust continuous-time generation scheduling under power demand uncertainty: An affine decision rule approach</b></a><br>
   Youngchae Cho, Insoon Yang, and Takayuki Ishizaki<br>
   <i>IEEE Conference on Decision and Control (CDC)</i>, 2025.
-</div></li>
-
-<li class="pub c"><span class="pub-tag" title="Conference">C</span><div class="pub-body">
-  <a href="https://proceedings.mlr.press/v283/kim25b.html" target="_blank"><b>Approximate Thompson sampling for learning linear quadratic regulators with O(√T) regret</b></a><br>
-  Yeoneung Kim, Gihun Kim, Jiwhan Park, and Insoon Yang<br>
-  <i>Learning for Dynamics and Control (L4DC)</i>, 2025. <strong>(Oral)</strong>
 </div></li>
 
 </ul>
